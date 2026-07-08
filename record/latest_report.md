@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 62%（分歧 -28%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · WR Corey Rucker — IR（28d前）；· DT Adam Butler — Questionable（186d前）；· DE Maxx Crosby — Questionable（33d前）；· WR Justin Shorter — IR（64d前） ｜ MIA: · WR Caleb Douglas — Questionable（34d前）；· WR Chris Bell — Questionable（23d前）；· RB De'Von Achane — Questionable（12d前）；· T Austin Jackson — Questionable（8d前）
+  - 日級狀態（Sleeper）：LV: · WR Corey Rucker — IR（28d前）；· DT Adam Butler — Questionable（187d前）；· DE Maxx Crosby — Questionable（34d前）；· WR Justin Shorter — IR（65d前） ｜ MIA: · WR Caleb Douglas — Questionable（34d前）；· WR Chris Bell — Questionable（23d前）；· RB De'Von Achane — Questionable（12d前）；· T Austin Jackson — Questionable（8d前）
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable（14d前）；· LB E.J. Speed — Questionable（36d前）；· TE Layne Pryor — Questionable（28d前）；· DL Logan Hall — Questionable（28d前） ｜ DAL: 🚨 QB Dak Prescott — Questionable（6d前）；· DB DaRon Bland — Questionable（21d前）；· LB James Houston — Questionable（21d前）；· DL Donovan Ezeiruaku — Questionable（21d前）
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable（14d前）；· LB E.J. Speed — Questionable（36d前）；· TE Layne Pryor — Questionable（28d前）；· DL Logan Hall — Questionable（29d前） ｜ DAL: 🚨 QB Dak Prescott — Questionable（7d前）；· DB DaRon Bland — Questionable（21d前）；· LB James Houston — Questionable（21d前）；· DL Donovan Ezeiruaku — Questionable（21d前）
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 56%（分歧 -25%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable（44h前）；· DB Mansoor Delane — Questionable（26d前）；· DT Omarr Norman-Lott — Questionable（259d前）；· OL Ethan Driskell — Questionable（314d前） ｜ DEN: 🚨 QB Bo Nix — Questionable（20d前）；· LB Drew Sanders — Questionable（165d前）；· DB Brandon Jones — Questionable（146d前）；· OL Nick Gargiulo — Questionable（322d前）
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable（2d前）；· DB Mansoor Delane — Questionable（27d前）；· DT Omarr Norman-Lott — Questionable（260d前）；· OL Ethan Driskell — Questionable（315d前） ｜ DEN: 🚨 QB Bo Nix — Questionable（20d前）；· LB Drew Sanders — Questionable（166d前）；· DB Brandon Jones — Questionable（146d前）；· OL Nick Gargiulo — Questionable（323d前）
 
 ## 全場次
 
