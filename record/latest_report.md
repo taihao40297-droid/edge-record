@@ -9,10 +9,10 @@
   - 日級狀態（Sleeper）：LV: · WR Corey Rucker — IR (28d ago)；· DB Jermod McCoy — Questionable (27d ago) ｜ MIA: · WR Chris Bell — Questionable (23d ago)；· RB De'Von Achane — Questionable (12d ago)；· T Austin Jackson — Questionable (8d ago)；· OL Jamaree Salyer — Questionable (8d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (14d ago)；· TE Layne Pryor — Questionable (28d ago)；· DL Logan Hall — Questionable (29d ago)；· WR Tank Dell — Questionable (22h ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (7d ago)；· DB DaRon Bland — Questionable (21d ago)；· LB James Houston — Questionable (21d ago)；· DL Donovan Ezeiruaku — Questionable (21d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (14d ago)；· TE Layne Pryor — Questionable (28d ago)；· DL Logan Hall — Questionable (29d ago)；· WR Tank Dell — Questionable (23h ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (7d ago)；· DB DaRon Bland — Questionable (21d ago)；· LB James Houston — Questionable (21d ago)；· DL Donovan Ezeiruaku — Questionable (21d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 56%（分歧 -25%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (2d ago)；· DB Mansoor Delane — Questionable (27d ago)；· OL Trey Smith — Questionable (22d ago)；· WR Rashee Rice — Questionable (22d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (20d ago)；· TE Caleb Lohner — Questionable (29d ago)；· T Matt Peart — Questionable (22d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (2d ago)；· DB Mansoor Delane — Questionable (27d ago)；· OL Trey Smith — Questionable (22d ago)；· WR Rashee Rice — Questionable (22d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (21d ago)；· TE Caleb Lohner — Questionable (29d ago)；· T Matt Peart — Questionable (22d ago)
 
 ## 全場次
 
