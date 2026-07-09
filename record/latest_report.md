@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 62%（分歧 -28%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · WR Corey Rucker — IR (29d ago)；· DB Jermod McCoy — Questionable (28d ago) ｜ MIA: · WR Chris Bell — Questionable (24d ago)；· RB De'Von Achane — Questionable (13d ago)；· T Austin Jackson — Questionable (9d ago)；· OL Jamaree Salyer — Questionable (9d ago)
+  - 日級狀態（Sleeper）：LV: · WR Corey Rucker — IR (29d ago)；· DB Jermod McCoy — Questionable (28d ago) ｜ MIA: · WR Chris Bell — Questionable (4h ago)；· RB De'Von Achane — Questionable (13d ago)；· T Austin Jackson — Questionable (9d ago)；· OL Jamaree Salyer — Questionable (9d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (15d ago)；· TE Layne Pryor — Questionable (29d ago)；· DL Logan Hall — Questionable (30d ago)；· WR Tank Dell — Questionable (46h ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (8d ago)；· DB DaRon Bland — Questionable (22d ago)；· LB James Houston — Questionable (22d ago)；· DL Donovan Ezeiruaku — Questionable (22d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (15d ago)；· TE Layne Pryor — Questionable (29d ago)；· DL Logan Hall — Questionable (30d ago)；· WR Tank Dell — Questionable (2d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (8d ago)；· DB DaRon Bland — Questionable (23d ago)；· LB James Houston — Questionable (23d ago)；· DL Donovan Ezeiruaku — Questionable (23d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 56%（分歧 -25%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (3d ago)；· DB Mansoor Delane — Questionable (28d ago)；· OL Trey Smith — Questionable (23d ago)；· WR Rashee Rice — Questionable (23d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (21d ago)；· T Matt Peart — Questionable (23d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (3d ago)；· DB Mansoor Delane — Questionable (28d ago)；· OL Trey Smith — Questionable (23d ago)；· WR Rashee Rice — Questionable (23d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (22d ago)；· T Matt Peart — Questionable (23d ago)
 
 ## 全場次
 
