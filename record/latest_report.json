@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-08T23:13+00:00",
+ "generated_utc": "2026-07-09T16:23+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -692,7 +692,7 @@
    "model": 0.8170114851214381,
    "market": 0.551441114716549,
    "qb": null,
-   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (7d ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (8d ago). QB uncertainty moves lines faster than anything."
   },
   {
    "away": "Denver Broncos",
@@ -700,7 +700,7 @@
    "model": 0.3082138723601069,
    "market": 0.562043795620438,
    "qb": null,
-   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (2d ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (3d ago). QB uncertainty moves lines faster than anything."
   }
  ]
 }
