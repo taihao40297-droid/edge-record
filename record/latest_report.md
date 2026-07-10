@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-07-09 (UTC)
+# 🏈 NFL Edge Daily — 2026-07-10 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 62%（分歧 -28%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · WR Corey Rucker — IR (29d ago)；· DB Jermod McCoy — Questionable (28d ago) ｜ MIA: · WR Chris Bell — Questionable (4h ago)；· RB De'Von Achane — Questionable (13d ago)；· T Austin Jackson — Questionable (9d ago)；· OL Jamaree Salyer — Questionable (9d ago)
+  - 日級狀態（Sleeper）：LV: · WR Corey Rucker — IR (30d ago)；· DB Jermod McCoy — Questionable (29d ago) ｜ MIA: · WR Chris Bell — Questionable (21h ago)；· RB De'Von Achane — Questionable (14d ago)；· T Austin Jackson — Questionable (10d ago)；· OL Jamaree Salyer — Questionable (10d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (15d ago)；· TE Layne Pryor — Questionable (29d ago)；· DL Logan Hall — Questionable (30d ago)；· WR Tank Dell — Questionable (2d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (8d ago)；· DB DaRon Bland — Questionable (23d ago)；· LB James Houston — Questionable (23d ago)；· DL Donovan Ezeiruaku — Questionable (23d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (16d ago)；· TE Layne Pryor — Questionable (30d ago)；· WR Tank Dell — Questionable (3d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (9d ago)；· DB DaRon Bland — Questionable (23d ago)；· LB James Houston — Questionable (23d ago)；· DL Donovan Ezeiruaku — Questionable (23d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 56%（分歧 -25%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (3d ago)；· DB Mansoor Delane — Questionable (28d ago)；· OL Trey Smith — Questionable (23d ago)；· WR Rashee Rice — Questionable (23d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (22d ago)；· T Matt Peart — Questionable (23d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (4d ago)；· DB Mansoor Delane — Questionable (29d ago)；· OL Trey Smith — Questionable (24d ago)；· WR Rashee Rice — Questionable (2h ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (22d ago)；· T Matt Peart — Questionable (24d ago)
 
 ## 全場次
 
@@ -52,9 +52,10 @@
 | 09/27 | Los Angeles Chargers @ Buffalo Bills | 71% | 56% | **61%** |
 | 09/27 | Carolina Panthers @ Cleveland Browns | 54% | 45% | **48%** |
 | 09/27 | Cincinnati Bengals @ Pittsburgh Steelers | 63% | 49% | **53%** |
+| 09/27 | New York Jets @ Detroit Lions | 87% | 78% | **81%** |
 | 09/27 | Houston Texans @ Indianapolis Colts | 28% | 46% | **40%** |
 | 09/27 | Kansas City Chiefs @ Miami Dolphins | 49% | 26% | **33%** |
-| 09/27 | Tennessee Titans @ New York Giants | 69% | 62% | **64%** |
+| 09/27 | Tennessee Titans @ New York Giants | 69% | 61% | **63%** |
 | 09/27 | Seattle Seahawks @ Washington Commanders | 17% | 36% | **30%** |
 | 09/27 | Arizona Cardinals @ San Francisco 49ers | 84% | 83% | **83%** |
 | 09/27 | Minnesota Vikings @ Tampa Bay Buccaneers | 40% | 53% | **49%** |
@@ -74,7 +75,7 @@
 | 10/04 | Denver Broncos @ San Francisco 49ers | 44% | 57% | **53%** |
 | 10/04 | Kansas City Chiefs @ Las Vegas Raiders | 28% | 32% | **31%** |
 | 10/04 | Los Angeles Chargers @ Seattle Seahawks | 82% | 59% | **66%** |
-| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 41% | **38%** |
+| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 42% | **38%** |
 | 10/06 | Atlanta Falcons @ New Orleans Saints | 49% | 55% | **53%** |
 | 10/09 | Tampa Bay Buccaneers @ Dallas Cowboys | 51% | 64% | **60%** |
 | 10/11 | Philadelphia Eagles @ Jacksonville Jaguars | 58% | 46% | **50%** |
@@ -92,7 +93,6 @@
 | 10/13 | Buffalo Bills @ Los Angeles Rams | 57% | 62% | **61%** |
 | 10/16 | Seattle Seahawks @ Denver Broncos | 42% | 46% | **45%** |
 | 10/18 | Houston Texans @ Jacksonville Jaguars | 48% | 49% | **49%** |
-| 10/18 | Chicago Bears @ Atlanta Falcons | 43% | 40% | **41%** |
 
 ---
 Data: nflverse (CC-BY 4.0) · Odds: The Odds API
