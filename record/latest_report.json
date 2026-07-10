@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-10T16:20+00:00",
+ "generated_utc": "2026-07-10T23:02+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -684,7 +684,7 @@
    "model": 0.3418990459469906,
    "market": 0.6229464045246431,
    "qb": null,
-   "story": "Our model prices Las Vegas Raiders 28 points lower than the market does. Fantasy managers are moving too (WR Malik Washington(MIA) 768 adds/24h), which usually tracks breaking roster news."
+   "story": "Our model prices Las Vegas Raiders 28 points lower than the market does. No injury reports are filed in the offseason, so this gap most likely reflects roster turnover (trades, signings, departures) that ratings haven't seen play out yet."
   },
   {
    "away": "Dallas Cowboys",
