@@ -1,13 +1,13 @@
 {
- "generated_utc": "2026-07-10T23:02+00:00",
+ "generated_utc": "2026-07-11T14:46+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
    "away": "New England Patriots",
    "model": 0.710782960475425,
-   "market": 0.6409007912355448,
-   "blend": 0.6618654420075089,
-   "edge": 0.06988216923988022,
+   "market": 0.6385542168674698,
+   "blend": 0.6602228399498564,
+   "edge": 0.07222874360795517,
    "kickoff": "2026-09-10T00:15:00+00:00"
   },
   {
@@ -104,9 +104,9 @@
    "home": "Minnesota Vikings",
    "away": "Green Bay Packers",
    "model": 0.6156751970221388,
-   "market": 0.4933803831218224,
-   "blend": 0.5300688272919173,
-   "edge": 0.12229481390031638,
+   "market": 0.50325224105819,
+   "blend": 0.5369791278473747,
+   "edge": 0.1124229559639488,
    "kickoff": "2026-09-13T20:25:00+00:00"
   },
   {
@@ -700,7 +700,7 @@
    "model": 0.3082138723601069,
    "market": 0.562043795620438,
    "qb": null,
-   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (4d ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (5d ago). QB uncertainty moves lines faster than anything."
   }
  ]
 }
