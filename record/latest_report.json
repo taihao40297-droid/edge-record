@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-12T14:50+00:00",
+ "generated_utc": "2026-07-12T22:55+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -248,9 +248,9 @@
    "home": "San Francisco 49ers",
    "away": "Miami Dolphins",
    "model": 0.7488055326828661,
-   "market": 0.8223350253807106,
-   "blend": 0.8002761775713572,
-   "edge": -0.07352949269784448,
+   "market": 0.8081570996978852,
+   "blend": 0.7903516295933795,
+   "edge": -0.05935156701501909,
    "kickoff": "2026-09-20T20:25:00+00:00"
   },
   {
@@ -356,9 +356,9 @@
    "home": "San Francisco 49ers",
    "away": "Arizona Cardinals",
    "model": 0.8381288844788521,
-   "market": 0.827123695976155,
-   "blend": 0.8304252525269641,
-   "edge": 0.01100518850269716,
+   "market": 0.817258883248731,
+   "blend": 0.8235198836177673,
+   "edge": 0.02087000123012117,
    "kickoff": "2026-09-27T20:05:00+00:00"
   },
   {
@@ -635,9 +635,9 @@
    "home": "Seattle Seahawks",
    "away": "San Francisco 49ers",
    "model": 0.7748940593493279,
-   "market": 0.6369041816941223,
-   "blend": 0.678301144990684,
-   "edge": 0.13798987765520554,
+   "market": 0.644729178800233,
+   "blend": 0.6837786429649614,
+   "edge": 0.13016488054909492,
    "kickoff": "2026-10-11T20:25:00+00:00"
   },
   {
@@ -692,7 +692,7 @@
    "model": 0.8170114851214381,
    "market": 0.551441114716549,
    "qb": null,
-   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (10d ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (11d ago). QB uncertainty moves lines faster than anything."
   },
   {
    "away": "Denver Broncos",
