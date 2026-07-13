@@ -9,10 +9,10 @@
   - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (2d ago)；· WR Chris Bell — Questionable (4d ago)；· RB De'Von Achane — Questionable (17d ago)；· T Austin Jackson — Questionable (13d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (19d ago)；· WR Tank Dell — Questionable (6d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (12d ago)；· DB DaRon Bland — Questionable (26d ago)；· LB James Houston — Questionable (26d ago)；· DL Donovan Ezeiruaku — Questionable (26d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (19d ago)；· WR Tank Dell — Questionable (6d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (12d ago)；· DB DaRon Bland — Questionable (27d ago)；· LB James Houston — Questionable (27d ago)；· DL Donovan Ezeiruaku — Questionable (27d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 56%（分歧 -25%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (7d ago)；· OL Trey Smith — Questionable (27d ago)；· WR Rashee Rice — Questionable (3d ago)；· WR Xavier Worthy — Questionable (6d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (3h ago)；· T Matt Peart — Questionable (27d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (7d ago)；· OL Trey Smith — Questionable (27d ago)；· WR Rashee Rice — Questionable (3d ago)；· WR Xavier Worthy — Questionable (6d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (9h ago)；· T Matt Peart — Questionable (27d ago)
 
 ## 全場次
 
@@ -80,7 +80,7 @@
 | 10/09 | Tampa Bay Buccaneers @ Dallas Cowboys | 51% | 64% | **60%** |
 | 10/11 | Philadelphia Eagles @ Jacksonville Jaguars | 58% | 46% | **50%** |
 | 10/11 | Cincinnati Bengals @ Miami Dolphins | 51% | 31% | **37%** |
-| 10/11 | Cleveland Browns @ New York Jets | 43% | 56% | **52%** |
+| 10/11 | Cleveland Browns @ New York Jets | 43% | 55% | **51%** |
 | 10/11 | Houston Texans @ Tennessee Titans | 13% | 37% | **30%** |
 | 10/11 | Indianapolis Colts @ Pittsburgh Steelers | 65% | 56% | **59%** |
 | 10/11 | Las Vegas Raiders @ New England Patriots | 91% | 77% | **81%** |
