@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-07-14 (UTC)
+# 🏈 NFL Edge Daily — 2026-07-15 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 62%（分歧 -28%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (3d ago)；· WR Chris Bell — Questionable (5d ago)；· RB De'Von Achane — Questionable (18d ago)；· T Austin Jackson — Questionable (14d ago)
+  - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (4d ago)；· WR Chris Bell — Questionable (6d ago)；· RB De'Von Achane — Questionable (19d ago)；· T Austin Jackson — Questionable (15d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (20d ago)；· WR Tank Dell — Questionable (7d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (13d ago)；· DB DaRon Bland — Questionable (28d ago)；· LB Charles Snowden — Sus (2h ago)；· LB James Houston — Questionable (28d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (21d ago)；· WR Tank Dell — Questionable (8d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (14d ago)；· DB DaRon Bland — Questionable (28d ago)；· LB Charles Snowden — Sus (19h ago)；· LB James Houston — Questionable (28d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 56%（分歧 -25%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (8d ago)；· OL Trey Smith — Questionable (28d ago)；· WR Rashee Rice — Questionable (4d ago)；· WR Xavier Worthy — Questionable (7d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (33h ago)；· T Matt Peart — Questionable (28d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (9d ago)；· OL Trey Smith — Questionable (29d ago)；· WR Rashee Rice — Questionable (5d ago)；· WR Xavier Worthy — Questionable (8d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (2d ago)；· T Matt Peart — Questionable (29d ago)
 
 ## 全場次
 
@@ -56,7 +56,7 @@
 | 09/27 | New York Jets @ Detroit Lions | 87% | 78% | **81%** |
 | 09/27 | Houston Texans @ Indianapolis Colts | 28% | 46% | **40%** |
 | 09/27 | Kansas City Chiefs @ Miami Dolphins | 49% | 26% | **33%** |
-| 09/27 | Tennessee Titans @ New York Giants | 69% | 61% | **63%** |
+| 09/27 | Tennessee Titans @ New York Giants | 69% | 60% | **63%** |
 | 09/27 | Seattle Seahawks @ Washington Commanders | 17% | 36% | **30%** |
 | 09/27 | Arizona Cardinals @ San Francisco 49ers | 84% | 82% | **82%** |
 | 09/27 | Minnesota Vikings @ Tampa Bay Buccaneers | 40% | 53% | **49%** |
