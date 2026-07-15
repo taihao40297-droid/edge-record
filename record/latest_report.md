@@ -9,10 +9,10 @@
   - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (4d ago)；· WR Chris Bell — Questionable (6d ago)；· RB De'Von Achane — Questionable (19d ago)；· T Austin Jackson — Questionable (15d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (21d ago)；· WR Tank Dell — Questionable (8d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (14d ago)；· DB DaRon Bland — Questionable (28d ago)；· LB Charles Snowden — Sus (19h ago)；· LB James Houston — Questionable (28d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (21d ago)；· WR Tank Dell — Questionable (8d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (14d ago)；· DB DaRon Bland — Questionable (29d ago)；· LB Charles Snowden — Sus (26h ago)；· LB James Houston — Questionable (29d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 56%（分歧 -25%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (9d ago)；· OL Trey Smith — Questionable (29d ago)；· WR Rashee Rice — Questionable (5d ago)；· WR Xavier Worthy — Questionable (8d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (2d ago)；· T Matt Peart — Questionable (29d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (3h ago)；· OL Trey Smith — Questionable (29d ago)；· WR Rashee Rice — Questionable (5d ago)；· WR Xavier Worthy — Questionable (5h ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (2d ago)；· T Matt Peart — Questionable (29d ago)
 
 ## 全場次
 
@@ -35,6 +35,7 @@
 | 09/14 | Dallas Cowboys @ New York Giants | 49% | 44% | **45%** |
 | 09/15 | Denver Broncos @ Kansas City Chiefs | 31% | 56% | **49%** |
 | 09/18 | Detroit Lions @ Buffalo Bills | 66% | 59% | **61%** |
+| 09/20 | Carolina Panthers @ Atlanta Falcons | 64% | 52% | **56%** |
 | 09/20 | New Orleans Saints @ Baltimore Ravens | 75% | 77% | **76%** |
 | 09/20 | Minnesota Vikings @ Chicago Bears | 51% | 62% | **58%** |
 | 09/20 | Cincinnati Bengals @ Houston Texans | 79% | 55% | **62%** |
@@ -76,7 +77,7 @@
 | 10/04 | Denver Broncos @ San Francisco 49ers | 44% | 57% | **53%** |
 | 10/04 | Kansas City Chiefs @ Las Vegas Raiders | 28% | 32% | **31%** |
 | 10/04 | Los Angeles Chargers @ Seattle Seahawks | 82% | 59% | **66%** |
-| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 42% | **38%** |
+| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 41% | **38%** |
 | 10/06 | Atlanta Falcons @ New Orleans Saints | 49% | 55% | **53%** |
 | 10/09 | Tampa Bay Buccaneers @ Dallas Cowboys | 51% | 63% | **59%** |
 | 10/11 | Philadelphia Eagles @ Jacksonville Jaguars | 58% | 46% | **50%** |
@@ -92,7 +93,6 @@
 | 10/11 | San Francisco 49ers @ Seattle Seahawks | 77% | 64% | **68%** |
 | 10/12 | Baltimore Ravens @ Atlanta Falcons | 41% | 34% | **36%** |
 | 10/13 | Buffalo Bills @ Los Angeles Rams | 57% | 62% | **61%** |
-| 10/16 | Seattle Seahawks @ Denver Broncos | 42% | 46% | **45%** |
 
 ---
 Data: nflverse (CC-BY 4.0) · Odds: The Odds API

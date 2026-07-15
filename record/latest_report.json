@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-15T15:21+00:00",
+ "generated_utc": "2026-07-15T23:01+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -149,10 +149,19 @@
    "home": "Buffalo Bills",
    "away": "Detroit Lions",
    "model": 0.6606485728389103,
-   "market": 0.593369754159424,
-   "blend": 0.6135533997632698,
-   "edge": 0.06727881867948637,
+   "market": 0.5919624297482485,
+   "blend": 0.6125682726754471,
+   "edge": 0.06868614309066179,
    "kickoff": "2026-09-18T00:15:00+00:00"
+  },
+  {
+   "home": "Atlanta Falcons",
+   "away": "Carolina Panthers",
+   "model": 0.6425543791424846,
+   "market": 0.5217391304347826,
+   "blend": 0.5579837050470932,
+   "edge": 0.120815248707702,
+   "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
    "home": "Baltimore Ravens",
@@ -527,9 +536,9 @@
    "home": "Carolina Panthers",
    "away": "Detroit Lions",
    "model": 0.3094791457956711,
-   "market": 0.4170073589533933,
-   "blend": 0.3847488950060767,
-   "edge": -0.10752821315772221,
+   "market": 0.4066302458405761,
+   "blend": 0.37748491582710464,
+   "edge": -0.09715110004490501,
    "kickoff": "2026-10-05T00:20:00+00:00"
   },
   {
@@ -666,15 +675,6 @@
    "blend": 0.6053588569816287,
    "edge": -0.05702564959848322,
    "kickoff": "2026-10-13T00:15:00+00:00"
-  },
-  {
-   "home": "Denver Broncos",
-   "away": "Seattle Seahawks",
-   "model": 0.4219880192567013,
-   "market": 0.4572564612326044,
-   "blend": 0.44667592863983346,
-   "edge": -0.035268441975903064,
-   "kickoff": "2026-10-16T00:15:00+00:00"
   }
  ],
  "divergence": [
@@ -684,7 +684,7 @@
    "model": 0.3418990459469906,
    "market": 0.6229464045246431,
    "qb": null,
-   "story": "Our model prices Las Vegas Raiders 28 points lower than the market does. Fantasy managers are moving too (WR Jalen Tolbert(MIA) 936 adds/24h), which usually tracks breaking roster news."
+   "story": "Our model prices Las Vegas Raiders 28 points lower than the market does. No injury reports are filed in the offseason, so this gap most likely reflects roster turnover (trades, signings, departures) that ratings haven't seen play out yet."
   },
   {
    "away": "Dallas Cowboys",
@@ -700,7 +700,7 @@
    "model": 0.3082138723601069,
    "market": 0.562043795620438,
    "qb": null,
-   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (9d ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (3h ago). QB uncertainty moves lines faster than anything."
   }
  ]
 }
