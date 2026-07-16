@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-15T23:01+00:00",
+ "generated_utc": "2026-07-16T15:28+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -344,6 +344,15 @@
    "kickoff": "2026-09-27T17:00:00+00:00"
   },
   {
+   "home": "Jacksonville Jaguars",
+   "away": "New England Patriots",
+   "model": 0.5007345452191762,
+   "market": 0.5173641257162701,
+   "blend": 0.5123752515671419,
+   "edge": -0.016629580497093954,
+   "kickoff": "2026-09-27T17:00:00+00:00"
+  },
+  {
    "home": "Miami Dolphins",
    "away": "Kansas City Chiefs",
    "model": 0.4864997926890994,
@@ -416,6 +425,15 @@
    "kickoff": "2026-09-28T00:20:00+00:00"
   },
   {
+   "home": "Chicago Bears",
+   "away": "Philadelphia Eagles",
+   "model": 0.5027525562861517,
+   "market": 0.5173641257162701,
+   "blend": 0.5129806548872347,
+   "edge": -0.014611569430118432,
+   "kickoff": "2026-09-29T00:15:00+00:00"
+  },
+  {
    "home": "Cleveland Browns",
    "away": "Pittsburgh Steelers",
    "model": 0.3700847580208103,
@@ -428,9 +446,9 @@
    "home": "Washington Commanders",
    "away": "Indianapolis Colts",
    "model": 0.5460556565952709,
-   "market": 0.510397604391948,
-   "blend": 0.5210950200529448,
-   "edge": 0.035658052203322854,
+   "market": 0.5043297540699688,
+   "blend": 0.5168475248275595,
+   "edge": 0.04172590252530206,
    "kickoff": "2026-10-04T13:30:00+00:00"
   },
   {
@@ -485,6 +503,15 @@
    "market": 0.551441114716549,
    "blend": 0.6311122258380157,
    "edge": 0.26557037040488907,
+   "kickoff": "2026-10-04T17:00:00+00:00"
+  },
+  {
+   "home": "Tampa Bay Buccaneers",
+   "away": "Green Bay Packers",
+   "model": 0.4554769830515576,
+   "market": 0.4675324675324675,
+   "blend": 0.4639158221881946,
+   "edge": -0.012055484480909928,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
@@ -641,15 +668,6 @@
    "kickoff": "2026-10-11T20:05:00+00:00"
   },
   {
-   "home": "Arizona Cardinals",
-   "away": "Detroit Lions",
-   "model": 0.24097011285280714,
-   "market": 0.24000000000000005,
-   "blend": 0.24029103385584216,
-   "edge": 0.0009701128528070979,
-   "kickoff": "2026-10-11T20:25:00+00:00"
-  },
-  {
    "home": "Seattle Seahawks",
    "away": "San Francisco 49ers",
    "model": 0.7748940593493279,
@@ -657,24 +675,6 @@
    "blend": 0.6837786429649614,
    "edge": 0.13016488054909492,
    "kickoff": "2026-10-11T20:25:00+00:00"
-  },
-  {
-   "home": "Atlanta Falcons",
-   "away": "Baltimore Ravens",
-   "model": 0.4118818053492521,
-   "market": 0.33635187580853815,
-   "blend": 0.35901085467075233,
-   "edge": 0.07552992954071397,
-   "kickoff": "2026-10-12T00:20:00+00:00"
-  },
-  {
-   "home": "Los Angeles Rams",
-   "away": "Buffalo Bills",
-   "model": 0.5654409022626905,
-   "market": 0.6224665518611737,
-   "blend": 0.6053588569816287,
-   "edge": -0.05702564959848322,
-   "kickoff": "2026-10-13T00:15:00+00:00"
   }
  ],
  "divergence": [
@@ -692,7 +692,7 @@
    "model": 0.8170114851214381,
    "market": 0.551441114716549,
    "qb": null,
-   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (14d ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (15d ago). QB uncertainty moves lines faster than anything."
   },
   {
    "away": "Denver Broncos",
@@ -700,7 +700,7 @@
    "model": 0.3082138723601069,
    "market": 0.562043795620438,
    "qb": null,
-   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (3h ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (11h ago). QB uncertainty moves lines faster than anything."
   }
  ]
 }
