@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-16T15:28+00:00",
+ "generated_utc": "2026-07-16T23:02+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -32,9 +32,9 @@
    "home": "Indianapolis Colts",
    "away": "Baltimore Ravens",
    "model": 0.39692659002829167,
-   "market": 0.36448531338590184,
-   "blend": 0.3742176963786188,
-   "edge": 0.03244127664238983,
+   "market": 0.36546943919344677,
+   "blend": 0.37490658444390024,
+   "edge": 0.031457150834844905,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
@@ -167,9 +167,9 @@
    "home": "Baltimore Ravens",
    "away": "New Orleans Saints",
    "model": 0.7511596767795633,
-   "market": 0.7659021045164341,
-   "blend": 0.7614793761953729,
-   "edge": -0.014742427736870845,
+   "market": 0.7571884984025559,
+   "blend": 0.755379851915658,
+   "edge": -0.006028821622992564,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
@@ -700,7 +700,7 @@
    "model": 0.3082138723601069,
    "market": 0.562043795620438,
    "qb": null,
-   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (11h ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Kansas City Chiefs 25 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (7h ago). QB uncertainty moves lines faster than anything."
   }
  ]
 }
