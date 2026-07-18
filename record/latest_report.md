@@ -9,10 +9,10 @@
   - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (7d ago)；· WR Chris Bell — Questionable (9d ago)；· RB De'Von Achane — Questionable (22d ago)；· T Austin Jackson — Questionable (18d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (24d ago)；· WR Tank Dell — Questionable (11d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (16d ago)；· LB Charles Snowden — Sus (4d ago)；· WR Jonathan Mingo — Questionable (25d ago)；· OL Matt Hennessy — IR (30d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (24d ago)；· WR Tank Dell — Questionable (11d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (17d ago)；· LB Charles Snowden — Sus (4d ago)；· WR Jonathan Mingo — Questionable (25d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 57%（分歧 -26%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (47h ago)；· WR Rashee Rice — Questionable (8d ago)；· WR Xavier Worthy — Questionable (3d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (5d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (2d ago)；· WR Rashee Rice — Questionable (8d ago)；· WR Xavier Worthy — Questionable (3d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (5d ago)
 
 ## 全場次
 
@@ -59,7 +59,7 @@
 | 09/27 | New England Patriots @ Jacksonville Jaguars | 50% | 52% | **51%** |
 | 09/27 | Kansas City Chiefs @ Miami Dolphins | 49% | 26% | **33%** |
 | 09/27 | Tennessee Titans @ New York Giants | 69% | 61% | **63%** |
-| 09/27 | Seattle Seahawks @ Washington Commanders | 17% | 36% | **30%** |
+| 09/27 | Seattle Seahawks @ Washington Commanders | 17% | 37% | **31%** |
 | 09/27 | Arizona Cardinals @ San Francisco 49ers | 84% | 82% | **83%** |
 | 09/27 | Minnesota Vikings @ Tampa Bay Buccaneers | 40% | 53% | **49%** |
 | 09/27 | Baltimore Ravens @ Dallas Cowboys | 38% | 45% | **43%** |
