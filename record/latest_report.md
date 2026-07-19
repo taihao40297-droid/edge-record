@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-07-18 (UTC)
+# 🏈 NFL Edge Daily — 2026-07-19 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 62%（分歧 -28%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (7d ago)；· WR Chris Bell — Questionable (9d ago)；· RB De'Von Achane — Questionable (22d ago)；· T Austin Jackson — Questionable (18d ago)
+  - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (8d ago)；· WR Chris Bell — Questionable (10d ago)；· RB De'Von Achane — Questionable (23d ago)；· T Austin Jackson — Questionable (19d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (24d ago)；· WR Tank Dell — Questionable (11d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (17d ago)；· LB Charles Snowden — Sus (4d ago)；· WR Jonathan Mingo — Questionable (25d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (25d ago)；· WR Tank Dell — Questionable (12d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (17d ago)；· LB Charles Snowden — Sus (5d ago)；· WR Jonathan Mingo — Questionable (26d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 57%（分歧 -26%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (2d ago)；· WR Rashee Rice — Questionable (8d ago)；· WR Xavier Worthy — Questionable (3d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (5d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (3d ago)；· WR Rashee Rice — Questionable (9d ago)；· WR Xavier Worthy — Questionable (4d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (6d ago)
 
 ## 全場次
 
