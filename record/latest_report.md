@@ -6,23 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -28%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (10d ago)；· WR Chris Bell — Questionable (12d ago)；· RB De'Von Achane — Questionable (47h ago)；· T Austin Jackson — Questionable (21d ago)
+  - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (10d ago)；· WR Chris Bell — PUP (2h ago)；· RB De'Von Achane — Questionable (2d ago)；· T Austin Jackson — Questionable (21d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (27d ago)；· WR Tank Dell — Questionable (14d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (2h ago)；· LB Charles Snowden — Sus (7d ago)；· WR Jonathan Mingo — Questionable (28d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (27d ago)；· WR Tank Dell — Questionable (14d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (9h ago)；· LB Charles Snowden — Sus (7d ago)；· WR Jonathan Mingo — Questionable (28d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 57%（分歧 -26%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (5d ago)；· WR Rashee Rice — Questionable (11d ago)；· WR Xavier Worthy — Questionable (6d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (1h ago)
-
-## 📈 48 小時盤口異動（≥2%）
-
-- Los Angeles Chargers @ Buffalo Bills: 主隊隱含 55% → 59% (+4%)
-- Cincinnati Bengals @ Pittsburgh Steelers: 主隊隱含 49% → 47% (-2%)
-- Los Angeles Rams @ Denver Broncos: 主隊隱含 41% → 45% (+4%)
-- Pittsburgh Steelers @ Cleveland Browns: 主隊隱含 41% → 44% (+3%)
-- Los Angeles Rams @ Philadelphia Eagles: 主隊隱含 44% → 47% (+3%)
-- Denver Broncos @ San Francisco 49ers: 主隊隱含 57% → 55% (-2%)
-- Denver Broncos @ Los Angeles Chargers: 主隊隱含 57% → 55% (-2%)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (5d ago)；· WR Rashee Rice — Questionable (11d ago)；· WR Xavier Worthy — Questionable (6d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (6h ago)
 
 ## 全場次
 
@@ -30,7 +20,7 @@
 |---|---|---|---|---|
 | 09/10 | New England Patriots @ Seattle Seahawks | 71% | 64% | **66%** |
 | 09/11 | San Francisco 49ers @ Los Angeles Rams | 66% | 63% | **64%** |
-| 09/13 | Atlanta Falcons @ Pittsburgh Steelers | 64% | 58% | **60%** |
+| 09/13 | Atlanta Falcons @ Pittsburgh Steelers | 64% | 59% | **61%** |
 | 09/13 | Baltimore Ravens @ Indianapolis Colts | 40% | 37% | **37%** |
 | 09/13 | Buffalo Bills @ Houston Texans | 56% | 49% | **51%** |
 | 09/13 | Chicago Bears @ Carolina Panthers | 35% | 44% | **41%** |
@@ -64,7 +54,7 @@
 | 09/27 | Los Angeles Chargers @ Buffalo Bills | 71% | 59% | **63%** |
 | 09/27 | Carolina Panthers @ Cleveland Browns | 54% | 47% | **49%** |
 | 09/27 | Cincinnati Bengals @ Pittsburgh Steelers | 63% | 47% | **51%** |
-| 09/27 | New York Jets @ Detroit Lions | 87% | 78% | **81%** |
+| 09/27 | New York Jets @ Detroit Lions | 87% | 78% | **80%** |
 | 09/27 | Houston Texans @ Indianapolis Colts | 28% | 47% | **41%** |
 | 09/27 | New England Patriots @ Jacksonville Jaguars | 50% | 52% | **51%** |
 | 09/27 | Kansas City Chiefs @ Miami Dolphins | 49% | 26% | **33%** |
@@ -90,7 +80,7 @@
 | 10/04 | Denver Broncos @ San Francisco 49ers | 44% | 55% | **52%** |
 | 10/04 | Kansas City Chiefs @ Las Vegas Raiders | 28% | 32% | **31%** |
 | 10/04 | Los Angeles Chargers @ Seattle Seahawks | 82% | 59% | **66%** |
-| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 41% | **38%** |
+| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 42% | **38%** |
 | 10/06 | Atlanta Falcons @ New Orleans Saints | 49% | 55% | **53%** |
 | 10/09 | Tampa Bay Buccaneers @ Dallas Cowboys | 51% | 63% | **59%** |
 | 10/11 | Philadelphia Eagles @ Jacksonville Jaguars | 58% | 47% | **50%** |
