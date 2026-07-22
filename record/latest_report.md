@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：MIA: · WR Caleb Douglas — Questionable (11d ago)；· WR Chris Bell — PUP (19h ago)；· RB De'Von Achane — Questionable (3d ago)；· T Austin Jackson — Questionable (22d ago)
+  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (2h ago) ｜ MIA: · WR Caleb Douglas — Questionable (11d ago)；· WR Chris Bell — PUP (26h ago)；· RB De'Von Achane — Questionable (3d ago)；· T Austin Jackson — Questionable (22d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (28d ago)；· WR Tank Dell — Questionable (15d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (25h ago)；· LB Charles Snowden — Sus (8d ago)；· WR Jonathan Mingo — Questionable (29d ago)
+  - 日級狀態（Sleeper）：HOU: · LB Azeez Al-Shaair — Questionable (28d ago)；· WR Tank Dell — Questionable (15d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (33h ago)；· LB Charles Snowden — Sus (8d ago)；· WR Jonathan Mingo — Questionable (29d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 57%（分歧 -26%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (6d ago)；· WR Rashee Rice — Questionable (12d ago)；· WR Xavier Worthy — Questionable (7d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (23h ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (6d ago)；· WR Rashee Rice — Questionable (12d ago)；· WR Xavier Worthy — Questionable (7d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (30h ago)
 
 ## 全場次
 
@@ -28,8 +28,8 @@
 | 09/13 | Cleveland Browns @ Jacksonville Jaguars | 82% | 75% | **77%** |
 | 09/13 | New Orleans Saints @ Detroit Lions | 77% | 74% | **75%** |
 | 09/13 | New York Jets @ Tennessee Titans | 55% | 57% | **56%** |
-| 09/13 | Arizona Cardinals @ Los Angeles Chargers | 80% | 82% | **81%** |
-| 09/13 | Green Bay Packers @ Minnesota Vikings | 62% | 50% | **53%** |
+| 09/13 | Arizona Cardinals @ Los Angeles Chargers | 80% | 82% | **82%** |
+| 09/13 | Green Bay Packers @ Minnesota Vikings | 62% | 50% | **54%** |
 | 09/13 | Miami Dolphins @ Las Vegas Raiders | 34% | 63% | **54%** |
 | 09/13 | Washington Commanders @ Philadelphia Eagles | 74% | 65% | **68%** |
 | 09/14 | Dallas Cowboys @ New York Giants | 49% | 43% | **45%** |
@@ -80,7 +80,7 @@
 | 10/04 | Denver Broncos @ San Francisco 49ers | 44% | 55% | **52%** |
 | 10/04 | Kansas City Chiefs @ Las Vegas Raiders | 28% | 32% | **31%** |
 | 10/04 | Los Angeles Chargers @ Seattle Seahawks | 82% | 59% | **66%** |
-| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 42% | **38%** |
+| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 41% | **38%** |
 | 10/06 | Atlanta Falcons @ New Orleans Saints | 49% | 55% | **53%** |
 | 10/09 | Tampa Bay Buccaneers @ Dallas Cowboys | 51% | 63% | **59%** |
 | 10/11 | Philadelphia Eagles @ Jacksonville Jaguars | 58% | 47% | **50%** |

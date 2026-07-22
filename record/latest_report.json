@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-22T15:27+00:00",
+ "generated_utc": "2026-07-22T23:09+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -95,18 +95,18 @@
    "home": "Los Angeles Chargers",
    "away": "Arizona Cardinals",
    "model": 0.7979309298039788,
-   "market": 0.8219814241486069,
-   "blend": 0.8147662758452184,
-   "edge": -0.024050494344628026,
+   "market": 0.823943661971831,
+   "blend": 0.8161398423214754,
+   "edge": -0.02601273216785216,
    "kickoff": "2026-09-13T20:25:00+00:00"
   },
   {
    "home": "Minnesota Vikings",
    "away": "Green Bay Packers",
    "model": 0.6156751970221388,
-   "market": 0.4955452601568069,
-   "blend": 0.5315842412164065,
-   "edge": 0.12012993686533191,
+   "market": 0.50325224105819,
+   "blend": 0.5369791278473747,
+   "edge": 0.1124229559639488,
    "kickoff": "2026-09-13T20:25:00+00:00"
   },
   {
@@ -293,9 +293,9 @@
    "home": "Green Bay Packers",
    "away": "Atlanta Falcons",
    "model": 0.6630066676539511,
-   "market": 0.7477827050997783,
-   "blend": 0.7223498938660301,
-   "edge": -0.08477603744582718,
+   "market": 0.7508125677139762,
+   "blend": 0.7244707976959687,
+   "edge": -0.08780590006002509,
    "kickoff": "2026-09-25T00:15:00+00:00"
   },
   {
@@ -563,9 +563,9 @@
    "home": "Carolina Panthers",
    "away": "Detroit Lions",
    "model": 0.3094791457956711,
-   "market": 0.4170073589533933,
-   "blend": 0.3847488950060767,
-   "edge": -0.10752821315772221,
+   "market": 0.4066302458405761,
+   "blend": 0.37748491582710464,
+   "edge": -0.09715110004490501,
    "kickoff": "2026-10-05T00:20:00+00:00"
   },
   {
@@ -635,9 +635,9 @@
    "home": "New England Patriots",
    "away": "Las Vegas Raiders",
    "model": 0.9100559868403609,
-   "market": 0.7659021045164341,
-   "blend": 0.8091482692136123,
-   "edge": 0.14415388232392679,
+   "market": 0.771505376344086,
+   "blend": 0.8130705594929686,
+   "edge": 0.13855061049627493,
    "kickoff": "2026-10-11T17:00:00+00:00"
   },
   {
@@ -692,7 +692,7 @@
    "model": 0.8170114851214381,
    "market": 0.551441114716549,
    "qb": null,
-   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (25h ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (33h ago). QB uncertainty moves lines faster than anything."
   },
   {
    "away": "Denver Broncos",
