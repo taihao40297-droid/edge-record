@@ -6,19 +6,24 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (42h ago) ｜ MIA: · WR Caleb Douglas — Questionable (13d ago)；· WR Chris Bell — PUP (3d ago)；· CB Darrell Baker — PUP (8h ago)；· RB De'Von Achane — Questionable (5d ago)
+  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (2d ago) ｜ MIA: · WR Caleb Douglas — Questionable (13d ago)；· WR Chris Bell — PUP (3d ago)；· CB Darrell Baker — PUP (16h ago)；· RB De'Von Achane — Questionable (5d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · WR Tank Dell — Questionable (35h ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (3d ago)；· LB Charles Snowden — Sus (10d ago)
+  - 日級狀態（Sleeper）：HOU: · WR Tank Dell — Questionable (43h ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (3d ago)；· LB Charles Snowden — Sus (10d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 57%（分歧 -26%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (8d ago)；· WR Rashee Rice — Questionable (1h ago)；· WR Xavier Worthy — Questionable (9d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (3d ago)；· WR Michael Woods — Questionable (29d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (2h ago)；· DT Omarr Norman-Lott — Questionable (2h ago)；· WR Xavier Worthy — Questionable (9d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (3d ago)；· WR Michael Woods — Questionable (29d ago)
+
+## 📈 48 小時盤口異動（≥2%）
+
+- Las Vegas Raiders @ New Orleans Saints: 主隊隱含 60% → 63% (+3%)
+- Los Angeles Rams @ Denver Broncos: 主隊隱含 45% → 42% (-3%)
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
-| 09/10 | New England Patriots @ Seattle Seahawks | 71% | 63% | **66%** |
+| 09/10 | New England Patriots @ Seattle Seahawks | 71% | 64% | **66%** |
 | 09/11 | San Francisco 49ers @ Los Angeles Rams | 66% | 63% | **64%** |
 | 09/13 | Atlanta Falcons @ Pittsburgh Steelers | 64% | 59% | **61%** |
 | 09/13 | Baltimore Ravens @ Indianapolis Colts | 40% | 37% | **37%** |
@@ -27,7 +32,7 @@
 | 09/13 | Tampa Bay Buccaneers @ Cincinnati Bengals | 56% | 63% | **61%** |
 | 09/13 | Cleveland Browns @ Jacksonville Jaguars | 82% | 77% | **78%** |
 | 09/13 | New Orleans Saints @ Detroit Lions | 77% | 74% | **75%** |
-| 09/13 | New York Jets @ Tennessee Titans | 55% | 57% | **56%** |
+| 09/13 | New York Jets @ Tennessee Titans | 55% | 57% | **57%** |
 | 09/13 | Arizona Cardinals @ Los Angeles Chargers | 80% | 82% | **82%** |
 | 09/13 | Green Bay Packers @ Minnesota Vikings | 62% | 50% | **54%** |
 | 09/13 | Miami Dolphins @ Las Vegas Raiders | 34% | 63% | **54%** |
@@ -37,7 +42,7 @@
 | 09/18 | Detroit Lions @ Buffalo Bills | 66% | 59% | **61%** |
 | 09/20 | Carolina Panthers @ Atlanta Falcons | 64% | 53% | **57%** |
 | 09/20 | New Orleans Saints @ Baltimore Ravens | 75% | 75% | **75%** |
-| 09/20 | Minnesota Vikings @ Chicago Bears | 51% | 63% | **59%** |
+| 09/20 | Minnesota Vikings @ Chicago Bears | 51% | 62% | **59%** |
 | 09/20 | Cincinnati Bengals @ Houston Texans | 79% | 55% | **62%** |
 | 09/20 | Cleveland Browns @ Tampa Bay Buccaneers | 67% | 69% | **68%** |
 | 09/20 | Green Bay Packers @ New York Jets | 24% | 30% | **28%** |
@@ -63,8 +68,8 @@
 | 09/27 | Arizona Cardinals @ San Francisco 49ers | 84% | 82% | **83%** |
 | 09/27 | Minnesota Vikings @ Tampa Bay Buccaneers | 40% | 53% | **49%** |
 | 09/27 | Baltimore Ravens @ Dallas Cowboys | 38% | 45% | **43%** |
-| 09/27 | Las Vegas Raiders @ New Orleans Saints | 73% | 60% | **64%** |
-| 09/28 | Los Angeles Rams @ Denver Broncos | 56% | 45% | **48%** |
+| 09/27 | Las Vegas Raiders @ New Orleans Saints | 73% | 63% | **66%** |
+| 09/28 | Los Angeles Rams @ Denver Broncos | 56% | 42% | **46%** |
 | 09/29 | Philadelphia Eagles @ Chicago Bears | 50% | 52% | **51%** |
 | 10/02 | Pittsburgh Steelers @ Cleveland Browns | 37% | 45% | **43%** |
 | 10/04 | Indianapolis Colts @ Washington Commanders | 55% | 52% | **52%** |
