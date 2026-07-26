@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-25T22:59+00:00",
+ "generated_utc": "2026-07-26T14:59+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -131,9 +131,9 @@
    "home": "New York Giants",
    "away": "Dallas Cowboys",
    "model": 0.494655919409341,
-   "market": 0.42794036443953615,
-   "blend": 0.4479550309304776,
-   "edge": 0.06671555496980486,
+   "market": 0.4255319148936171,
+   "blend": 0.4462691162483343,
+   "edge": 0.06912400451572392,
    "kickoff": "2026-09-14T00:20:00+00:00"
   },
   {
@@ -167,9 +167,9 @@
    "home": "Baltimore Ravens",
    "away": "New Orleans Saints",
    "model": 0.7511596767795633,
-   "market": 0.7477827050997783,
-   "blend": 0.7487957966037138,
-   "edge": 0.0033769716797850124,
+   "market": 0.7571884984025559,
+   "blend": 0.755379851915658,
+   "edge": -0.006028821622992564,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
@@ -464,9 +464,9 @@
    "home": "Baltimore Ravens",
    "away": "Tennessee Titans",
    "model": 0.8573586405826708,
-   "market": 0.771505376344086,
-   "blend": 0.7972613556156615,
-   "edge": 0.08585326423858475,
+   "market": 0.7659021045164341,
+   "blend": 0.7933390653363052,
+   "edge": 0.0914565360662366,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
@@ -692,7 +692,7 @@
    "model": 0.8170114851214381,
    "market": 0.551441114716549,
    "qb": null,
-   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (4d ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Houston Texans 27 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Dak Prescott \u2014 Questionable (5d ago). QB uncertainty moves lines faster than anything."
   },
   {
    "away": "Denver Broncos",
@@ -700,7 +700,7 @@
    "model": 0.3082138723601069,
    "market": 0.5711159737417943,
    "qb": null,
-   "story": "Our model prices Kansas City Chiefs 26 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (26h ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Kansas City Chiefs 26 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (42h ago). QB uncertainty moves lines faster than anything."
   }
  ]
 }
