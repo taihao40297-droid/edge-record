@@ -6,19 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (4d ago) ｜ MIA: · WR Caleb Douglas — Questionable (15d ago)；· WR Chris Bell — PUP (5d ago)；· CB Darrell Baker — PUP (2d ago)；· RB De'Von Achane — Questionable (7d ago)
+  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (4d ago) ｜ MIA: · WR Caleb Douglas — Questionable (8h ago)；· WR Chris Bell — PUP (5d ago)；· CB Darrell Baker — PUP (3d ago)；· RB De'Von Achane — Questionable (7d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · WR Tank Dell — Questionable (3d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (5d ago)；· LB Charles Snowden — Sus (12d ago)
+  - 日級狀態（Sleeper）：HOU: · WR Tank Dell — Questionable (4d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (5d ago)；· LB Charles Snowden — Sus (12d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 57%（分歧 -26%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (42h ago)；· DT Omarr Norman-Lott — PUP (19h ago)；· TE John Michael Gyllenborg — PUP (19h ago)；· WR Xavier Worthy — Questionable (11d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (5d ago)
-
-## 📈 48 小時盤口異動（≥2%）
-
-- Las Vegas Raiders @ New Orleans Saints: 主隊隱含 60% → 63% (+3%)
-- Los Angeles Rams @ Denver Broncos: 主隊隱含 45% → 42% (-3%)
-  - Trending 突波（24h vs 7日基線）：TE Evan Engram(DEN) 1,672 drops/24h
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (2d ago)；· DT Omarr Norman-Lott — PUP (27h ago)；· TE John Michael Gyllenborg — PUP (28h ago)；· WR Xavier Worthy — Questionable (11d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (5d ago)；· OL Nick Gargiulo — PUP (2h ago)；· LB Jordan Turner — PUP (1h ago)
 
 ## 全場次
 
@@ -60,7 +54,7 @@
 | 09/27 | Los Angeles Chargers @ Buffalo Bills | 71% | 59% | **63%** |
 | 09/27 | Carolina Panthers @ Cleveland Browns | 54% | 47% | **49%** |
 | 09/27 | Cincinnati Bengals @ Pittsburgh Steelers | 63% | 47% | **52%** |
-| 09/27 | New York Jets @ Detroit Lions | 87% | 78% | **81%** |
+| 09/27 | New York Jets @ Detroit Lions | 87% | 78% | **80%** |
 | 09/27 | Houston Texans @ Indianapolis Colts | 28% | 47% | **41%** |
 | 09/27 | New England Patriots @ Jacksonville Jaguars | 50% | 52% | **51%** |
 | 09/27 | Kansas City Chiefs @ Miami Dolphins | 49% | 25% | **32%** |
@@ -86,7 +80,7 @@
 | 10/04 | Denver Broncos @ San Francisco 49ers | 44% | 56% | **53%** |
 | 10/04 | Kansas City Chiefs @ Las Vegas Raiders | 28% | 32% | **31%** |
 | 10/04 | Los Angeles Chargers @ Seattle Seahawks | 82% | 60% | **67%** |
-| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 41% | **38%** |
+| 10/05 | Detroit Lions @ Carolina Panthers | 31% | 42% | **38%** |
 | 10/06 | Atlanta Falcons @ New Orleans Saints | 49% | 56% | **54%** |
 | 10/09 | Tampa Bay Buccaneers @ Dallas Cowboys | 51% | 63% | **59%** |
 | 10/11 | Philadelphia Eagles @ Jacksonville Jaguars | 58% | 47% | **50%** |
