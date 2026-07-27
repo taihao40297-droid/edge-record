@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-27T16:11+00:00",
+ "generated_utc": "2026-07-27T23:09+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -104,9 +104,9 @@
    "home": "Minnesota Vikings",
    "away": "Green Bay Packers",
    "model": 0.6156751970221388,
-   "market": 0.50325224105819,
-   "blend": 0.5369791278473747,
-   "edge": 0.1124229559639488,
+   "market": 0.5009623782499812,
+   "blend": 0.5353762238816285,
+   "edge": 0.11471281877215755,
    "kickoff": "2026-09-13T20:25:00+00:00"
   },
   {
@@ -203,9 +203,9 @@
    "home": "New York Jets",
    "away": "Green Bay Packers",
    "model": 0.23626042768731034,
-   "market": 0.30920711694593195,
-   "blend": 0.28732311016834544,
-   "edge": -0.0729466892586216,
+   "market": 0.30423004792665137,
+   "blend": 0.28383916185484903,
+   "edge": -0.06796962023934103,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
@@ -626,9 +626,9 @@
    "home": "Pittsburgh Steelers",
    "away": "Indianapolis Colts",
    "model": 0.6495764846452756,
-   "market": 0.551441114716549,
-   "blend": 0.5808817256951669,
-   "edge": 0.09813536992872662,
+   "market": 0.5634920634920635,
+   "blend": 0.5893173898380272,
+   "edge": 0.08608442115321213,
    "kickoff": "2026-10-11T17:00:00+00:00"
   },
   {
@@ -684,7 +684,7 @@
    "model": 0.3418990459469906,
    "market": 0.6288337565930846,
    "qb": null,
-   "story": "Our model prices Las Vegas Raiders 29 points lower than the market does. Fantasy managers are moving too (WR Malik Benson(LV) 9,876 adds/24h), which usually tracks breaking roster news."
+   "story": "Our model prices Las Vegas Raiders 29 points lower than the market does. Fantasy managers are moving too (WR Malik Benson(LV) 13,338 adds/24h), which usually tracks breaking roster news."
   },
   {
    "away": "Dallas Cowboys",
