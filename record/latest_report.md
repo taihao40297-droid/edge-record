@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-07-27 (UTC)
+# 🏈 NFL Edge Daily — 2026-07-28 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (5d ago) ｜ MIA: · WR Caleb Douglas — Questionable (32h ago)；· WR Chris Bell — PUP (6d ago)；· CB Darrell Baker — PUP (4d ago)；· RB De'Von Achane — Questionable (8d ago)
+  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (6d ago) ｜ MIA: · WR Caleb Douglas — Questionable (2d ago)；· WR Chris Bell — PUP (1h ago)；· CB Darrell Baker — PUP (4d ago)；· OL Jamaree Salyer — Questionable (28d ago)
 - **Dallas Cowboys @ Houston Texans** — 模型 82% vs 市場 55%（分歧 +27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：HOU: · WR Tank Dell — Questionable (5d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (6d ago)；· LB Charles Snowden — Sus (13d ago)
+  - 日級狀態（Sleeper）：HOU: · WR Tank Dell — Questionable (5d ago) ｜ DAL: 🚨 QB Dak Prescott — Questionable (7d ago)；· LB Charles Snowden — Sus (14d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 57%（分歧 -26%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (3d ago)；· DT Omarr Norman-Lott — PUP (2d ago)；· TE John Michael Gyllenborg — PUP (2d ago)；· WR Xavier Worthy — Questionable (12d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (6d ago)；· OL Nick Gargiulo — PUP (26h ago)；· LB Jordan Turner — PUP (25h ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (4d ago)；· DT Omarr Norman-Lott — PUP (3d ago)；· TE John Michael Gyllenborg — PUP (3d ago)；· WR Xavier Worthy — Questionable (13d ago) ｜ DEN: 🚨 QB Bo Nix — Questionable (7d ago)；· OL Nick Gargiulo — PUP (16h ago)；· LB Jordan Turner — PUP (42h ago)
 
 ## 全場次
 
@@ -92,7 +92,32 @@
 | 10/11 | Minnesota Vikings @ New Orleans Saints | 32% | 47% | **42%** |
 | 10/11 | New York Giants @ Washington Commanders | 63% | 54% | **57%** |
 | 10/11 | Denver Broncos @ Los Angeles Chargers | 38% | 55% | **50%** |
+| 10/11 | Detroit Lions @ Arizona Cardinals | 24% | 24% | **24%** |
+| 10/11 | Chicago Bears @ Green Bay Packers | 55% | 60% | **58%** |
 | 10/11 | San Francisco 49ers @ Seattle Seahawks | 77% | 64% | **68%** |
+| 10/12 | Baltimore Ravens @ Atlanta Falcons | 41% | 36% | **37%** |
+| 10/13 | Buffalo Bills @ Los Angeles Rams | 57% | 59% | **58%** |
+| 10/16 | Seattle Seahawks @ Denver Broncos | 42% | 46% | **45%** |
+| 10/18 | Houston Texans @ Jacksonville Jaguars | 48% | 50% | **50%** |
+| 10/18 | Chicago Bears @ Atlanta Falcons | 43% | 41% | **41%** |
+| 10/18 | Baltimore Ravens @ Cleveland Browns | 31% | 29% | **30%** |
+| 10/18 | Carolina Panthers @ Philadelphia Eagles | 79% | 70% | **73%** |
+| 10/18 | Tennessee Titans @ Indianapolis Colts | 76% | 63% | **67%** |
+| 10/18 | New York Jets @ New England Patriots | 90% | 78% | **82%** |
+| 10/18 | New Orleans Saints @ New York Giants | 53% | 56% | **55%** |
+| 10/18 | Pittsburgh Steelers @ Tampa Bay Buccaneers | 49% | 53% | **52%** |
+| 10/18 | Arizona Cardinals @ Los Angeles Rams | 89% | 84% | **85%** |
+| 10/18 | Buffalo Bills @ Las Vegas Raiders | 13% | 30% | **25%** |
+| 10/18 | Los Angeles Chargers @ Kansas City Chiefs | 48% | 56% | **54%** |
+| 10/19 | Dallas Cowboys @ Green Bay Packers | 70% | 59% | **62%** |
+| 10/20 | Washington Commanders @ San Francisco 49ers | 74% | 68% | **70%** |
+| 10/23 | New England Patriots @ Chicago Bears | 42% | 53% | **50%** |
+| 10/25 | Pittsburgh Steelers @ New Orleans Saints | 41% | 46% | **44%** |
+| 10/25 | San Francisco 49ers @ Atlanta Falcons | 38% | 34% | **35%** |
+| 10/25 | Cincinnati Bengals @ Baltimore Ravens | 68% | 63% | **65%** |
+| 10/25 | Tampa Bay Buccaneers @ Carolina Panthers | 46% | 47% | **47%** |
+| 10/25 | Indianapolis Colts @ Minnesota Vikings | 73% | 56% | **61%** |
+| 10/25 | Miami Dolphins @ New York Jets | 36% | 55% | **49%** |
 
 ---
 Data: nflverse (CC-BY 4.0) · Odds: The Odds API
