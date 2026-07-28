@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-28T16:01+00:00",
+ "generated_utc": "2026-07-28T23:04+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -86,9 +86,9 @@
    "home": "Tennessee Titans",
    "away": "New York Jets",
    "model": 0.5524393261518288,
-   "market": 0.574468085106383,
-   "blend": 0.5678594574200168,
-   "edge": -0.02202875895455425,
+   "market": 0.5787700084245998,
+   "blend": 0.5708708037427686,
+   "edge": -0.026330682272771022,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
@@ -185,9 +185,9 @@
    "home": "Houston Texans",
    "away": "Cincinnati Bengals",
    "model": 0.7859771436378709,
-   "market": 0.5634920634920635,
-   "blend": 0.6302375875358057,
-   "edge": 0.22248508014580737,
+   "market": 0.551441114716549,
+   "blend": 0.6218019233929455,
+   "edge": 0.23453602892132186,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
@@ -293,18 +293,18 @@
    "home": "Green Bay Packers",
    "away": "Atlanta Falcons",
    "model": 0.6630066676539511,
-   "market": 0.7508125677139762,
-   "blend": 0.7244707976959687,
-   "edge": -0.08780590006002509,
+   "market": 0.7571884984025559,
+   "blend": 0.7289339491779744,
+   "edge": -0.09418183074860476,
    "kickoff": "2026-09-25T00:15:00+00:00"
   },
   {
    "home": "Buffalo Bills",
    "away": "Los Angeles Chargers",
    "model": 0.7110848264113251,
-   "market": 0.593369754159424,
-   "blend": 0.6286842758349943,
-   "edge": 0.11771507225190114,
+   "market": 0.5829926410466066,
+   "blend": 0.6214202966560222,
+   "edge": 0.12809218536471845,
    "kickoff": "2026-09-27T17:00:00+00:00"
   },
   {
@@ -329,9 +329,9 @@
    "home": "Detroit Lions",
    "away": "New York Jets",
    "model": 0.8657566949258467,
-   "market": 0.7768331562167907,
-   "blend": 0.8035102178295075,
-   "edge": 0.088923538709056,
+   "market": 0.7819063004846527,
+   "blend": 0.8070614188170109,
+   "edge": 0.08385039444119402,
    "kickoff": "2026-09-27T17:00:00+00:00"
   },
   {
@@ -482,9 +482,9 @@
    "home": "Chicago Bears",
    "away": "New York Jets",
    "model": 0.8432845182489368,
-   "market": 0.7659021045164341,
-   "blend": 0.7891168286361849,
-   "edge": 0.07738241373250265,
+   "market": 0.771505376344086,
+   "blend": 0.7930391189155412,
+   "edge": 0.0717791419048508,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
@@ -545,9 +545,9 @@
    "home": "Las Vegas Raiders",
    "away": "Kansas City Chiefs",
    "model": 0.2810790813110847,
-   "market": 0.3194444444444444,
-   "blend": 0.3079348355044365,
-   "edge": -0.0383653631333597,
+   "market": 0.3249687530045188,
+   "blend": 0.31180185149648854,
+   "edge": -0.04388967169343405,
    "kickoff": "2026-10-04T20:25:00+00:00"
   },
   {
@@ -815,9 +815,9 @@
    "home": "Kansas City Chiefs",
    "away": "Los Angeles Chargers",
    "model": 0.4808834641662727,
-   "market": 0.5634920634920635,
-   "blend": 0.5387094836943263,
-   "edge": -0.08260859932579079,
+   "market": 0.551441114716549,
+   "blend": 0.530273819551466,
+   "edge": -0.0705576505502763,
    "kickoff": "2026-10-18T20:25:00+00:00"
   },
   {
@@ -909,7 +909,7 @@
    "model": 0.3418990459469906,
    "market": 0.6288337565930846,
    "qb": null,
-   "story": "Our model prices Las Vegas Raiders 29 points lower than the market does. Fantasy managers are moving too (WR Malik Benson(LV) 25,554 adds/24h), which usually tracks breaking roster news."
+   "story": "Our model prices Las Vegas Raiders 29 points lower than the market does. Fantasy managers are moving too (WR Malik Benson(LV) 30,678 adds/24h), which usually tracks breaking roster news."
   },
   {
    "away": "Dallas Cowboys",
