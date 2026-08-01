@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-31T23:07+00:00",
+ "generated_utc": "2026-08-01T14:54+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -1454,9 +1454,9 @@
    "home": "San Francisco 49ers",
    "away": "Minnesota Vikings",
    "model": 0.5636312500548583,
-   "market": 0.6443043674020711,
-   "blend": 0.6201024321979073,
-   "edge": -0.08067311734721283,
+   "market": 0.6412345603800074,
+   "blend": 0.6179535672824626,
+   "edge": -0.07760331032514911,
    "kickoff": "2026-11-23T01:20:00+00:00"
   },
   {
@@ -1472,45 +1472,45 @@
    "home": "Los Angeles Rams",
    "away": "Green Bay Packers",
    "model": 0.7169417761644424,
-   "market": 0.6698149427935192,
-   "blend": 0.6839529928047962,
-   "edge": 0.04712683337092327,
+   "market": 0.670717162929696,
+   "blend": 0.6845845469001199,
+   "edge": 0.04622461323474647,
    "kickoff": "2026-11-26T01:00:00+00:00"
   },
   {
    "home": "Detroit Lions",
    "away": "Chicago Bears",
    "model": 0.6014082067396639,
-   "market": 0.5531922750267716,
-   "blend": 0.5676570545406393,
-   "edge": 0.04821593171289229,
+   "market": 0.5570743979799975,
+   "blend": 0.5703745406078974,
+   "edge": 0.044333808759666415,
    "kickoff": "2026-11-26T18:00:00+00:00"
   },
   {
    "home": "Dallas Cowboys",
    "away": "Philadelphia Eagles",
    "model": 0.34605191066861996,
-   "market": 0.5238589211618258,
-   "blend": 0.47051681801386397,
-   "edge": -0.1778070104932058,
+   "market": 0.5261456605068939,
+   "blend": 0.4721175355554117,
+   "edge": -0.18009374983827398,
    "kickoff": "2026-11-26T20:30:00+00:00"
   },
   {
    "home": "Buffalo Bills",
    "away": "Kansas City Chiefs",
    "model": 0.7698422259066571,
-   "market": 0.5726351919776559,
-   "blend": 0.6317973021563562,
-   "edge": 0.19720703392900119,
+   "market": 0.5731469720172873,
+   "blend": 0.6321555481840982,
+   "edge": 0.19669525388936981,
    "kickoff": "2026-11-27T01:20:00+00:00"
   },
   {
    "home": "Pittsburgh Steelers",
    "away": "Denver Broncos",
    "model": 0.350002343791888,
-   "market": 0.469495081880403,
-   "blend": 0.4336472604538485,
-   "edge": -0.11949273808851502,
+   "market": 0.46039955667964416,
+   "blend": 0.4272803928133173,
+   "edge": -0.11039721288775617,
    "kickoff": "2026-11-27T20:00:00+00:00"
   },
   {
@@ -2457,7 +2457,7 @@
    "model": 0.3418990459469906,
    "market": 0.6345305608065531,
    "qb": null,
-   "story": "Our model prices Las Vegas Raiders 29 points lower than the market does. No injury reports are filed in the offseason, so this gap most likely reflects roster turnover (trades, signings, departures) that ratings haven't seen play out yet."
+   "story": "Our model prices Las Vegas Raiders 29 points lower than the market does. Fantasy managers are moving too (TE Will Kacmarek(MIA) 3,264 adds/24h), which usually tracks breaking roster news."
   },
   {
    "away": "Jacksonville Jaguars",

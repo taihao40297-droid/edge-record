@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-07-31 (UTC)
+# 🏈 NFL Edge Daily — 2026-08-01 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (3d ago) ｜ MIA: · WR Chris Bell — PUP (3d ago)；· CB Darrell Baker — PUP (3d ago)；· CB Storm Duck — PUP (3d ago)
+  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (14h ago)；· RB Chris Collier — Questionable (11h ago) ｜ MIA: · WR Chris Bell — PUP (4d ago)；· CB Darrell Baker — PUP (4d ago)；· CB Storm Duck — PUP (4d ago)
 - **Jacksonville Jaguars @ Tennessee Titans** — 模型 17% vs 市場 45%（分歧 -28%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：JAX: · LB Jack Kiser — Questionable (17h ago)；· RB Chris Rodriguez — Questionable (29h ago)；· G Garrett DiGiorgio — PUP (5d ago)；· OL Cole Van Lanen — PUP (5d ago)
+  - 日級狀態（Sleeper）：TEN: · DB Sanoussi Kane — IR (13h ago) ｜ JAX: · LB Jack Kiser — Questionable (33h ago)；· RB Chris Rodriguez — Questionable (45h ago)；· G Garrett DiGiorgio — PUP (6d ago)；· OL Cole Van Lanen — PUP (6d ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · LB Charles Snowden — Sus (17d ago)；· DB P.J. Locke — Questionable (26h ago) ｜ JAX: · LB Jack Kiser — Questionable (17h ago)；· RB Chris Rodriguez — Questionable (29h ago)；· G Garrett DiGiorgio — PUP (5d ago)；· OL Cole Van Lanen — PUP (5d ago)
+  - 日級狀態（Sleeper）：DAL: · LB Charles Snowden — Sus (18d ago)；· DB P.J. Locke — Questionable (42h ago) ｜ JAX: · LB Jack Kiser — Questionable (33h ago)；· RB Chris Rodriguez — Questionable (45h ago)；· G Garrett DiGiorgio — PUP (6d ago)；· OL Cole Van Lanen — PUP (6d ago)
 
 ## 全場次
 
@@ -182,10 +182,10 @@
 | 11/23 | Minnesota Vikings @ San Francisco 49ers | 56% | 64% | **62%** |
 | 11/24 | Cincinnati Bengals @ Washington Commanders | 52% | 47% | **48%** |
 | 11/26 | Green Bay Packers @ Los Angeles Rams | 72% | 67% | **68%** |
-| 11/26 | Chicago Bears @ Detroit Lions | 60% | 55% | **57%** |
-| 11/26 | Philadelphia Eagles @ Dallas Cowboys | 35% | 52% | **47%** |
+| 11/26 | Chicago Bears @ Detroit Lions | 60% | 56% | **57%** |
+| 11/26 | Philadelphia Eagles @ Dallas Cowboys | 35% | 53% | **47%** |
 | 11/27 | Kansas City Chiefs @ Buffalo Bills | 77% | 57% | **63%** |
-| 11/27 | Denver Broncos @ Pittsburgh Steelers | 35% | 47% | **43%** |
+| 11/27 | Denver Broncos @ Pittsburgh Steelers | 35% | 46% | **43%** |
 | 11/29 | Atlanta Falcons @ Minnesota Vikings | 71% | 66% | **67%** |
 | 11/29 | Baltimore Ravens @ Houston Texans | 68% | 53% | **58%** |
 | 11/29 | New Orleans Saints @ Cincinnati Bengals | 64% | 72% | **69%** |
