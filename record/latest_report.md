@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-08-01 (UTC)
+# 🏈 NFL Edge Daily — 2026-08-02 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (22h ago) ｜ MIA: · WR Chris Bell — PUP (4d ago)；· CB Darrell Baker — PUP (4d ago)；· CB Storm Duck — PUP (4d ago)
+  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (38h ago) ｜ MIA: · WR Chris Bell — PUP (5d ago)；· CB Darrell Baker — PUP (5d ago)；· CB Storm Duck — PUP (5d ago)
 - **Jacksonville Jaguars @ Tennessee Titans** — 模型 17% vs 市場 45%（分歧 -28%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：TEN: · DB Sanoussi Kane — IR (21h ago) ｜ JAX: · LB Jack Kiser — Questionable (41h ago)；· RB Chris Rodriguez — Questionable (2d ago)；· G Garrett DiGiorgio — PUP (6d ago)；· OL Cole Van Lanen — PUP (6d ago)
+  - 日級狀態（Sleeper）：TEN: · DB Sanoussi Kane — IR (37h ago) ｜ JAX: · LB Jack Kiser — Questionable (2d ago)；· RB Chris Rodriguez — Questionable (3d ago)；· G Garrett DiGiorgio — PUP (7d ago)；· OL Cole Van Lanen — PUP (7d ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · LB Charles Snowden — Sus (18d ago)；· DB P.J. Locke — Questionable (2d ago)；· DB Jalen Thompson — Questionable (4h ago)；· DB Zion Childress — Questionable (3h ago) ｜ JAX: · LB Jack Kiser — Questionable (41h ago)；· RB Chris Rodriguez — Questionable (2d ago)；· G Garrett DiGiorgio — PUP (6d ago)；· OL Cole Van Lanen — PUP (6d ago)
+  - 日級狀態（Sleeper）：DAL: · LB Charles Snowden — Sus (19d ago)；· DB P.J. Locke — Questionable (7h ago)；· DB Jalen Thompson — Questionable (7h ago)；· DB Zion Childress — Questionable (7h ago) ｜ JAX: · LB Jack Kiser — Questionable (2d ago)；· RB Chris Rodriguez — Questionable (3d ago)；· G Garrett DiGiorgio — PUP (7d ago)；· OL Cole Van Lanen — PUP (7d ago)
 
 ## 全場次
 
@@ -59,7 +59,7 @@
 | 09/27 | New England Patriots @ Jacksonville Jaguars | 50% | 52% | **51%** |
 | 09/27 | Kansas City Chiefs @ Miami Dolphins | 49% | 25% | **32%** |
 | 09/27 | Tennessee Titans @ New York Giants | 69% | 60% | **63%** |
-| 09/27 | Seattle Seahawks @ Washington Commanders | 17% | 36% | **30%** |
+| 09/27 | Seattle Seahawks @ Washington Commanders | 17% | 37% | **31%** |
 | 09/27 | Arizona Cardinals @ San Francisco 49ers | 84% | 82% | **82%** |
 | 09/27 | Minnesota Vikings @ Tampa Bay Buccaneers | 40% | 53% | **49%** |
 | 09/27 | Baltimore Ravens @ Dallas Cowboys | 38% | 45% | **43%** |
@@ -146,7 +146,7 @@
 | 11/08 | Dallas Cowboys @ Indianapolis Colts | 58% | 47% | **50%** |
 | 11/08 | Detroit Lions @ Miami Dolphins | 36% | 30% | **32%** |
 | 11/08 | New York Jets @ Kansas City Chiefs | 79% | 78% | **78%** |
-| 11/08 | Los Angeles Rams @ Washington Commanders | 26% | 34% | **32%** |
+| 11/08 | Los Angeles Rams @ Washington Commanders | 26% | 34% | **31%** |
 | 11/08 | New York Giants @ Philadelphia Eagles | 79% | 67% | **71%** |
 | 11/08 | Houston Texans @ Los Angeles Chargers | 39% | 55% | **50%** |
 | 11/08 | Las Vegas Raiders @ San Francisco 49ers | 88% | 77% | **80%** |
@@ -265,7 +265,7 @@
 | 01/03 | Indianapolis Colts @ Cleveland Browns | 46% | 45% | **45%** |
 | 01/03 | New York Giants @ Dallas Cowboys | 62% | 66% | **65%** |
 | 01/03 | Denver Broncos @ New England Patriots | 53% | 55% | **54%** |
-| 01/03 | Washington Commanders @ Jacksonville Jaguars | 76% | 63% | **67%** |
+| 01/03 | Washington Commanders @ Jacksonville Jaguars | 76% | 62% | **66%** |
 | 01/03 | Los Angeles Rams @ Tampa Bay Buccaneers | 29% | 34% | **33%** |
 | 01/03 | Minnesota Vikings @ New York Jets | 20% | 38% | **32%** |
 | 01/03 | Pittsburgh Steelers @ Tennessee Titans | 26% | 47% | **40%** |
