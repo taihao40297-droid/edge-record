@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (5d ago)；· TE Michael Mayer — Questionable (25h ago)；· RB Chris Collier — IR (3d ago) ｜ MIA: · DL Rene Konga — Out (16h ago)；· WR Chris Bell — PUP (8h ago)；· CB Darrell Baker — PUP (8d ago)；· TE Greg Dulcich — Questionable (25h ago)
+  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (5d ago)；· TE Michael Mayer — Questionable (32h ago)；· RB Chris Collier — IR (3d ago) ｜ MIA: · DL Rene Konga — IR (24h ago)；· WR Chris Bell — PUP (15h ago)；· CB Darrell Baker — PUP (8d ago)；· TE Greg Dulcich — Questionable (32h ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · LB Charles Snowden — IR (39h ago)；· OL Tyler Guyton — Questionable (17h ago)；· DB Alijah Clark — Questionable (8h ago)；· DE Jonathan Bullard — Questionable (8h ago) ｜ JAX: · LB Jack Kiser — Questionable (5d ago)；· LB Jared Bartlett — Questionable (22h ago)；· G Garrett DiGiorgio — PUP (10d ago)；· OL Cole Van Lanen — PUP (10d ago)
+  - 日級狀態（Sleeper）：DAL: · LB Charles Snowden — IR (47h ago)；· OL Tyler Guyton — Questionable (24h ago)；· DB Alijah Clark — Questionable (15h ago)；· DE Jonathan Bullard — Questionable (15h ago) ｜ JAX: · LB Jack Kiser — Questionable (6d ago)；· LB Jared Bartlett — Questionable (29h ago)；· G Garrett DiGiorgio — PUP (10d ago)；· OL Cole Van Lanen — PUP (10d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 58%（分歧 -27%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (7d ago)；· DB Mansoor Delane — Questionable (5d ago)；· DT Omarr Norman-Lott — PUP (11d ago)；· TE John Michael Gyllenborg — IR (8d ago) ｜ DEN: · OL Nick Gargiulo — PUP (9d ago)；· TE Caleb Lohner — Questionable (41h ago)；· LB Nik Bonitto — Questionable (13h ago)；· LB Jordan Turner — PUP (10d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (7d ago)；· DB Mansoor Delane — Questionable (5d ago)；· DT Omarr Norman-Lott — PUP (11d ago)；· TE John Michael Gyllenborg — IR (8d ago) ｜ DEN: · WR Jaylen Waddle — Questionable (4h ago)；· OL Nick Gargiulo — PUP (9d ago)；· TE Caleb Lohner — Questionable (48h ago)；· LB Nik Bonitto — Questionable (7h ago)
 
 ## 全場次
 
@@ -107,7 +107,7 @@
 | 10/18 | New Orleans Saints @ New York Giants | 53% | 55% | **54%** |
 | 10/18 | Pittsburgh Steelers @ Tampa Bay Buccaneers | 49% | 53% | **52%** |
 | 10/18 | Arizona Cardinals @ Los Angeles Rams | 89% | 84% | **85%** |
-| 10/18 | Buffalo Bills @ Las Vegas Raiders | 13% | 30% | **25%** |
+| 10/18 | Buffalo Bills @ Las Vegas Raiders | 13% | 29% | **24%** |
 | 10/18 | Los Angeles Chargers @ Kansas City Chiefs | 48% | 56% | **54%** |
 | 10/19 | Dallas Cowboys @ Green Bay Packers | 70% | 60% | **63%** |
 | 10/20 | Washington Commanders @ San Francisco 49ers | 74% | 69% | **70%** |
@@ -157,7 +157,7 @@
 | 11/13 | Washington Commanders @ New York Giants | 48% | 53% | **51%** |
 | 11/15 | New England Patriots @ Detroit Lions | 46% | 52% | **51%** |
 | 11/15 | Kansas City Chiefs @ Atlanta Falcons | 52% | 34% | **40%** |
-| 11/15 | Buffalo Bills @ New York Jets | 14% | 27% | **23%** |
+| 11/15 | Buffalo Bills @ New York Jets | 14% | 26% | **22%** |
 | 11/15 | Carolina Panthers @ New Orleans Saints | 57% | 52% | **53%** |
 | 11/15 | Houston Texans @ Cleveland Browns | 21% | 36% | **31%** |
 | 11/15 | Minnesota Vikings @ Green Bay Packers | 50% | 66% | **61%** |
@@ -276,7 +276,7 @@
 | 01/05 | Houston Texans @ Green Bay Packers | 39% | 56% | **51%** |
 | 01/10 | Atlanta Falcons @ Carolina Panthers | 47% | 55% | **53%** |
 | 01/10 | Pittsburgh Steelers @ Baltimore Ravens | 62% | 68% | **66%** |
-| 01/10 | New York Jets @ Buffalo Bills | 91% | 79% | **83%** |
+| 01/10 | New York Jets @ Buffalo Bills | 91% | 80% | **83%** |
 | 01/10 | Chicago Bears @ Minnesota Vikings | 60% | 53% | **55%** |
 | 01/10 | Cleveland Browns @ Cincinnati Bengals | 67% | 74% | **72%** |
 | 01/10 | Dallas Cowboys @ Washington Commanders | 57% | 47% | **50%** |
