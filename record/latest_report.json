@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-04T23:07+00:00",
+ "generated_utc": "2026-08-05T15:57+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -41,9 +41,9 @@
    "home": "Houston Texans",
    "away": "Buffalo Bills",
    "model": 0.5576858307358126,
-   "market": 0.4893278741787201,
-   "blend": 0.5098352611458479,
-   "edge": 0.06835795655709248,
+   "market": 0.49777382012466603,
+   "blend": 0.51574742330801,
+   "edge": 0.05991201061114654,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
@@ -2473,7 +2473,7 @@
    "model": 0.3082138723601069,
    "market": 0.5776397515527951,
    "qb": null,
-   "story": "Our model prices Kansas City Chiefs 27 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (6d ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Kansas City Chiefs 27 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Patrick Mahomes \u2014 Questionable (7d ago). QB uncertainty moves lines faster than anything."
   }
  ]
 }

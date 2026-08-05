@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-08-04 (UTC)
+# 🏈 NFL Edge Daily — 2026-08-05 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (4d ago)；· TE Michael Mayer — Questionable (8h ago)；· RB Chris Collier — IR (47h ago) ｜ MIA: · WR Chris Bell — PUP (5h ago)；· CB Darrell Baker — PUP (7d ago)；· TE Greg Dulcich — Questionable (8h ago)；· DB Lonnie Johnson — Questionable (7h ago)
+  - 日級狀態（Sleeper）：LV: · DB Jermod McCoy — Questionable (5d ago)；· TE Michael Mayer — Questionable (25h ago)；· RB Chris Collier — IR (3d ago) ｜ MIA: · DL Rene Konga — Out (16h ago)；· WR Chris Bell — PUP (8h ago)；· CB Darrell Baker — PUP (8d ago)；· TE Greg Dulcich — Questionable (25h ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · LB Charles Snowden — IR (23h ago)；· DE Jonathan Bullard — Questionable (1h ago)；· LB DeMarvion Overshown — Questionable (1h ago)；· DB P.J. Locke — Questionable (24h ago) ｜ JAX: · LB Jack Kiser — Questionable (5d ago)；· LB Jared Bartlett — Questionable (5h ago)；· G Garrett DiGiorgio — PUP (9d ago)；· OL Cole Van Lanen — PUP (9d ago)
+  - 日級狀態（Sleeper）：DAL: · LB Charles Snowden — IR (39h ago)；· OL Tyler Guyton — Questionable (17h ago)；· DB Alijah Clark — Questionable (8h ago)；· DE Jonathan Bullard — Questionable (8h ago) ｜ JAX: · LB Jack Kiser — Questionable (5d ago)；· LB Jared Bartlett — Questionable (22h ago)；· G Garrett DiGiorgio — PUP (10d ago)；· OL Cole Van Lanen — PUP (10d ago)
 - **Denver Broncos @ Kansas City Chiefs** — 模型 31% vs 市場 58%（分歧 -27%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (6d ago)；· DB Mansoor Delane — Questionable (4d ago)；· DT Omarr Norman-Lott — PUP (10d ago)；· TE John Michael Gyllenborg — IR (7d ago) ｜ DEN: · OL Nick Gargiulo — PUP (8d ago)；· TE Caleb Lohner — Questionable (24h ago)；· LB Nik Bonitto — Questionable (3h ago)；· LB Jordan Turner — PUP (9d ago)
+  - 日級狀態（Sleeper）：KC: 🚨 QB Patrick Mahomes — Questionable (7d ago)；· DB Mansoor Delane — Questionable (5d ago)；· DT Omarr Norman-Lott — PUP (11d ago)；· TE John Michael Gyllenborg — IR (8d ago) ｜ DEN: · OL Nick Gargiulo — PUP (9d ago)；· TE Caleb Lohner — Questionable (41h ago)；· LB Nik Bonitto — Questionable (13h ago)；· LB Jordan Turner — PUP (10d ago)
 
 ## 全場次
 
@@ -22,7 +22,7 @@
 | 09/11 | San Francisco 49ers @ Los Angeles Rams | 66% | 63% | **64%** |
 | 09/13 | Atlanta Falcons @ Pittsburgh Steelers | 64% | 59% | **61%** |
 | 09/13 | Baltimore Ravens @ Indianapolis Colts | 40% | 37% | **38%** |
-| 09/13 | Buffalo Bills @ Houston Texans | 56% | 49% | **51%** |
+| 09/13 | Buffalo Bills @ Houston Texans | 56% | 50% | **52%** |
 | 09/13 | Chicago Bears @ Carolina Panthers | 35% | 43% | **41%** |
 | 09/13 | Tampa Bay Buccaneers @ Cincinnati Bengals | 56% | 63% | **61%** |
 | 09/13 | Cleveland Browns @ Jacksonville Jaguars | 82% | 76% | **78%** |
