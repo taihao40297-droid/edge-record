@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-08-10 (UTC)
+# 🏈 NFL Edge Daily — 2026-08-11 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · OL Caleb Rogers — Questionable (48h ago)；· DE Keyron Crawford — Questionable (2d ago)；· WR Dont'e Thornton — Questionable (3d ago)；· DB Jermod McCoy — Questionable (10d ago) ｜ MIA: · DL Rene Konga — IR (5d ago)；· WR Chris Bell — PUP (3d ago)；· K Zane Gonzalez — IR (1h ago)；· CB Darrell Baker — PUP (13d ago)
+  - 日級狀態（Sleeper）：LV: · OL Caleb Rogers — Questionable (3d ago)；· DE Keyron Crawford — Questionable (3d ago)；· WR Dont'e Thornton — Questionable (4d ago)；· DB Jermod McCoy — Questionable (11d ago) ｜ MIA: · DL Rene Konga — IR (5d ago)；· WR Chris Bell — PUP (4d ago)；· K Zane Gonzalez — IR (7h ago)；· CB Darrell Baker — PUP (14d ago)
 - **Jacksonville Jaguars @ Tennessee Titans** — 模型 17% vs 市場 45%（分歧 -28%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：TEN: · LB Shad Banks — Questionable (3d ago)；· DB Sanoussi Kane — IR (10d ago)；· RB Tyjae Spears — Questionable (21h ago)；· RB Kalel Mullings — Questionable (3d ago) ｜ JAX: · LB Jack Kiser — Questionable (11d ago)；· LB Jared Bartlett — IR (47h ago)；· G Garrett DiGiorgio — IR (2d ago)；· OL Cole Van Lanen — PUP (15d ago)
+  - 日級狀態（Sleeper）：TEN: · LB Shad Banks — Questionable (13h ago)；· DB Sanoussi Kane — IR (11d ago)；· RB Tyjae Spears — Questionable (37h ago)；· RB Kalel Mullings — Questionable (4d ago) ｜ JAX: · LB Jack Kiser — Questionable (11d ago)；· LB Jared Bartlett — IR (3d ago)；· G Garrett DiGiorgio — IR (3d ago)；· OL Cole Van Lanen — PUP (16d ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · OL Tyler Guyton — Questionable (6d ago)；· CB Devin Moore — Questionable (4d ago)；· DB Alijah Clark — Questionable (6d ago)；· DE Jonathan Bullard — Questionable (27h ago) ｜ JAX: · LB Jack Kiser — Questionable (11d ago)；· LB Jared Bartlett — IR (47h ago)；· G Garrett DiGiorgio — IR (2d ago)；· OL Cole Van Lanen — PUP (15d ago)
+  - 日級狀態（Sleeper）：DAL: · OL Tyler Guyton — Questionable (7d ago)；· CB Devin Moore — Questionable (5d ago)；· DB Alijah Clark — Questionable (6d ago)；· DE Jonathan Bullard — Questionable (43h ago) ｜ JAX: · LB Jack Kiser — Questionable (11d ago)；· LB Jared Bartlett — IR (3d ago)；· G Garrett DiGiorgio — IR (3d ago)；· OL Cole Van Lanen — PUP (16d ago)
 
 ## 全場次
 
