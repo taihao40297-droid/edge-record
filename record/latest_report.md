@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-08-12 (UTC)
+# 🏈 NFL Edge Daily — 2026-08-13 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,13 +6,13 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · WR Dont'e Thornton — Questionable (4h ago)；· DB Jermod McCoy — Questionable (26h ago)；· RB Chris Collier — IR (10d ago) ｜ MIA: · DL Rene Konga — IR (7d ago)；· WR Chris Bell — PUP (5d ago)；· K Zane Gonzalez — IR (39h ago)；· CB Darrell Baker — PUP (15d ago)
+  - 日級狀態（Sleeper）：LV: · WR Dont'e Thornton — Questionable (20h ago)；· RB Chris Collier — IR (11d ago) ｜ MIA: · DL Rene Konga — IR (7d ago)；· WR Chris Bell — PUP (6d ago)；· K Zane Gonzalez — IR (2d ago)；· CB Darrell Baker — PUP (16d ago)
 - **Jacksonville Jaguars @ Tennessee Titans** — 模型 17% vs 市場 45%（分歧 -28%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：TEN: · DB Sanoussi Kane — IR (12d ago)；· RB Tyjae Spears — Questionable (3d ago)；· RB Kalel Mullings — Questionable (5d ago) ｜ JAX: · LB Jack Kiser — Questionable (13d ago)；· LB Jared Bartlett — IR (4d ago)；· G Garrett DiGiorgio — IR (4d ago)；· OL Cole Van Lanen — PUP (17d ago)
+  - 日級狀態（Sleeper）：TEN: · DB Sanoussi Kane — IR (13d ago)；· RB Tyjae Spears — Questionable (4d ago)；· RB Kalel Mullings — Questionable (6d ago) ｜ JAX: · LB Jack Kiser — Questionable (13d ago)；· LB Jared Bartlett — IR (5d ago)；· G Garrett DiGiorgio — IR (5d ago)；· OL Cole Van Lanen — PUP (18d ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · OL Tyler Guyton — Questionable (8d ago)；· CB Devin Moore — Questionable (6d ago)；· DB Alijah Clark — Questionable (8d ago)；· DE Jonathan Bullard — Questionable (3d ago) ｜ JAX: · LB Jack Kiser — Questionable (13d ago)；· LB Jared Bartlett — IR (4d ago)；· G Garrett DiGiorgio — IR (4d ago)；· OL Cole Van Lanen — PUP (17d ago)
+  - 日級狀態（Sleeper）：DAL: · OL Tyler Guyton — Questionable (9d ago)；· CB Devin Moore — Questionable (7d ago)；· DB Alijah Clark — Questionable (8d ago)；· DE Jonathan Bullard — Questionable (4d ago) ｜ JAX: · LB Jack Kiser — Questionable (13d ago)；· LB Jared Bartlett — IR (5d ago)；· G Garrett DiGiorgio — IR (5d ago)；· OL Cole Van Lanen — PUP (18d ago)
 
 ## 全場次
 
@@ -35,7 +35,7 @@
 | 09/14 | Dallas Cowboys @ New York Giants | 49% | 43% | **45%** |
 | 09/15 | Denver Broncos @ Kansas City Chiefs | 31% | 57% | **49%** |
 | 09/18 | Detroit Lions @ Buffalo Bills | 66% | 59% | **61%** |
-| 09/20 | Carolina Panthers @ Atlanta Falcons | 64% | 53% | **57%** |
+| 09/20 | Carolina Panthers @ Atlanta Falcons | 64% | 53% | **56%** |
 | 09/20 | New Orleans Saints @ Baltimore Ravens | 75% | 74% | **75%** |
 | 09/20 | Minnesota Vikings @ Chicago Bears | 51% | 63% | **59%** |
 | 09/20 | Cincinnati Bengals @ Houston Texans | 79% | 55% | **62%** |
@@ -47,7 +47,7 @@
 | 09/20 | Las Vegas Raiders @ Los Angeles Chargers | 85% | 77% | **79%** |
 | 09/20 | Seattle Seahawks @ Arizona Cardinals | 10% | 20% | **17%** |
 | 09/20 | Washington Commanders @ Dallas Cowboys | 55% | 64% | **61%** |
-| 09/20 | Miami Dolphins @ San Francisco 49ers | 75% | 81% | **79%** |
+| 09/20 | Miami Dolphins @ San Francisco 49ers | 75% | 82% | **80%** |
 | 09/21 | Indianapolis Colts @ Kansas City Chiefs | 61% | 71% | **68%** |
 | 09/22 | New York Giants @ Los Angeles Rams | 86% | 76% | **79%** |
 | 09/25 | Atlanta Falcons @ Green Bay Packers | 66% | 75% | **72%** |
@@ -278,7 +278,7 @@
 | 01/10 | Pittsburgh Steelers @ Baltimore Ravens | 62% | 68% | **66%** |
 | 01/10 | New York Jets @ Buffalo Bills | 91% | 79% | **83%** |
 | 01/10 | Chicago Bears @ Minnesota Vikings | 60% | 53% | **55%** |
-| 01/10 | Cleveland Browns @ Cincinnati Bengals | 67% | 75% | **72%** |
+| 01/10 | Cleveland Browns @ Cincinnati Bengals | 67% | 75% | **73%** |
 | 01/10 | Dallas Cowboys @ Washington Commanders | 57% | 47% | **50%** |
 | 01/10 | Los Angeles Chargers @ Denver Broncos | 72% | 53% | **59%** |
 | 01/10 | Detroit Lions @ Green Bay Packers | 50% | 55% | **54%** |
