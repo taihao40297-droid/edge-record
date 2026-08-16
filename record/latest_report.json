@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-15T22:27+00:00",
+ "generated_utc": "2026-08-16T14:15+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -176,9 +176,9 @@
    "home": "Chicago Bears",
    "away": "Minnesota Vikings",
    "model": 0.5095860253898395,
-   "market": 0.6309403437815976,
-   "blend": 0.5945340482640702,
-   "edge": -0.12135431839175803,
+   "market": 0.6224665518611737,
+   "blend": 0.5886023939197734,
+   "edge": -0.11288052647133417,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
@@ -248,18 +248,18 @@
    "home": "Arizona Cardinals",
    "away": "Seattle Seahawks",
    "model": 0.10067462571564414,
-   "market": 0.19999999999999998,
-   "blend": 0.17020238771469323,
-   "edge": -0.09932537428435584,
+   "market": 0.2042241228835748,
+   "blend": 0.1731592737331956,
+   "edge": -0.10354949716793066,
    "kickoff": "2026-09-20T20:25:00+00:00"
   },
   {
    "home": "Dallas Cowboys",
    "away": "Washington Commanders",
    "model": 0.5463525104238646,
-   "market": 0.6309403437815976,
-   "blend": 0.6055639937742776,
-   "edge": -0.08458783335773301,
+   "market": 0.6369041816941223,
+   "blend": 0.6097386803130449,
+   "edge": -0.09055167127025776,
    "kickoff": "2026-09-20T20:25:00+00:00"
   },
   {
@@ -374,9 +374,9 @@
    "home": "Washington Commanders",
    "away": "Seattle Seahawks",
    "model": 0.16849420600097,
-   "market": 0.3775334481388264,
-   "blend": 0.3148216754974694,
-   "edge": -0.20903924213785638,
+   "market": 0.3690596562184025,
+   "blend": 0.30889002115317277,
+   "edge": -0.20056545021743247,
    "kickoff": "2026-09-27T17:00:00+00:00"
   },
   {
@@ -473,9 +473,9 @@
    "home": "Buffalo Bills",
    "away": "New England Patriots",
    "model": 0.5726653654677198,
-   "market": 0.593369754159424,
-   "blend": 0.5871584375519128,
-   "edge": -0.0207043886917041,
+   "market": 0.5996387718242023,
+   "blend": 0.5915467499172575,
+   "edge": -0.026973406356482488,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
@@ -527,9 +527,9 @@
    "home": "Minnesota Vikings",
    "away": "Miami Dolphins",
    "model": 0.7439493790845954,
-   "market": 0.7508125677139762,
-   "blend": 0.748753611125162,
-   "edge": -0.006863188629380845,
+   "market": 0.7477827050997783,
+   "blend": 0.7466327072952235,
+   "edge": -0.0038333260151829363,
    "kickoff": "2026-10-04T20:05:00+00:00"
   },
   {
@@ -554,9 +554,9 @@
    "home": "Seattle Seahawks",
    "away": "Los Angeles Chargers",
    "model": 0.8186331328572014,
-   "market": 0.6092362344582594,
-   "blend": 0.672055303977942,
-   "edge": 0.20939689839894204,
+   "market": 0.6164383561643836,
+   "blend": 0.6770967891722289,
+   "edge": 0.20219477669281782,
    "kickoff": "2026-10-04T20:25:00+00:00"
   },
   {
@@ -689,9 +689,9 @@
    "home": "Seattle Seahawks",
    "away": "San Francisco 49ers",
    "model": 0.7748940593493279,
-   "market": 0.6309403437815976,
-   "blend": 0.6741264584519167,
-   "edge": 0.1439537155677303,
+   "market": 0.6369041816941223,
+   "blend": 0.678301144990684,
+   "edge": 0.13798987765520554,
    "kickoff": "2026-10-11T20:25:00+00:00"
   },
   {
@@ -1085,9 +1085,9 @@
    "home": "Seattle Seahawks",
    "away": "Chicago Bears",
    "model": 0.8105701267321248,
-   "market": 0.6636481241914618,
-   "blend": 0.7077247249536607,
-   "edge": 0.146922002540663,
+   "market": 0.6574752261956054,
+   "blend": 0.7034036963565612,
+   "edge": 0.15309490053651942,
    "kickoff": "2026-11-03T01:20:00+00:00"
   },
   {
@@ -1256,9 +1256,9 @@
    "home": "New York Jets",
    "away": "Buffalo Bills",
    "model": 0.137126962155953,
-   "market": 0.2591283863368669,
-   "blend": 0.2225279590825927,
-   "edge": -0.12200142418091392,
+   "market": 0.2559309849029475,
+   "blend": 0.22028977807884914,
+   "edge": -0.11880402274699453,
    "kickoff": "2026-11-15T18:00:00+00:00"
   },
   {
@@ -1625,9 +1625,9 @@
    "home": "Atlanta Falcons",
    "away": "Detroit Lions",
    "model": 0.39022994364654173,
-   "market": 0.3690596562184025,
-   "blend": 0.37541074244684425,
-   "edge": 0.021170287428139256,
+   "market": 0.3775334481388264,
+   "blend": 0.38134239679114096,
+   "edge": 0.012696495507715344,
    "kickoff": "2026-12-06T18:00:00+00:00"
   },
   {
@@ -1850,9 +1850,9 @@
    "home": "Seattle Seahawks",
    "away": "New York Giants",
    "model": 0.91315685662907,
-   "market": 0.7508125677139762,
-   "blend": 0.7995158543885044,
-   "edge": 0.16234428891509378,
+   "market": 0.7477827050997783,
+   "blend": 0.7973949505585658,
+   "edge": 0.1653741515292917,
    "kickoff": "2026-12-13T21:25:00+00:00"
   },
   {
@@ -1895,9 +1895,9 @@
    "home": "Buffalo Bills",
    "away": "Chicago Bears",
    "model": 0.6999927629476472,
-   "market": 0.6369041816941223,
-   "blend": 0.6558307560701797,
-   "edge": 0.0630885812535249,
+   "market": 0.6309403437815976,
+   "blend": 0.6516560695314124,
+   "edge": 0.06905241916604965,
    "kickoff": "2026-12-20T01:20:00+00:00"
   },
   {
@@ -2003,9 +2003,9 @@
    "home": "Minnesota Vikings",
    "away": "Detroit Lions",
    "model": 0.5599824002148097,
-   "market": 0.4675324675324675,
-   "blend": 0.4952674473371702,
-   "edge": 0.0924499326823422,
+   "market": 0.4739134147382802,
+   "blend": 0.49973411038123905,
+   "edge": 0.08606898547652952,
    "kickoff": "2026-12-21T01:20:00+00:00"
   },
   {
@@ -2156,9 +2156,9 @@
    "home": "Detroit Lions",
    "away": "New York Giants",
    "model": 0.7875836392972163,
-   "market": 0.6574752261956054,
-   "blend": 0.6965077501260887,
-   "edge": 0.13010841310161092,
+   "market": 0.6636481241914618,
+   "blend": 0.7008287787231882,
+   "edge": 0.12393551510575451,
    "kickoff": "2026-12-29T01:15:00+00:00"
   },
   {
@@ -2473,7 +2473,7 @@
    "model": 0.32204275028785145,
    "market": 0.593369754159424,
    "qb": null,
-   "story": "Our model prices Dallas Cowboys 27 points lower than the market does. No injury reports are filed in the offseason, so this gap most likely reflects roster turnover (trades, signings, departures) that ratings haven't seen play out yet."
+   "story": "Our model prices Dallas Cowboys 27 points lower than the market does. Fantasy managers are moving too (WR Camden Brown(DAL) 26,565 adds/24h), which usually tracks breaking roster news."
   }
  ]
 }
