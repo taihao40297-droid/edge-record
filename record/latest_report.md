@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-08-18 (UTC)
+# 🏈 NFL Edge Daily — 2026-08-19 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,18 +6,17 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 63%（分歧 -29%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · DE Brennan Jackson — IR (3d ago)；· WR Dont'e Thornton — Questionable (2d ago)；· RB Chris Collier — IR (16d ago) ｜ MIA: 🚨 QB Quinn Ewers — Questionable (2d ago)；· DL Kenneth Grant — Questionable (7h ago)；· DL Rene Konga — IR (13d ago)；· WR Chris Bell — Questionable (5h ago)
+  - 日級狀態（Sleeper）：LV: · DE Brennan Jackson — IR (4d ago)；· WR Dont'e Thornton — Questionable (3d ago)；· RB Chris Collier — IR (17d ago) ｜ MIA: 🚨 QB Quinn Ewers — Questionable (3d ago)；· DL Kenneth Grant — Questionable (23h ago)；· DL Rene Konga — IR (13d ago)；· WR Chris Bell — Questionable (21h ago)
 - **Jacksonville Jaguars @ Tennessee Titans** — 模型 17% vs 市場 45%（分歧 -28%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：TEN: 🚨 QB Mitchell Trubisky — Questionable (14h ago)；· TE Jaren Kanak — IR (40h ago)；· RB Tony Pollard — Questionable (26h ago)；· WR Carnell Tate — Questionable (28h ago) ｜ JAX: · WR Parker Washington — Questionable (9h ago)；· OL Patrick Mekari — Questionable (20h ago)；· LB Parker Hughes — IR (22h ago)；· LB Jack Kiser — Questionable (19d ago)
+  - 日級狀態（Sleeper）：TEN: 🚨 QB Mitchell Trubisky — Questionable (30h ago)；· TE Jaren Kanak — IR (2d ago)；· RB Tony Pollard — Questionable (42h ago)；· WR Carnell Tate — Questionable (44h ago) ｜ JAX: · WR Parker Washington — Questionable (7h ago)；· OL Wyatt Milum — Questionable (14h ago)；· OL Patrick Mekari — Questionable (36h ago)；· LB Parker Hughes — IR (38h ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · OL Tyler Guyton — Questionable (14d ago)；· DE Jonathan Bullard — Questionable (9d ago)；· TE Princeton Fant — IR (12d ago)；· DB Zion Childress — Questionable (14d ago) ｜ JAX: · WR Parker Washington — Questionable (9h ago)；· OL Patrick Mekari — Questionable (20h ago)；· LB Parker Hughes — IR (22h ago)；· LB Jack Kiser — Questionable (19d ago)
+  - 日級狀態（Sleeper）：DAL: · OL Tyler Guyton — Questionable (15d ago)；· DE Jonathan Bullard — Questionable (10d ago)；· RB Jaydon Blue — Questionable (14h ago)；· TE Princeton Fant — IR (12d ago) ｜ JAX: · WR Parker Washington — Questionable (7h ago)；· OL Wyatt Milum — Questionable (14h ago)；· OL Patrick Mekari — Questionable (36h ago)；· LB Parker Hughes — IR (38h ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
 - Minnesota Vikings @ Chicago Bears: 主隊隱含 62% → 64% (+2%)
-- New York Jets @ Detroit Lions: 主隊隱含 79% → 77% (-2%)
 - Miami Dolphins @ Minnesota Vikings: 主隊隱含 75% → 78% (+3%)
 - Miami Dolphins @ Indianapolis Colts: 主隊隱含 71% → 73% (+2%)
 
@@ -43,7 +42,7 @@
 | 09/15 | Denver Broncos @ Kansas City Chiefs | 31% | 57% | **49%** |
 | 09/18 | Detroit Lions @ Buffalo Bills | 66% | 59% | **61%** |
 | 09/20 | Carolina Panthers @ Atlanta Falcons | 64% | 53% | **57%** |
-| 09/20 | New Orleans Saints @ Baltimore Ravens | 75% | 75% | **75%** |
+| 09/20 | New Orleans Saints @ Baltimore Ravens | 75% | 74% | **75%** |
 | 09/20 | Minnesota Vikings @ Chicago Bears | 51% | 64% | **60%** |
 | 09/20 | Cincinnati Bengals @ Houston Texans | 79% | 55% | **62%** |
 | 09/20 | Cleveland Browns @ Tampa Bay Buccaneers | 67% | 68% | **68%** |
@@ -184,7 +183,7 @@
 | 11/22 | Tampa Bay Buccaneers @ Detroit Lions | 70% | 66% | **67%** |
 | 11/22 | Jacksonville Jaguars @ New York Giants | 27% | 47% | **41%** |
 | 11/22 | New York Jets @ Los Angeles Chargers | 84% | 78% | **80%** |
-| 11/22 | Las Vegas Raiders @ Denver Broncos | 92% | 75% | **80%** |
+| 11/22 | Las Vegas Raiders @ Denver Broncos | 92% | 74% | **80%** |
 | 11/22 | Pittsburgh Steelers @ Philadelphia Eagles | 65% | 69% | **68%** |
 | 11/23 | Minnesota Vikings @ San Francisco 49ers | 56% | 64% | **62%** |
 | 11/24 | Cincinnati Bengals @ Washington Commanders | 52% | 47% | **48%** |
@@ -195,7 +194,7 @@
 | 11/27 | Denver Broncos @ Pittsburgh Steelers | 35% | 46% | **43%** |
 | 11/29 | Atlanta Falcons @ Minnesota Vikings | 71% | 66% | **68%** |
 | 11/29 | Baltimore Ravens @ Houston Texans | 68% | 53% | **58%** |
-| 11/29 | New Orleans Saints @ Cincinnati Bengals | 64% | 72% | **70%** |
+| 11/29 | New Orleans Saints @ Cincinnati Bengals | 64% | 72% | **69%** |
 | 11/29 | Las Vegas Raiders @ Cleveland Browns | 70% | 53% | **58%** |
 | 11/29 | New York Giants @ Indianapolis Colts | 64% | 55% | **58%** |
 | 11/29 | Tennessee Titans @ Jacksonville Jaguars | 88% | 68% | **74%** |
@@ -253,7 +252,7 @@
 | 12/25 | Green Bay Packers @ Chicago Bears | 57% | 52% | **53%** |
 | 12/25 | Buffalo Bills @ Denver Broncos | 57% | 46% | **49%** |
 | 12/26 | Los Angeles Rams @ Seattle Seahawks | 69% | 51% | **57%** |
-| 12/27 | Arizona Cardinals @ New Orleans Saints | 66% | 68% | **67%** |
+| 12/27 | Arizona Cardinals @ New Orleans Saints | 66% | 69% | **68%** |
 | 12/27 | Tampa Bay Buccaneers @ Atlanta Falcons | 55% | 47% | **49%** |
 | 12/27 | Cleveland Browns @ Baltimore Ravens | 78% | 79% | **78%** |
 | 12/27 | Carolina Panthers @ Pittsburgh Steelers | 71% | 63% | **66%** |

@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-18T22:28+00:00",
+ "generated_utc": "2026-08-19T14:25+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -122,9 +122,9 @@
    "home": "Philadelphia Eagles",
    "away": "Washington Commanders",
    "model": 0.7412818434534325,
-   "market": 0.658887866154096,
-   "blend": 0.683606059343897,
-   "edge": 0.08239397729933651,
+   "market": 0.6596858638743455,
+   "blend": 0.6841646577480716,
+   "edge": 0.08159597957908704,
    "kickoff": "2026-09-13T20:25:00+00:00"
   },
   {
@@ -167,9 +167,9 @@
    "home": "Baltimore Ravens",
    "away": "New Orleans Saints",
    "model": 0.7511596767795633,
-   "market": 0.7477827050997783,
-   "blend": 0.7487957966037138,
-   "edge": 0.0033769716797850124,
+   "market": 0.7440690150970525,
+   "blend": 0.7461962136018057,
+   "edge": 0.007090661682510824,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
@@ -1391,9 +1391,9 @@
    "home": "Chicago Bears",
    "away": "New Orleans Saints",
    "model": 0.7337794673221436,
-   "market": 0.7095435684647302,
-   "blend": 0.7168143381219543,
-   "edge": 0.024235898857413396,
+   "market": 0.7135512302607419,
+   "blend": 0.7196197013791623,
+   "edge": 0.020228237061401755,
    "kickoff": "2026-11-22T18:00:00+00:00"
   },
   {
@@ -1436,9 +1436,9 @@
    "home": "Denver Broncos",
    "away": "Las Vegas Raiders",
    "model": 0.9197070773702266,
-   "market": 0.7477827050997783,
-   "blend": 0.7993600167809127,
-   "edge": 0.17192437227044832,
+   "market": 0.7440690150970525,
+   "blend": 0.7967604337790046,
+   "edge": 0.17563806227317413,
    "kickoff": "2026-11-22T21:25:00+00:00"
   },
   {
@@ -1535,9 +1535,9 @@
    "home": "Cincinnati Bengals",
    "away": "New Orleans Saints",
    "model": 0.6368732808404888,
-   "market": 0.7220792588780237,
-   "blend": 0.6965174654667632,
-   "edge": -0.08520597803753494,
+   "market": 0.7179705215419501,
+   "blend": 0.6936413493315117,
+   "edge": -0.08109724070146129,
    "kickoff": "2026-11-29T18:00:00+00:00"
   },
   {
@@ -2057,9 +2057,9 @@
    "home": "New Orleans Saints",
    "away": "Arizona Cardinals",
    "model": 0.6554725562279589,
-   "market": 0.6805555555555556,
-   "blend": 0.6730306557572765,
-   "edge": -0.025082999327596722,
+   "market": 0.6853932584269663,
+   "blend": 0.6764170477672641,
+   "edge": -0.029920702199007443,
    "kickoff": "2026-12-27T18:00:00+00:00"
   },
   {
@@ -2174,9 +2174,9 @@
    "home": "Atlanta Falcons",
    "away": "New Orleans Saints",
    "model": 0.6267634531283913,
-   "market": 0.5260865852617197,
-   "blend": 0.5562896456217212,
-   "edge": 0.10067686786667163,
+   "market": 0.5324675324675325,
+   "blend": 0.5607563086657902,
+   "edge": 0.09429592066085879,
    "kickoff": "2027-01-03T18:00:00+00:00"
   },
   {
@@ -2457,7 +2457,7 @@
    "model": 0.3418990459469906,
    "market": 0.6345305608065531,
    "qb": null,
-   "story": "Our model prices Las Vegas Raiders 29 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Quinn Ewers \u2014 Questionable (2d ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Las Vegas Raiders 29 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Quinn Ewers \u2014 Questionable (3d ago). QB uncertainty moves lines faster than anything."
   },
   {
    "away": "Jacksonville Jaguars",
@@ -2465,7 +2465,7 @@
    "model": 0.17231743433595462,
    "market": 0.448558885283451,
    "qb": null,
-   "story": "Our model prices Tennessee Titans 28 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Mitchell Trubisky \u2014 Questionable (14h ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Tennessee Titans 28 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Mitchell Trubisky \u2014 Questionable (30h ago). QB uncertainty moves lines faster than anything."
   },
   {
    "away": "Jacksonville Jaguars",
@@ -2473,7 +2473,7 @@
    "model": 0.32204275028785145,
    "market": 0.593369754159424,
    "qb": null,
-   "story": "Our model prices Dallas Cowboys 27 points lower than the market does. No injury reports are filed in the offseason, so this gap most likely reflects roster turnover (trades, signings, departures) that ratings haven't seen play out yet."
+   "story": "Our model prices Dallas Cowboys 27 points lower than the market does. Fantasy managers are moving too (RB Jaydon Blue(DAL) 7,320 drops/24h), which usually tracks breaking roster news."
   }
  ]
 }
