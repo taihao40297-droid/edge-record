@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-09-04 (UTC)
+# 🏈 NFL Edge Daily — 2026-09-05 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,23 +6,23 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 62%（分歧 -28%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · G Justin Pickett — IR (22d ago)；· RB Ashton Jeanty — Questionable (2d ago)；· DE Keyron Crawford — IR (3d ago)；· WR Chase Roberts — Questionable (4d ago) ｜ MIA: · DL Kenneth Grant — IR (4d ago)；· DL Rene Konga — IR (30d ago)；· LB Trey Moore — IR (4d ago)；· CB Darrell Baker — PUP (4d ago)
+  - 日級狀態（Sleeper）：LV: · G Justin Pickett — IR (23d ago)；· RB Ashton Jeanty — Questionable (1h ago)；· DE Keyron Crawford — IR (4d ago)；· DE Brennan Jackson — IR (21d ago) ｜ MIA: · DL Kenneth Grant — IR (5d ago)；· LB Trey Moore — IR (5d ago)；· CB Darrell Baker — PUP (5d ago)；· TE Ben Sims — IR (4d ago)
 - **Jacksonville Jaguars @ Tennessee Titans** — 模型 17% vs 市場 45%（分歧 -28%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：TEN: 🚨 QB Mitchell Trubisky — Questionable (16d ago)；· TE Jaren Kanak — IR (19d ago)；· CB Joshua Williams — IR (4d ago)；· LB Dorian Mausi — IR (4d ago) ｜ JAX: 🚨 QB Carter Bradley — IR (4d ago)；· OL Wyatt Milum — Questionable (17d ago)；· DE Zach Durfee — IR (5d ago)；· OL Patrick Mekari — IR (4d ago)
+  - 日級狀態（Sleeper）：TEN: 🚨 QB Mitchell Trubisky — Questionable (17d ago)；· TE Jaren Kanak — IR (19d ago)；· CB Joshua Williams — IR (5d ago)；· LB Dorian Mausi — IR (5d ago) ｜ JAX: 🚨 QB Carter Bradley — IR (5d ago)；· OL Wyatt Milum — Questionable (18d ago)；· DE Zach Durfee — IR (6d ago)；· OL Patrick Mekari — IR (5d ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · CB Devin Moore — IR (4d ago)；· DE Jonathan Bullard — Questionable (26d ago)；· TE DJ Rogers — IR (4d ago)；· LB Marist Liufau — IR (4d ago) ｜ JAX: 🚨 QB Carter Bradley — IR (4d ago)；· OL Wyatt Milum — Questionable (17d ago)；· DE Zach Durfee — IR (5d ago)；· OL Patrick Mekari — IR (4d ago)
+  - 日級狀態（Sleeper）：DAL: · CB Devin Moore — IR (5d ago)；· DE Jonathan Bullard — Questionable (27d ago)；· TE DJ Rogers — IR (5d ago)；· LB Marist Liufau — IR (5d ago) ｜ JAX: 🚨 QB Carter Bradley — IR (5d ago)；· OL Wyatt Milum — Questionable (18d ago)；· DE Zach Durfee — IR (6d ago)；· OL Patrick Mekari — IR (5d ago)
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
-| 09/10 | New England Patriots @ Seattle Seahawks | 71% | 63% | **65%** |
-| 09/11 | San Francisco 49ers @ Los Angeles Rams | 66% | 64% | **65%** |
+| 09/10 | New England Patriots @ Seattle Seahawks | 71% | 62% | **65%** |
+| 09/11 | San Francisco 49ers @ Los Angeles Rams | 66% | 64% | **64%** |
 | 09/13 | Atlanta Falcons @ Pittsburgh Steelers | 64% | 62% | **63%** |
 | 09/13 | Baltimore Ravens @ Indianapolis Colts | 40% | 38% | **39%** |
-| 09/13 | Buffalo Bills @ Houston Texans | 56% | 50% | **51%** |
+| 09/13 | Buffalo Bills @ Houston Texans | 56% | 49% | **51%** |
 | 09/13 | Chicago Bears @ Carolina Panthers | 35% | 42% | **40%** |
 | 09/13 | Tampa Bay Buccaneers @ Cincinnati Bengals | 56% | 65% | **62%** |
 | 09/13 | Cleveland Browns @ Jacksonville Jaguars | 82% | 77% | **78%** |
@@ -48,7 +48,7 @@
 | 09/20 | Seattle Seahawks @ Arizona Cardinals | 10% | 19% | **16%** |
 | 09/20 | Washington Commanders @ Dallas Cowboys | 55% | 64% | **62%** |
 | 09/20 | Miami Dolphins @ San Francisco 49ers | 75% | 84% | **81%** |
-| 09/21 | Indianapolis Colts @ Kansas City Chiefs | 61% | 74% | **70%** |
+| 09/21 | Indianapolis Colts @ Kansas City Chiefs | 61% | 73% | **70%** |
 | 09/22 | New York Giants @ Los Angeles Rams | 86% | 76% | **79%** |
 | 09/25 | Atlanta Falcons @ Green Bay Packers | 66% | 76% | **73%** |
 | 09/27 | Los Angeles Chargers @ Buffalo Bills | 71% | 59% | **63%** |
