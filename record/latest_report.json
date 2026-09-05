@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-05T16:27+00:00",
+ "generated_utc": "2026-09-05T23:41+00:00",
  "slate": [
   {
    "home": "Seattle Seahawks",
@@ -14,9 +14,9 @@
    "home": "Los Angeles Rams",
    "away": "San Francisco 49ers",
    "model": 0.6598699987493672,
-   "market": 0.6360381861575178,
-   "blend": 0.6431877299350727,
-   "edge": 0.02383181259184941,
+   "market": 0.6345305608065531,
+   "blend": 0.6421323921893973,
+   "edge": 0.025339437942814125,
    "kickoff": "2026-09-11T00:35:00+00:00"
   },
   {
@@ -50,9 +50,9 @@
    "home": "Carolina Panthers",
    "away": "Chicago Bears",
    "model": 0.34944540629530146,
-   "market": 0.41791336021855074,
-   "blend": 0.39737297404157595,
-   "edge": -0.06846795392324928,
+   "market": 0.4170073589533933,
+   "blend": 0.3967387731559658,
+   "edge": -0.06756195265809184,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
@@ -86,9 +86,9 @@
    "home": "Tennessee Titans",
    "away": "New York Jets",
    "model": 0.5524393261518288,
-   "market": 0.5399641728308731,
-   "blend": 0.5437067188271598,
-   "edge": 0.012475153320955723,
+   "market": 0.5409752500521443,
+   "blend": 0.5444144728820497,
+   "edge": 0.011464076099684473,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
@@ -113,9 +113,9 @@
    "home": "Las Vegas Raiders",
    "away": "Miami Dolphins",
    "model": 0.3418990459469906,
-   "market": 0.6229464045246431,
-   "blend": 0.5386321969513473,
-   "edge": -0.2810473585776525,
+   "market": 0.6212366043150588,
+   "blend": 0.5374353368046383,
+   "edge": -0.2793375583680682,
    "kickoff": "2026-09-13T20:25:00+00:00"
   },
   {
@@ -176,9 +176,9 @@
    "home": "Chicago Bears",
    "away": "Minnesota Vikings",
    "model": 0.5095860253898395,
-   "market": 0.6309403437815976,
-   "blend": 0.5945340482640702,
-   "edge": -0.12135431839175803,
+   "market": 0.6369041816941223,
+   "blend": 0.5987087348028375,
+   "edge": -0.12731815630428278,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
@@ -275,9 +275,9 @@
    "home": "Kansas City Chiefs",
    "away": "Indianapolis Colts",
    "model": 0.6053300777623344,
-   "market": 0.7335423197492164,
-   "blend": 0.6950786471531518,
-   "edge": -0.12821224198688197,
+   "market": 0.740871613663133,
+   "blend": 0.7002091528928934,
+   "edge": -0.13554153590079865,
    "kickoff": "2026-09-21T00:20:00+00:00"
   },
   {
@@ -482,9 +482,9 @@
    "home": "Chicago Bears",
    "away": "New York Jets",
    "model": 0.8432845182489368,
-   "market": 0.771505376344086,
-   "blend": 0.7930391189155412,
-   "edge": 0.0717791419048508,
+   "market": 0.7819063004846527,
+   "blend": 0.800319765813938,
+   "edge": 0.06137821776428409,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
@@ -1211,9 +1211,9 @@
    "home": "Chicago Bears",
    "away": "Tampa Bay Buccaneers",
    "model": 0.6655542215519634,
-   "market": 0.6309403437815976,
-   "blend": 0.6413245071127074,
-   "edge": 0.03461387777036584,
+   "market": 0.6369041816941223,
+   "blend": 0.6454991936514747,
+   "edge": 0.028650039857841092,
    "kickoff": "2026-11-09T01:20:00+00:00"
   },
   {
@@ -1391,9 +1391,9 @@
    "home": "Chicago Bears",
    "away": "New Orleans Saints",
    "model": 0.7337794673221436,
-   "market": 0.7095435684647302,
-   "blend": 0.7168143381219543,
-   "edge": 0.024235898857413396,
+   "market": 0.705033164260632,
+   "blend": 0.7136570551790855,
+   "edge": 0.028746303061511602,
    "kickoff": "2026-11-22T18:00:00+00:00"
   },
   {
@@ -2455,9 +2455,9 @@
    "away": "Miami Dolphins",
    "home": "Las Vegas Raiders",
    "model": 0.3418990459469906,
-   "market": 0.6229464045246431,
+   "market": 0.6212366043150588,
    "qb": null,
-   "story": "Our model prices Las Vegas Raiders 28 points lower than the market does. No injury reports are filed in the offseason, so this gap most likely reflects roster turnover (trades, signings, departures) that ratings haven't seen play out yet."
+   "story": "Our model prices Las Vegas Raiders 28 points lower than the market does. Fantasy managers are moving too (K Matt Gay(LV) 13,910 adds/24h), which usually tracks breaking roster news."
   },
   {
    "away": "Jacksonville Jaguars",
