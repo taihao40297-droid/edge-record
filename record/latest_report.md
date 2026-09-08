@@ -6,40 +6,40 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 62%（分歧 -28%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · G Justin Pickett — IR (25d ago)；· RB Ashton Jeanty — Questionable (2d ago)；· DE Keyron Crawford — IR (6d ago)；· DE Brennan Jackson — IR (23d ago) ｜ MIA: · DL Kenneth Grant — IR (7d ago)；· LB Trey Moore — IR (7d ago)；· CB Darrell Baker — PUP (7d ago)；· TE Ben Sims — IR (6d ago)
+  - 日級狀態（Sleeper）：LV: · G Justin Pickett — IR (26d ago)；· RB Ashton Jeanty — Questionable (3d ago)；· DE Keyron Crawford — IR (7d ago)；· DE Brennan Jackson — IR (24d ago) ｜ MIA: · DL Kenneth Grant — IR (8d ago)；· LB Trey Moore — IR (8d ago)；· CB Darrell Baker — PUP (8d ago)；· TE Ben Sims — IR (7d ago)
 - **Jacksonville Jaguars @ Tennessee Titans** — 模型 17% vs 市場 45%（分歧 -28%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：TEN: 🚨 QB Mitchell Trubisky — Questionable (19d ago)；· TE Jaren Kanak — IR (22d ago)；· CB Joshua Williams — IR (7d ago)；· LB Dorian Mausi — IR (7d ago) ｜ JAX: 🚨 QB Carter Bradley — IR (7d ago)；· OL Wyatt Milum — Questionable (20d ago)；· DE Zach Durfee — IR (8d ago)；· OL Patrick Mekari — IR (7d ago)
+  - 日級狀態（Sleeper）：TEN: 🚨 QB Mitchell Trubisky — Questionable (20d ago)；· TE Jaren Kanak — IR (22d ago)；· CB Joshua Williams — IR (8d ago)；· LB Dorian Mausi — IR (8d ago) ｜ JAX: · OL Wyatt Milum — Questionable (21d ago)；· DE Zach Durfee — IR (9d ago)；· OL Patrick Mekari — IR (8d ago)；· WR Jakobi Meyers — Questionable (27h ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · CB Devin Moore — IR (7d ago)；· DE Jonathan Bullard — Questionable (29d ago)；· TE DJ Rogers — IR (7d ago)；· LB Marist Liufau — IR (7d ago) ｜ JAX: 🚨 QB Carter Bradley — IR (7d ago)；· OL Wyatt Milum — Questionable (20d ago)；· DE Zach Durfee — IR (8d ago)；· OL Patrick Mekari — IR (7d ago)
+  - 日級狀態（Sleeper）：DAL: · CB Devin Moore — IR (8d ago)；· OL Tyler Smith — Out (2h ago)；· DE Jonathan Bullard — Questionable (30d ago)；· TE DJ Rogers — IR (8d ago) ｜ JAX: · OL Wyatt Milum — Questionable (21d ago)；· DE Zach Durfee — IR (9d ago)；· OL Patrick Mekari — IR (8d ago)；· WR Jakobi Meyers — Questionable (27h ago)
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
 | 09/10 | New England Patriots @ Seattle Seahawks | 71% | 62% | **65%** |
-| 09/11 | San Francisco 49ers @ Los Angeles Rams | 66% | 63% | **64%** |
+| 09/11 | San Francisco 49ers @ Los Angeles Rams | 66% | 64% | **65%** |
 | 09/13 | Atlanta Falcons @ Pittsburgh Steelers | 64% | 62% | **63%** |
-| 09/13 | Baltimore Ravens @ Indianapolis Colts | 40% | 39% | **39%** |
+| 09/13 | Baltimore Ravens @ Indianapolis Colts | 40% | 38% | **39%** |
 | 09/13 | Buffalo Bills @ Houston Texans | 56% | 48% | **50%** |
-| 09/13 | Chicago Bears @ Carolina Panthers | 35% | 42% | **40%** |
+| 09/13 | Chicago Bears @ Carolina Panthers | 35% | 40% | **39%** |
 | 09/13 | Tampa Bay Buccaneers @ Cincinnati Bengals | 56% | 65% | **62%** |
-| 09/13 | Cleveland Browns @ Jacksonville Jaguars | 82% | 77% | **79%** |
+| 09/13 | Cleveland Browns @ Jacksonville Jaguars | 82% | 77% | **78%** |
 | 09/13 | New Orleans Saints @ Detroit Lions | 77% | 73% | **74%** |
 | 09/13 | New York Jets @ Tennessee Titans | 55% | 53% | **54%** |
 | 09/13 | Arizona Cardinals @ Los Angeles Chargers | 80% | 81% | **80%** |
-| 09/13 | Green Bay Packers @ Minnesota Vikings | 62% | 52% | **55%** |
+| 09/13 | Green Bay Packers @ Minnesota Vikings | 62% | 53% | **55%** |
 | 09/13 | Miami Dolphins @ Las Vegas Raiders | 34% | 62% | **54%** |
 | 09/13 | Washington Commanders @ Philadelphia Eagles | 74% | 67% | **69%** |
-| 09/14 | Dallas Cowboys @ New York Giants | 49% | 41% | **44%** |
+| 09/14 | Dallas Cowboys @ New York Giants | 49% | 41% | **43%** |
 | 09/15 | Denver Broncos @ Kansas City Chiefs | 31% | 57% | **49%** |
 | 09/18 | Detroit Lions @ Buffalo Bills | 66% | 59% | **61%** |
 | 09/20 | Carolina Panthers @ Atlanta Falcons | 64% | 53% | **57%** |
 | 09/20 | New Orleans Saints @ Baltimore Ravens | 75% | 75% | **75%** |
 | 09/20 | Minnesota Vikings @ Chicago Bears | 51% | 63% | **59%** |
 | 09/20 | Cincinnati Bengals @ Houston Texans | 79% | 55% | **62%** |
-| 09/20 | Cleveland Browns @ Tampa Bay Buccaneers | 67% | 71% | **70%** |
+| 09/20 | Cleveland Browns @ Tampa Bay Buccaneers | 67% | 71% | **69%** |
 | 09/20 | Green Bay Packers @ New York Jets | 24% | 32% | **29%** |
 | 09/20 | Pittsburgh Steelers @ New England Patriots | 72% | 66% | **68%** |
 | 09/20 | Philadelphia Eagles @ Tennessee Titans | 19% | 34% | **30%** |
@@ -54,7 +54,7 @@
 | 09/27 | Los Angeles Chargers @ Buffalo Bills | 71% | 59% | **63%** |
 | 09/27 | Carolina Panthers @ Cleveland Browns | 54% | 47% | **49%** |
 | 09/27 | Cincinnati Bengals @ Pittsburgh Steelers | 63% | 47% | **51%** |
-| 09/27 | New York Jets @ Detroit Lions | 87% | 78% | **80%** |
+| 09/27 | New York Jets @ Detroit Lions | 87% | 77% | **80%** |
 | 09/27 | Houston Texans @ Indianapolis Colts | 28% | 47% | **42%** |
 | 09/27 | New England Patriots @ Jacksonville Jaguars | 50% | 52% | **51%** |
 | 09/27 | Kansas City Chiefs @ Miami Dolphins | 49% | 22% | **30%** |
@@ -63,14 +63,14 @@
 | 09/27 | Arizona Cardinals @ San Francisco 49ers | 84% | 83% | **83%** |
 | 09/27 | Minnesota Vikings @ Tampa Bay Buccaneers | 40% | 53% | **49%** |
 | 09/27 | Baltimore Ravens @ Dallas Cowboys | 38% | 45% | **43%** |
-| 09/27 | Las Vegas Raiders @ New Orleans Saints | 73% | 63% | **66%** |
+| 09/27 | Las Vegas Raiders @ New Orleans Saints | 73% | 62% | **65%** |
 | 09/28 | Los Angeles Rams @ Denver Broncos | 56% | 42% | **46%** |
 | 09/29 | Philadelphia Eagles @ Chicago Bears | 50% | 52% | **51%** |
 | 10/02 | Pittsburgh Steelers @ Cleveland Browns | 37% | 45% | **43%** |
 | 10/04 | Indianapolis Colts @ Washington Commanders | 55% | 50% | **51%** |
 | 10/04 | Arizona Cardinals @ New York Giants | 63% | 73% | **70%** |
 | 10/04 | Tennessee Titans @ Baltimore Ravens | 86% | 77% | **79%** |
-| 10/04 | New England Patriots @ Buffalo Bills | 57% | 60% | **59%** |
+| 10/04 | New England Patriots @ Buffalo Bills | 57% | 59% | **59%** |
 | 10/04 | New York Jets @ Chicago Bears | 84% | 78% | **80%** |
 | 10/04 | Jacksonville Jaguars @ Cincinnati Bengals | 37% | 55% | **50%** |
 | 10/04 | Dallas Cowboys @ Houston Texans | 82% | 55% | **63%** |
@@ -99,7 +99,7 @@
 | 10/13 | Buffalo Bills @ Los Angeles Rams | 57% | 60% | **59%** |
 | 10/16 | Seattle Seahawks @ Denver Broncos | 42% | 46% | **45%** |
 | 10/18 | Houston Texans @ Jacksonville Jaguars | 48% | 50% | **49%** |
-| 10/18 | Chicago Bears @ Atlanta Falcons | 43% | 41% | **41%** |
+| 10/18 | Chicago Bears @ Atlanta Falcons | 43% | 42% | **42%** |
 | 10/18 | Baltimore Ravens @ Cleveland Browns | 31% | 31% | **31%** |
 | 10/18 | Carolina Panthers @ Philadelphia Eagles | 79% | 71% | **73%** |
 | 10/18 | Tennessee Titans @ Indianapolis Colts | 76% | 64% | **67%** |
@@ -158,19 +158,19 @@
 | 11/15 | New England Patriots @ Detroit Lions | 46% | 51% | **49%** |
 | 11/15 | Kansas City Chiefs @ Atlanta Falcons | 52% | 34% | **39%** |
 | 11/15 | Buffalo Bills @ New York Jets | 14% | 26% | **22%** |
-| 11/15 | Carolina Panthers @ New Orleans Saints | 57% | 52% | **53%** |
+| 11/15 | Carolina Panthers @ New Orleans Saints | 57% | 52% | **54%** |
 | 11/15 | Houston Texans @ Cleveland Browns | 21% | 36% | **31%** |
 | 11/15 | Minnesota Vikings @ Green Bay Packers | 50% | 68% | **63%** |
-| 11/15 | Miami Dolphins @ Indianapolis Colts | 58% | 73% | **68%** |
+| 11/15 | Miami Dolphins @ Indianapolis Colts | 58% | 72% | **68%** |
 | 11/15 | Jacksonville Jaguars @ Tennessee Titans | 17% | 45% | **37%** |
 | 11/15 | Los Angeles Rams @ Arizona Cardinals | 17% | 21% | **20%** |
 | 11/15 | Seattle Seahawks @ Las Vegas Raiders | 7% | 27% | **21%** |
 | 11/15 | San Francisco 49ers @ Dallas Cowboys | 35% | 52% | **47%** |
 | 11/16 | Pittsburgh Steelers @ Cincinnati Bengals | 49% | 63% | **59%** |
 | 11/17 | Los Angeles Chargers @ Baltimore Ravens | 59% | 62% | **61%** |
-| 11/20 | Indianapolis Colts @ Houston Texans | 80% | 68% | **72%** |
+| 11/20 | Indianapolis Colts @ Houston Texans | 80% | 68% | **71%** |
 | 11/22 | Arizona Cardinals @ Kansas City Chiefs | 74% | 82% | **80%** |
-| 11/22 | Baltimore Ravens @ Carolina Panthers | 33% | 36% | **35%** |
+| 11/22 | Baltimore Ravens @ Carolina Panthers | 33% | 34% | **34%** |
 | 11/22 | Miami Dolphins @ Buffalo Bills | 82% | 83% | **83%** |
 | 11/22 | New Orleans Saints @ Chicago Bears | 73% | 71% | **72%** |
 | 11/22 | Tennessee Titans @ Dallas Cowboys | 74% | 71% | **72%** |
@@ -211,9 +211,9 @@
 | 12/06 | Carolina Panthers @ Minnesota Vikings | 78% | 63% | **68%** |
 | 12/07 | Houston Texans @ Pittsburgh Steelers | 36% | 47% | **44%** |
 | 12/08 | Dallas Cowboys @ Seattle Seahawks | 89% | 66% | **73%** |
-| 12/11 | Minnesota Vikings @ New England Patriots | 64% | 66% | **65%** |
+| 12/11 | Minnesota Vikings @ New England Patriots | 64% | 66% | **66%** |
 | 12/13 | Atlanta Falcons @ Cleveland Browns | 45% | 53% | **51%** |
-| 12/13 | Tampa Bay Buccaneers @ Baltimore Ravens | 69% | 70% | **69%** |
+| 12/13 | Tampa Bay Buccaneers @ Baltimore Ravens | 69% | 69% | **69%** |
 | 12/13 | New Orleans Saints @ Carolina Panthers | 54% | 55% | **55%** |
 | 12/13 | Chicago Bears @ Miami Dolphins | 40% | 32% | **34%** |
 | 12/13 | Denver Broncos @ New York Jets | 13% | 33% | **27%** |
@@ -234,7 +234,7 @@
 | 12/20 | Cincinnati Bengals @ Carolina Panthers | 46% | 43% | **44%** |
 | 12/20 | Cleveland Browns @ New York Giants | 57% | 66% | **63%** |
 | 12/20 | Miami Dolphins @ Green Bay Packers | 70% | 83% | **79%** |
-| 12/20 | Jacksonville Jaguars @ Houston Texans | 63% | 58% | **60%** |
+| 12/20 | Jacksonville Jaguars @ Houston Texans | 63% | 59% | **60%** |
 | 12/20 | Indianapolis Colts @ Tennessee Titans | 34% | 47% | **43%** |
 | 12/20 | New Orleans Saints @ Tampa Bay Buccaneers | 64% | 64% | **64%** |
 | 12/20 | New York Jets @ Arizona Cardinals | 62% | 50% | **54%** |
@@ -254,7 +254,7 @@
 | 12/27 | Tennessee Titans @ Las Vegas Raiders | 54% | 53% | **54%** |
 | 12/27 | Los Angeles Chargers @ Miami Dolphins | 41% | 25% | **30%** |
 | 12/27 | Washington Commanders @ Minnesota Vikings | 74% | 55% | **61%** |
-| 12/27 | New England Patriots @ New York Jets | 14% | 30% | **25%** |
+| 12/27 | New England Patriots @ New York Jets | 14% | 29% | **25%** |
 | 12/27 | San Francisco 49ers @ Kansas City Chiefs | 41% | 59% | **54%** |
 | 12/28 | Jacksonville Jaguars @ Dallas Cowboys | 32% | 59% | **51%** |
 | 12/29 | New York Giants @ Detroit Lions | 79% | 64% | **69%** |
@@ -268,7 +268,7 @@
 | 01/03 | Washington Commanders @ Jacksonville Jaguars | 76% | 62% | **66%** |
 | 01/03 | Los Angeles Rams @ Tampa Bay Buccaneers | 29% | 34% | **33%** |
 | 01/03 | Minnesota Vikings @ New York Jets | 20% | 38% | **32%** |
-| 01/03 | Pittsburgh Steelers @ Tennessee Titans | 26% | 47% | **40%** |
+| 01/03 | Pittsburgh Steelers @ Tennessee Titans | 26% | 47% | **41%** |
 | 01/03 | Las Vegas Raiders @ Arizona Cardinals | 64% | 46% | **51%** |
 | 01/03 | Detroit Lions @ Chicago Bears | 51% | 53% | **52%** |
 | 01/03 | Kansas City Chiefs @ Los Angeles Chargers | 63% | 53% | **56%** |
@@ -283,8 +283,8 @@
 | 01/10 | Los Angeles Chargers @ Denver Broncos | 72% | 53% | **59%** |
 | 01/10 | Detroit Lions @ Green Bay Packers | 50% | 55% | **54%** |
 | 01/10 | Tennessee Titans @ Houston Texans | 91% | 72% | **78%** |
-| 01/10 | Jacksonville Jaguars @ Indianapolis Colts | 34% | 53% | **48%** |
-| 01/10 | Las Vegas Raiders @ Kansas City Chiefs | 80% | 77% | **78%** |
+| 01/10 | Jacksonville Jaguars @ Indianapolis Colts | 34% | 53% | **47%** |
+| 01/10 | Las Vegas Raiders @ Kansas City Chiefs | 80% | 76% | **77%** |
 | 01/10 | Miami Dolphins @ New England Patriots | 81% | 82% | **81%** |
 | 01/10 | Tampa Bay Buccaneers @ New Orleans Saints | 48% | 47% | **47%** |
 | 01/10 | Philadelphia Eagles @ New York Giants | 29% | 42% | **38%** |
