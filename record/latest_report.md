@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-09-08 (UTC)
+# 🏈 NFL Edge Daily — 2026-09-09 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,32 +6,29 @@
 
 - **Miami Dolphins @ Las Vegas Raiders** — 模型 34% vs 市場 62%（分歧 -28%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LV: · G Justin Pickett — IR (26d ago)；· RB Ashton Jeanty — Questionable (3d ago)；· DE Keyron Crawford — IR (7d ago)；· DE Brennan Jackson — IR (24d ago) ｜ MIA: · DL Kenneth Grant — IR (8d ago)；· LB Trey Moore — IR (8d ago)；· CB Darrell Baker — PUP (8d ago)；· TE Ben Sims — IR (7d ago)
+  - 日級狀態（Sleeper）：LV: · G Justin Pickett — IR (27d ago)；· RB Ashton Jeanty — Questionable (4d ago)；· DE Keyron Crawford — IR (8d ago)；· DE Brennan Jackson — IR (25d ago) ｜ MIA: · DL Kenneth Grant — IR (9d ago)；· LB Trey Moore — IR (9d ago)；· CB Darrell Baker — PUP (9d ago)；· TE Ben Sims — IR (8d ago)
 - **Jacksonville Jaguars @ Tennessee Titans** — 模型 17% vs 市場 45%（分歧 -28%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：TEN: 🚨 QB Mitchell Trubisky — Questionable (20d ago)；· TE Jaren Kanak — IR (23d ago)；· CB Joshua Williams — IR (8d ago)；· LB Dorian Mausi — IR (8d ago) ｜ JAX: · OL Wyatt Milum — Questionable (21d ago)；· DE Zach Durfee — IR (9d ago)；· OL Patrick Mekari — IR (8d ago)；· WR Jakobi Meyers — Questionable (33h ago)
+  - 日級狀態（Sleeper）：TEN: 🚨 QB Mitchell Trubisky — Questionable (21d ago)；· TE Jaren Kanak — IR (23d ago)；· CB Joshua Williams — IR (9d ago)；· LB Dorian Mausi — IR (9d ago) ｜ JAX: · OL Wyatt Milum — Questionable (22d ago)；· DE Zach Durfee — IR (10d ago)；· OL Patrick Mekari — IR (9d ago)；· WR Jakobi Meyers — Questionable (1h ago)
 - **Jacksonville Jaguars @ Dallas Cowboys** — 模型 32% vs 市場 59%（分歧 -27%，1 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · DT Kelvin Gilliam — IR (14d ago)；· CB Devin Moore — IR (8d ago)；· OL Tyler Smith — Out (8h ago)；· TE DJ Rogers — IR (8d ago) ｜ JAX: · OL Wyatt Milum — Questionable (21d ago)；· DE Zach Durfee — IR (9d ago)；· OL Patrick Mekari — IR (8d ago)；· WR Jakobi Meyers — Questionable (33h ago)
+  - 日級狀態（Sleeper）：DAL: · DT Kelvin Gilliam — IR (15d ago)；· CB Devin Moore — IR (9d ago)；· OL Tyler Smith — IR (26h ago)；· TE DJ Rogers — IR (9d ago) ｜ JAX: · OL Wyatt Milum — Questionable (22d ago)；· DE Zach Durfee — IR (10d ago)；· OL Patrick Mekari — IR (9d ago)；· WR Jakobi Meyers — Questionable (1h ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
-- Buffalo Bills @ Houston Texans: 主隊隱含 50% → 48% (-2%)
-  - Trending 突波（24h vs 7日基線）：WR Tank Dell(HOU) 116,360 adds/24h
 - Minnesota Vikings @ Chicago Bears: 主隊隱含 63% → 60% (-3%)
 - Philadelphia Eagles @ Tennessee Titans: 主隊隱含 34% → 32% (-2%)
 - Las Vegas Raiders @ Los Angeles Chargers: 主隊隱含 75% → 77% (+2%)
+  - Trending 突波（24h vs 7日基線）：DEF ?(LV) 148,902 adds/24h；TE Charlie Kolar(LAC) 69,603 adds/24h
 - Indianapolis Colts @ Kansas City Chiefs: 主隊隱含 73% → 71% (-3%)
-- New York Giants @ Los Angeles Rams: 主隊隱含 77% → 80% (+3%)
-  - Trending 突波（24h vs 7日基線）：TE Terrance Ferguson(LAR) 32,048 adds/24h
+- New York Giants @ Los Angeles Rams: 主隊隱含 77% → 81% (+4%)
 - Los Angeles Rams @ Seattle Seahawks: 主隊隱含 51% → 54% (+3%)
-  - Trending 突波（24h vs 7日基線）：TE Terrance Ferguson(LAR) 32,048 adds/24h
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
-| 09/10 | New England Patriots @ Seattle Seahawks | 71% | 62% | **65%** |
+| 09/10 | New England Patriots @ Seattle Seahawks | 71% | 61% | **64%** |
 | 09/11 | San Francisco 49ers @ Los Angeles Rams | 66% | 65% | **65%** |
 | 09/13 | Atlanta Falcons @ Pittsburgh Steelers | 64% | 62% | **63%** |
 | 09/13 | Baltimore Ravens @ Indianapolis Colts | 40% | 38% | **39%** |
@@ -40,14 +37,14 @@
 | 09/13 | Tampa Bay Buccaneers @ Cincinnati Bengals | 56% | 65% | **62%** |
 | 09/13 | Cleveland Browns @ Jacksonville Jaguars | 82% | 77% | **78%** |
 | 09/13 | New Orleans Saints @ Detroit Lions | 77% | 73% | **74%** |
-| 09/13 | New York Jets @ Tennessee Titans | 55% | 53% | **54%** |
+| 09/13 | New York Jets @ Tennessee Titans | 55% | 53% | **53%** |
 | 09/13 | Arizona Cardinals @ Los Angeles Chargers | 80% | 81% | **80%** |
 | 09/13 | Green Bay Packers @ Minnesota Vikings | 62% | 53% | **55%** |
 | 09/13 | Miami Dolphins @ Las Vegas Raiders | 34% | 62% | **54%** |
 | 09/13 | Washington Commanders @ Philadelphia Eagles | 74% | 67% | **69%** |
 | 09/14 | Dallas Cowboys @ New York Giants | 49% | 41% | **43%** |
 | 09/15 | Denver Broncos @ Kansas City Chiefs | 31% | 57% | **49%** |
-| 09/18 | Detroit Lions @ Buffalo Bills | 66% | 59% | **61%** |
+| 09/18 | Detroit Lions @ Buffalo Bills | 66% | 60% | **62%** |
 | 09/20 | Carolina Panthers @ Atlanta Falcons | 64% | 53% | **56%** |
 | 09/20 | New Orleans Saints @ Baltimore Ravens | 75% | 77% | **76%** |
 | 09/20 | Minnesota Vikings @ Chicago Bears | 51% | 60% | **57%** |
@@ -62,7 +59,7 @@
 | 09/20 | Washington Commanders @ Dallas Cowboys | 55% | 66% | **62%** |
 | 09/20 | Miami Dolphins @ San Francisco 49ers | 75% | 85% | **82%** |
 | 09/21 | Indianapolis Colts @ Kansas City Chiefs | 61% | 71% | **68%** |
-| 09/22 | New York Giants @ Los Angeles Rams | 86% | 80% | **82%** |
+| 09/22 | New York Giants @ Los Angeles Rams | 86% | 81% | **82%** |
 | 09/25 | Atlanta Falcons @ Green Bay Packers | 66% | 76% | **73%** |
 | 09/27 | Los Angeles Chargers @ Buffalo Bills | 71% | 59% | **63%** |
 | 09/27 | Carolina Panthers @ Cleveland Browns | 54% | 47% | **49%** |
