@@ -1,13 +1,13 @@
 {
- "generated_utc": "2026-09-12T16:40+00:00",
+ "generated_utc": "2026-09-12T23:52+00:00",
  "slate": [
   {
    "home": "Pittsburgh Steelers",
    "away": "Atlanta Falcons",
    "model": 0.6098799302004859,
-   "market": 0.701468452477005,
-   "blend": 0.6739918957940493,
-   "edge": -0.09158852227651904,
+   "market": 0.7085889570552146,
+   "blend": 0.678976248998796,
+   "edge": -0.09870902685472871,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
@@ -23,27 +23,27 @@
    "home": "Houston Texans",
    "away": "Buffalo Bills",
    "model": 0.5575611056663615,
-   "market": 0.46874999999999994,
-   "blend": 0.4953933316999084,
-   "edge": 0.08881110566636158,
+   "market": 0.4782608695652174,
+   "blend": 0.5020509403955606,
+   "edge": 0.07930023610114412,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
    "home": "Carolina Panthers",
    "away": "Chicago Bears",
    "model": 0.41640090701998644,
-   "market": 0.39329934450109244,
-   "blend": 0.4002298132567606,
-   "edge": 0.023101562518894003,
+   "market": 0.3923278116826504,
+   "blend": 0.3995497402838512,
+   "edge": 0.024073095337336037,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
    "home": "Cincinnati Bengals",
    "away": "Tampa Bay Buccaneers",
    "model": 0.5582690336339571,
-   "market": 0.6489208633093525,
-   "blend": 0.6217253144067338,
-   "edge": -0.09065182967539542,
+   "market": 0.6505699719310306,
+   "blend": 0.6228796904419085,
+   "edge": -0.09230093829707353,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
@@ -68,9 +68,9 @@
    "home": "Tennessee Titans",
    "away": "New York Jets",
    "model": 0.5540645951569257,
-   "market": 0.5237515591352613,
-   "blend": 0.5328454699417606,
-   "edge": 0.030313036021664463,
+   "market": 0.523763244605475,
+   "blend": 0.5328536497709102,
+   "edge": 0.03030135055145078,
    "kickoff": "2026-09-13T17:00:00+00:00"
   },
   {
@@ -95,9 +95,9 @@
    "home": "Las Vegas Raiders",
    "away": "Miami Dolphins",
    "model": 0.41100578883295474,
-   "market": 0.6010838476591901,
-   "blend": 0.5440604300113195,
-   "edge": -0.19007805882623535,
+   "market": 0.6012888228457091,
+   "blend": 0.5442039126418827,
+   "edge": -0.19028303401275432,
    "kickoff": "2026-09-13T20:25:00+00:00"
   },
   {
@@ -122,63 +122,63 @@
    "home": "Kansas City Chiefs",
    "away": "Denver Broncos",
    "model": 0.3864555710646157,
-   "market": 0.562043795620438,
-   "blend": 0.5093673282536914,
-   "edge": -0.17558822455582235,
+   "market": 0.552594002855783,
+   "blend": 0.5027524733184328,
+   "edge": -0.16613843179116727,
    "kickoff": "2026-09-15T00:15:00+00:00"
   },
   {
    "home": "Buffalo Bills",
    "away": "Detroit Lions",
    "model": 0.6273527475013094,
-   "market": 0.60431654676259,
-   "blend": 0.6112274069842059,
-   "edge": 0.02303620073871948,
+   "market": 0.6005214568707979,
+   "blend": 0.6085708440599514,
+   "edge": 0.026831290630511484,
    "kickoff": "2026-09-18T00:15:00+00:00"
   },
   {
    "home": "Atlanta Falcons",
    "away": "Carolina Panthers",
    "model": 0.6148467262350048,
-   "market": 0.5279042320013488,
-   "blend": 0.5539869802714457,
-   "edge": 0.08694249423365596,
+   "market": 0.5233318058455969,
+   "blend": 0.5507862819624193,
+   "edge": 0.0915149203894079,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
    "home": "Baltimore Ravens",
    "away": "New Orleans Saints",
    "model": 0.6928102937179121,
-   "market": 0.7619047619047619,
-   "blend": 0.7411764214487069,
-   "edge": -0.06909446818684972,
+   "market": 0.7600419968841021,
+   "blend": 0.7398724859342451,
+   "edge": -0.06723170316618998,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
    "home": "Chicago Bears",
    "away": "Minnesota Vikings",
    "model": 0.5255573828302454,
-   "market": 0.5940252776713902,
-   "blend": 0.5734849092190468,
-   "edge": -0.0684678948411448,
+   "market": 0.5927692538826406,
+   "blend": 0.5726056925669221,
+   "edge": -0.06721187105239512,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
    "home": "Houston Texans",
    "away": "Cincinnati Bengals",
    "model": 0.7199034555939248,
-   "market": 0.5582520712662219,
-   "blend": 0.6067474865645328,
-   "edge": 0.16165138432770287,
+   "market": 0.5594439495463097,
+   "blend": 0.6075818013605943,
+   "edge": 0.16045950604761505,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
    "home": "Tampa Bay Buccaneers",
    "away": "Cleveland Browns",
    "model": 0.6334107748091903,
-   "market": 0.711362805991962,
-   "blend": 0.6879771966371305,
-   "edge": -0.07795203118277172,
+   "market": 0.7151565981879533,
+   "blend": 0.6906328511743244,
+   "edge": -0.08174582337876302,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
@@ -194,45 +194,45 @@
    "home": "New England Patriots",
    "away": "Pittsburgh Steelers",
    "model": 0.65965869436966,
-   "market": 0.6456257068459546,
-   "blend": 0.6498356031030662,
-   "edge": 0.01403298752370541,
+   "market": 0.644729178800233,
+   "blend": 0.649208033471061,
+   "edge": 0.01492951556942701,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
    "home": "Tennessee Titans",
    "away": "Philadelphia Eagles",
    "model": 0.28957118754816735,
-   "market": 0.3194444444444444,
-   "blend": 0.3104824673755613,
-   "edge": -0.029873256896277067,
+   "market": 0.32289238539238535,
+   "blend": 0.3128960260391199,
+   "edge": -0.033321197844218,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
    "home": "Denver Broncos",
    "away": "Jacksonville Jaguars",
    "model": 0.6140832286958873,
-   "market": 0.5829926410466066,
-   "blend": 0.5923198173413908,
-   "edge": 0.031090587649280632,
+   "market": 0.5809819827900307,
+   "blend": 0.5909123565617876,
+   "edge": 0.03310124590585661,
    "kickoff": "2026-09-20T20:05:00+00:00"
   },
   {
    "home": "Los Angeles Chargers",
    "away": "Las Vegas Raiders",
    "model": 0.7710675524746264,
-   "market": 0.7734970364098221,
-   "blend": 0.7727681912292634,
-   "edge": -0.0024294839351957087,
+   "market": 0.779605661062054,
+   "blend": 0.7770442284858257,
+   "edge": -0.00853810858742754,
    "kickoff": "2026-09-20T20:05:00+00:00"
   },
   {
    "home": "Dallas Cowboys",
    "away": "Washington Commanders",
    "model": 0.5500110814736884,
-   "market": 0.6540540540540539,
-   "blend": 0.6228411622799442,
-   "edge": -0.10404297258036554,
+   "market": 0.6522929267448476,
+   "blend": 0.6216083731634998,
+   "edge": -0.10228184527115924,
    "kickoff": "2026-09-20T20:25:00+00:00"
   },
   {
@@ -635,9 +635,9 @@
    "home": "Las Vegas Raiders",
    "away": "Buffalo Bills",
    "model": 0.23133908570868555,
-   "market": 0.299837925445705,
-   "blend": 0.2792882735245992,
-   "edge": -0.06849883973701942,
+   "market": 0.30423004792665137,
+   "blend": 0.28236275926126164,
+   "edge": -0.07289096221796582,
    "kickoff": "2026-10-18T20:25:00+00:00"
   },
   {
@@ -734,9 +734,9 @@
    "home": "Detroit Lions",
    "away": "Green Bay Packers",
    "model": 0.5947617558043383,
-   "market": 0.551441114716549,
-   "blend": 0.5644373070428857,
-   "edge": 0.043320641087789324,
+   "market": 0.5634920634920635,
+   "blend": 0.572872971185746,
+   "edge": 0.03126969231227483,
    "kickoff": "2026-10-25T20:25:00+00:00"
   },
   {
@@ -824,9 +824,9 @@
    "home": "New York Jets",
    "away": "Las Vegas Raiders",
    "model": 0.5699228802606,
-   "market": 0.5260865852617197,
-   "blend": 0.5392374737613839,
-   "edge": 0.04383629499888031,
+   "market": 0.5324675324675325,
+   "blend": 0.5437041368054527,
+   "edge": 0.03745534779306747,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
@@ -905,9 +905,9 @@
    "home": "Kansas City Chiefs",
    "away": "New York Jets",
    "model": 0.7228340113712981,
-   "market": 0.7867435158501441,
-   "blend": 0.7675706645064904,
-   "edge": -0.06390950447884602,
+   "market": 0.7819063004846527,
+   "blend": 0.7641846137506464,
+   "edge": -0.059072289113354604,
    "kickoff": "2026-11-08T18:00:00+00:00"
   },
   {
@@ -959,18 +959,18 @@
    "home": "Atlanta Falcons",
    "away": "Kansas City Chiefs",
    "model": 0.5349459677014334,
-   "market": 0.33099297893681046,
-   "blend": 0.39217887556619735,
-   "edge": 0.20395298876462298,
+   "market": 0.33635187580853815,
+   "blend": 0.3959301033764068,
+   "edge": 0.19859409189289529,
    "kickoff": "2026-11-15T18:00:00+00:00"
   },
   {
    "home": "New York Jets",
    "away": "Buffalo Bills",
    "model": 0.24058272634537065,
-   "market": 0.2559309849029475,
-   "blend": 0.25132650733567446,
-   "edge": -0.015348258557576877,
+   "market": 0.2591283863368669,
+   "blend": 0.25356468833941803,
+   "edge": -0.018545659991496266,
    "kickoff": "2026-11-15T18:00:00+00:00"
   },
   {
@@ -995,9 +995,9 @@
    "home": "Green Bay Packers",
    "away": "Minnesota Vikings",
    "model": 0.5173954368062214,
-   "market": 0.6750312469954812,
-   "blend": 0.6277405039387033,
-   "edge": -0.15763581018925987,
+   "market": 0.6805555555555556,
+   "blend": 0.6316075199307553,
+   "edge": -0.16316011874933423,
    "kickoff": "2026-11-15T18:00:00+00:00"
   },
   {
@@ -1382,9 +1382,9 @@
    "home": "Miami Dolphins",
    "away": "Chicago Bears",
    "model": 0.4503241132436469,
-   "market": 0.31460674157303364,
-   "blend": 0.35532195307421766,
-   "edge": 0.13571737167061326,
+   "market": 0.3194444444444444,
+   "blend": 0.3587083450842051,
+   "edge": 0.1308796687992025,
    "kickoff": "2026-12-13T18:00:00+00:00"
   },
   {
@@ -1427,9 +1427,9 @@
    "home": "Las Vegas Raiders",
    "away": "Los Angeles Chargers",
    "model": 0.319986901843885,
-   "market": 0.33099297893681046,
-   "blend": 0.3276911558089328,
-   "edge": -0.011006077092925448,
+   "market": 0.33635187580853815,
+   "blend": 0.3314423836191422,
+   "edge": -0.01636497396465314,
    "kickoff": "2026-12-13T21:05:00+00:00"
   },
   {
@@ -1607,9 +1607,9 @@
    "home": "Atlanta Falcons",
    "away": "Tampa Bay Buccaneers",
    "model": 0.5511121561173619,
-   "market": 0.4675324675324675,
-   "blend": 0.49260637410793584,
-   "edge": 0.08357968858489434,
+   "market": 0.4739134147382802,
+   "blend": 0.4970730371520047,
+   "edge": 0.07719874137908167,
    "kickoff": "2026-12-27T18:00:00+00:00"
   },
   {
@@ -1697,9 +1697,9 @@
    "home": "Atlanta Falcons",
    "away": "New Orleans Saints",
    "model": 0.6040392388659522,
-   "market": 0.5260865852617197,
-   "blend": 0.5494723813429895,
-   "edge": 0.07795265360423254,
+   "market": 0.5324675324675325,
+   "blend": 0.5539390443870584,
+   "edge": 0.0715717063984197,
    "kickoff": "2027-01-03T18:00:00+00:00"
   },
   {
@@ -1814,9 +1814,9 @@
    "home": "Buffalo Bills",
    "away": "New York Jets",
    "model": 0.8334119980972763,
-   "market": 0.7913616398243045,
-   "blend": 0.8039767473061961,
-   "edge": 0.042050358272971766,
+   "market": 0.7867435158501441,
+   "blend": 0.8007440605242837,
+   "edge": 0.04666848224713216,
    "kickoff": "2027-01-10T18:00:00+00:00"
   },
   {
@@ -1886,9 +1886,9 @@
    "home": "Kansas City Chiefs",
    "away": "Las Vegas Raiders",
    "model": 0.7329890418522801,
-   "market": 0.771505376344086,
-   "blend": 0.7599504759965443,
-   "edge": -0.038516334491805915,
+   "market": 0.7600000000000001,
+   "blend": 0.7518967125556841,
+   "edge": -0.027010958147720032,
    "kickoff": "2027-01-10T18:00:00+00:00"
   },
   {
@@ -1925,7 +1925,7 @@
    "model": 0.5254817051446972,
    "market": 0.2949668357393679,
    "qb": null,
-   "story": "Our model prices Miami Dolphins 23 points higher than the market does. Fantasy managers are moving too (RB Samaje Perine(CIN) 12,852 adds/24h), which usually tracks breaking roster news."
+   "story": "Our model prices Miami Dolphins 23 points higher than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly."
   },
   {
    "away": "Cincinnati Bengals",
@@ -1933,7 +1933,7 @@
    "model": 0.5501517437385758,
    "market": 0.33099297893681046,
    "qb": null,
-   "story": "Our model prices Atlanta Falcons 22 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Tua Tagovailoa \u2014 Out (23h ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Atlanta Falcons 22 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Tua Tagovailoa \u2014 Out (30h ago). QB uncertainty moves lines faster than anything."
   }
  ]
 }
