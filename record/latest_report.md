@@ -4,20 +4,20 @@
 
 回測顯示：大幅分歧時市場正確率更高。分歧場 = 查傷兵/新聞的訊號，非逆勢訊號。
 
+- **Carolina Panthers @ Atlanta Falcons** — 模型 63% vs 市場 43%（分歧 +20%，8 家賠率）
+  - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
+  - 日級狀態（Sleeper）：ATL: 🚨 QB Tua Tagovailoa — Questionable (0h ago)；🚨 QB Michael Penix — Questionable (20h ago)；· OL Cameron Williams — IR (5d ago)；· LB JD Bertrand — IR (17d ago) ｜ CAR: · DT Bobby Brown — Questionable (22h ago)；· T Taylor Moton — PUP (17d ago)；· DT Tershawn Wharton — PUP (17d ago)；· LB Bam Martin-Scott — IR (17d ago)
 - **Seattle Seahawks @ Washington Commanders** — 模型 25% vs 市場 45%（分歧 -20%，3 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：WAS: · LB Odafe Oweh — Questionable (1h ago)；· RB Jeremy McNichols — IR (16d ago)；· OL Laremy Tunsil — IR (16d ago)；· WR Jaylin Lane — Questionable (1h ago) ｜ SEA: 🚨 QB Sam Darnold — Out (5h ago)；· LB Aaron Smith — Questionable (8d ago)；· DB Nick Emmanwori — Questionable (4h ago)；· WR Jake Bobo — IR (25d ago)
+  - 日級狀態（Sleeper）：WAS: · LB Odafe Oweh — Questionable (18h ago)；· RB Jeremy McNichols — IR (17d ago)；· OL Laremy Tunsil — IR (17d ago)；· WR Jaylin Lane — Questionable (19h ago) ｜ SEA: 🚨 QB Sam Darnold — Out (3h ago)；· LB Aaron Smith — Questionable (9d ago)；· DB Nick Emmanwori — Questionable (11h ago)；· WR Jake Bobo — IR (26d ago)
 - **Kansas City Chiefs @ Miami Dolphins** — 模型 41% vs 市場 21%（分歧 +19%，3 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：MIA: · LB Kyle Louis — IR (7h ago)；· DL Kenneth Grant — IR (16d ago)；· LB Trey Moore — IR (16d ago)；· CB Darrell Baker — PUP (16d ago) ｜ KC: · LB Cooper McDonald — IR (46h ago)；· DT Omarr Norman-Lott — PUP (16d ago)；· OL Josh Simmons — Questionable (4d ago)；· WR Jimmy Holiday — IR (16d ago)
-- **Carolina Panthers @ Atlanta Falcons** — 模型 63% vs 市場 43%（分歧 +19%，9 家賠率）
-  - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：ATL: 🚨 QB Tua Tagovailoa — Questionable (7h ago)；🚨 QB Michael Penix — Questionable (3h ago)；· OL Cameron Williams — IR (4d ago)；· LB JD Bertrand — IR (16d ago) ｜ CAR: · DT Bobby Brown — Questionable (4h ago)；· T Taylor Moton — PUP (16d ago)；· DT Tershawn Wharton — PUP (16d ago)；· LB Bam Martin-Scott — IR (16d ago)
+  - 日級狀態（Sleeper）：MIA: · LB Kyle Louis — IR (17h ago)；· DL Kenneth Grant — IR (17d ago)；· LB Trey Moore — IR (17d ago)；· CB Darrell Baker — PUP (17d ago) ｜ KC: · LB Cooper McDonald — IR (17h ago)；· DT Omarr Norman-Lott — PUP (17d ago)；· OL Josh Simmons — Questionable (5d ago)；· WR Jimmy Holiday — IR (17d ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
-- Carolina Panthers @ Atlanta Falcons: 主隊隱含 48% → 43% (-4%)
 - Minnesota Vikings @ Chicago Bears: 主隊隱含 68% → 66% (-2%)
+  - Trending 突波（24h vs 7日基線）：RB Aaron Jones(MIN) 142,578 adds/24h；RB Demond Claiborne(MIN) 111,402 adds/24h；RB Jordan Mason(MIN) 113,200 drops/24h
 
 ## 全場次
 
@@ -27,16 +27,16 @@
 | 09/20 | Carolina Panthers @ Atlanta Falcons | 63% | 43% | **49%** |
 | 09/20 | New Orleans Saints @ Baltimore Ravens | 73% | 77% | **76%** |
 | 09/20 | Minnesota Vikings @ Chicago Bears | 53% | 66% | **62%** |
-| 09/20 | Cincinnati Bengals @ Houston Texans | 67% | 58% | **61%** |
-| 09/20 | Cleveland Browns @ Tampa Bay Buccaneers | 63% | 77% | **73%** |
-| 09/20 | Green Bay Packers @ New York Jets | 40% | 38% | **38%** |
+| 09/20 | Cincinnati Bengals @ Houston Texans | 67% | 57% | **60%** |
+| 09/20 | Cleveland Browns @ Tampa Bay Buccaneers | 63% | 78% | **73%** |
+| 09/20 | Green Bay Packers @ New York Jets | 40% | 38% | **39%** |
 | 09/20 | Pittsburgh Steelers @ New England Patriots | 64% | 68% | **67%** |
-| 09/20 | Philadelphia Eagles @ Tennessee Titans | 25% | 26% | **25%** |
-| 09/20 | Jacksonville Jaguars @ Denver Broncos | 54% | 57% | **56%** |
+| 09/20 | Philadelphia Eagles @ Tennessee Titans | 25% | 26% | **26%** |
+| 09/20 | Jacksonville Jaguars @ Denver Broncos | 54% | 58% | **57%** |
 | 09/20 | Las Vegas Raiders @ Los Angeles Chargers | 69% | 72% | **71%** |
-| 09/20 | Seattle Seahawks @ Arizona Cardinals | 23% | 36% | **32%** |
+| 09/20 | Seattle Seahawks @ Arizona Cardinals | 23% | 35% | **32%** |
 | 09/20 | Washington Commanders @ Dallas Cowboys | 53% | 65% | **61%** |
-| 09/20 | Miami Dolphins @ San Francisco 49ers | 77% | 87% | **84%** |
+| 09/20 | Miami Dolphins @ San Francisco 49ers | 77% | 88% | **84%** |
 | 09/21 | Indianapolis Colts @ Kansas City Chiefs | 68% | 72% | **71%** |
 | 09/22 | New York Giants @ Los Angeles Rams | 71% | 74% | **73%** |
 | 09/25 | Atlanta Falcons @ Green Bay Packers | 62% | 72% | **69%** |
