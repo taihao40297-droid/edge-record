@@ -1,31 +1,31 @@
 {
- "generated_utc": "2026-09-17T17:53+00:00",
+ "generated_utc": "2026-09-18T00:00+00:00",
  "slate": [
   {
    "home": "Buffalo Bills",
    "away": "Detroit Lions",
    "model": 0.648746159933395,
-   "market": 0.6834265519800349,
-   "blend": 0.6730224343660429,
-   "edge": -0.03468039204663986,
+   "market": 0.682978214278283,
+   "blend": 0.6727085979748166,
+   "edge": -0.03423205434488796,
    "kickoff": "2026-09-18T00:15:00+00:00"
   },
   {
    "home": "Atlanta Falcons",
    "away": "Carolina Panthers",
    "model": 0.6270940275344454,
-   "market": 0.42888402625820565,
-   "blend": 0.4883470266410776,
-   "edge": 0.19821000127623978,
+   "market": 0.43164059468938654,
+   "blend": 0.4902766245429042,
+   "edge": 0.1954534328450589,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
    "home": "Baltimore Ravens",
    "away": "New Orleans Saints",
    "model": 0.7277137073451561,
-   "market": 0.7733784695531917,
-   "blend": 0.759679040890781,
-   "edge": -0.045664762208035614,
+   "market": 0.7719071176404342,
+   "blend": 0.7586490945518507,
+   "edge": -0.044193410295278124,
    "kickoff": "2026-09-20T17:00:00+00:00"
   },
   {
@@ -113,9 +113,9 @@
    "home": "Dallas Cowboys",
    "away": "Washington Commanders",
    "model": 0.5286397727355718,
-   "market": 0.6506370986415717,
-   "blend": 0.6140379008697717,
-   "edge": -0.12199732590599988,
+   "market": 0.6505699719310306,
+   "blend": 0.613990912172393,
+   "edge": -0.12193019919545878,
    "kickoff": "2026-09-20T20:25:00+00:00"
   },
   {
@@ -131,9 +131,9 @@
    "home": "Kansas City Chiefs",
    "away": "Indianapolis Colts",
    "model": 0.6770542905087371,
-   "market": 0.7194521294168976,
-   "blend": 0.7067327777444495,
-   "edge": -0.04239783890816051,
+   "market": 0.7161099164032327,
+   "blend": 0.7043932286348841,
+   "edge": -0.03905562589449563,
    "kickoff": "2026-09-21T00:20:00+00:00"
   },
   {
@@ -266,9 +266,9 @@
    "home": "New Orleans Saints",
    "away": "Las Vegas Raiders",
    "model": 0.625404374883708,
-   "market": 0.5996387718242023,
-   "blend": 0.607368452742054,
-   "edge": 0.025765603059505704,
+   "market": 0.593369754159424,
+   "blend": 0.6029801403767092,
+   "edge": 0.03203462072428409,
    "kickoff": "2026-09-27T20:25:00+00:00"
   },
   {
@@ -292,20 +292,20 @@
  ],
  "divergence": [
   {
-   "away": "Carolina Panthers",
-   "home": "Atlanta Falcons",
-   "model": 0.6270940275344454,
-   "market": 0.42888402625820565,
-   "qb": null,
-   "story": "Our model prices Atlanta Falcons 20 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Tua Tagovailoa \u2014 Questionable (0h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -4% around 2026-09-14 18:59 UTC \u2014 our snapshot archive has the full path."
-  },
-  {
    "away": "Seattle Seahawks",
    "home": "Washington Commanders",
    "model": 0.25396235532752276,
    "market": 0.4501068050045774,
    "qb": null,
-   "story": "Our model prices Washington Commanders 20 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Sam Darnold \u2014 Out (3h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: +8% around 2026-09-16 00:04 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Washington Commanders 20 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Sam Darnold \u2014 Out (9h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: +8% around 2026-09-16 00:04 UTC \u2014 our snapshot archive has the full path."
+  },
+  {
+   "away": "Carolina Panthers",
+   "home": "Atlanta Falcons",
+   "model": 0.6270940275344454,
+   "market": 0.43164059468938654,
+   "qb": null,
+   "story": "Our model prices Atlanta Falcons 20 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Tua Tagovailoa \u2014 Questionable (1h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -4% around 2026-09-14 18:59 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "Kansas City Chiefs",
@@ -313,7 +313,7 @@
    "model": 0.405442984711903,
    "market": 0.2116788321167883,
    "qb": null,
-   "story": "Our model prices Miami Dolphins 19 points higher than the market does. Fantasy managers are moving too (WR Malik Washington(MIA) 89,352 adds/24h), which usually tracks breaking roster news. Sharpest recorded swing on this line: -4% around 2026-09-16 00:04 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Miami Dolphins 19 points higher than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly. Sharpest recorded swing on this line: -4% around 2026-09-16 00:04 UTC \u2014 our snapshot archive has the full path."
   }
  ]
 }
