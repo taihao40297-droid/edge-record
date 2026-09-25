@@ -1,15 +1,6 @@
 {
- "generated_utc": "2026-09-25T00:22+00:00",
+ "generated_utc": "2026-09-25T18:10+00:00",
  "slate": [
-  {
-   "home": "Green Bay Packers",
-   "away": "Atlanta Falcons",
-   "model": 0.690835676667876,
-   "market": 0.6792452830188679,
-   "blend": 0.6827224011135704,
-   "edge": 0.011590393649008157,
-   "kickoff": "2026-09-25T00:15:29+00:00"
-  },
   {
    "home": "Buffalo Bills",
    "away": "Los Angeles Chargers",
@@ -23,27 +14,27 @@
    "home": "Cleveland Browns",
    "away": "Carolina Panthers",
    "model": 0.5237535786506065,
-   "market": 0.42888402625820565,
-   "blend": 0.45734489197592587,
-   "edge": 0.0948695523924008,
+   "market": 0.430620534746955,
+   "blend": 0.4585604479180504,
+   "edge": 0.09313304390365146,
    "kickoff": "2026-09-27T17:00:00+00:00"
   },
   {
    "home": "Pittsburgh Steelers",
    "away": "Cincinnati Bengals",
    "model": 0.5203435094986472,
-   "market": 0.3698979591836735,
-   "blend": 0.41503162427816565,
-   "edge": 0.15044555031497364,
+   "market": 0.3720626631853786,
+   "blend": 0.4165469170793592,
+   "edge": 0.14828084631326854,
    "kickoff": "2026-09-27T17:00:00+00:00"
   },
   {
    "home": "Detroit Lions",
    "away": "New York Jets",
    "model": 0.7577324470134444,
-   "market": 0.7212543554006969,
-   "blend": 0.7321977828845212,
-   "edge": 0.03647809161274751,
+   "market": 0.7241379310344829,
+   "blend": 0.7342162858281713,
+   "edge": 0.03359451597896157,
    "kickoff": "2026-09-27T17:00:00+00:00"
   },
   {
@@ -86,27 +77,27 @@
    "home": "Washington Commanders",
    "away": "Seattle Seahawks",
    "model": 0.2129411537077162,
-   "market": 0.24975984630163303,
-   "blend": 0.23871423852345797,
-   "edge": -0.03681869259391682,
+   "market": 0.24793388429752067,
+   "blend": 0.23743606512057935,
+   "edge": -0.034992730589804455,
    "kickoff": "2026-09-27T17:00:00+00:00"
   },
   {
    "home": "San Francisco 49ers",
    "away": "Arizona Cardinals",
    "model": 0.7878760858939854,
-   "market": 0.7735849056603773,
-   "blend": 0.7778722597304597,
-   "edge": 0.014291180233608092,
+   "market": 0.7706422018348623,
+   "blend": 0.7758123670525993,
+   "edge": 0.017233884059123072,
    "kickoff": "2026-09-27T20:05:00+00:00"
   },
   {
    "home": "Tampa Bay Buccaneers",
    "away": "Minnesota Vikings",
    "model": 0.33814379495154434,
-   "market": 0.46814123376623373,
-   "blend": 0.4291420021218269,
-   "edge": -0.1299974388146894,
+   "market": 0.4762484408647387,
+   "blend": 0.4348170470907804,
+   "edge": -0.13810464591319438,
    "kickoff": "2026-09-27T20:05:00+00:00"
   },
   {
@@ -131,18 +122,18 @@
    "home": "Denver Broncos",
    "away": "Los Angeles Rams",
    "model": 0.565394609456512,
-   "market": 0.4493432675320685,
-   "blend": 0.48415867010940156,
-   "edge": 0.1160513419244435,
+   "market": 0.448558885283451,
+   "blend": 0.48360960253536933,
+   "edge": 0.11683572417306098,
    "kickoff": "2026-09-28T00:20:00+00:00"
   },
   {
    "home": "Chicago Bears",
    "away": "Philadelphia Eagles",
    "model": 0.5076933805516743,
-   "market": 0.33324788515765186,
-   "blend": 0.3855815337758586,
-   "edge": 0.1744454953940225,
+   "market": 0.3295622233152976,
+   "blend": 0.38300157048621064,
+   "edge": 0.17813115723637674,
    "kickoff": "2026-09-29T00:15:00+00:00"
   },
   {
@@ -218,15 +209,6 @@
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
-   "home": "Tampa Bay Buccaneers",
-   "away": "Green Bay Packers",
-   "model": 0.45282033223493384,
-   "market": 0.482279230208645,
-   "blend": 0.47344156081653166,
-   "edge": -0.02945889797371115,
-   "kickoff": "2026-10-04T17:00:00+00:00"
-  },
-  {
    "home": "Philadelphia Eagles",
    "away": "Los Angeles Rams",
    "model": 0.5385576104429439,
@@ -248,9 +230,9 @@
    "home": "San Francisco 49ers",
    "away": "Denver Broncos",
    "model": 0.5836313244171195,
-   "market": 0.6438078269090992,
-   "blend": 0.6257548761615053,
-   "edge": -0.0601765024919797,
+   "market": 0.5790763210908603,
+   "blend": 0.580442822088738,
+   "edge": 0.004555003326259244,
    "kickoff": "2026-10-04T20:25:00+00:00"
   },
   {
@@ -279,15 +261,6 @@
    "blend": 0.4289546703618025,
    "edge": 0.004128912611768343,
    "kickoff": "2026-10-05T00:20:00+00:00"
-  },
-  {
-   "home": "New Orleans Saints",
-   "away": "Atlanta Falcons",
-   "model": 0.6338913754595985,
-   "market": 0.6255648805681084,
-   "blend": 0.6280628290355554,
-   "edge": 0.008326494891490066,
-   "kickoff": "2026-10-06T00:15:00+00:00"
   }
  ],
  "divergence": [
@@ -305,15 +278,15 @@
    "model": 0.5501288495792951,
    "market": 0.34301333224658503,
    "qb": null,
-   "story": "Our model prices Washington Commanders 21 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jayden Daniels \u2014 Out (31h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -18% around 2026-09-23 00:11 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Washington Commanders 21 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jayden Daniels \u2014 Out (1h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -18% around 2026-09-23 00:11 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "Philadelphia Eagles",
    "home": "Chicago Bears",
    "model": 0.5076933805516743,
-   "market": 0.33324788515765186,
+   "market": 0.3295622233152976,
    "qb": null,
-   "story": "Our model prices Chicago Bears 17 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Caleb Williams \u2014 Doubtful (1h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -16% around 2026-09-21 00:00 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Chicago Bears 18 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Caleb Williams \u2014 Doubtful (19h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -16% around 2026-09-21 00:00 UTC \u2014 our snapshot archive has the full path."
   }
  ]
 }
