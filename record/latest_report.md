@@ -1,23 +1,22 @@
-# 🏈 NFL Edge Daily — 2026-09-25 (UTC)
+# 🏈 NFL Edge Daily — 2026-09-26 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
 回測顯示：大幅分歧時市場正確率更高。分歧場 = 查傷兵/新聞的訊號，非逆勢訊號。
 
-- **Kansas City Chiefs @ Miami Dolphins** — 模型 38% vs 市場 17%（分歧 +21%，9 家賠率）
+- **Kansas City Chiefs @ Miami Dolphins** — 模型 38% vs 市場 16%（分歧 +21%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：MIA: · LB Kyle Louis — IR (9d ago)；· DL Kenneth Grant — IR (25d ago)；· LB Trey Moore — IR (25d ago)；· WR Caleb Douglas — Out (3h ago) ｜ KC: · LB Cooper McDonald — IR (9d ago)；· DT Omarr Norman-Lott — PUP (25d ago)；· OL Josh Simmons — Questionable (7d ago)；· WR Jimmy Holiday — IR (25d ago)
+  - 日級狀態（Sleeper）：MIA: · LB Kyle Louis — IR (9d ago)；· DL Kenneth Grant — IR (25d ago)；· LB Trey Moore — IR (25d ago)；· WR Caleb Douglas — Out (9h ago) ｜ KC: · LB Cooper McDonald — IR (9d ago)；· DT Omarr Norman-Lott — PUP (25d ago)；· OL Josh Simmons — Out (7d ago)；· WR Jimmy Holiday — IR (25d ago)
 - **Indianapolis Colts @ Washington Commanders** — 模型 55% vs 市場 34%（分歧 +21%，4 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：WAS: 🚨 QB Jayden Daniels — Out (1h ago)；· DT Javon Kinlaw — Questionable (26h ago)；· LB Leo Chenal — Questionable (40h ago)；· DB Nick Cross — Out (44h ago) ｜ IND: · TE Will Mallory — IR (25d ago)；· WR Alec Pierce — Out (2d ago)；· WR D.J. Montgomery — IR (25d ago)；· DL Micheal Clemons — IR (2d ago)
+  - 日級狀態（Sleeper）：WAS: 🚨 QB Jayden Daniels — Out (7h ago)；· DB Nick Cross — Out (2d ago)；· RB Jeremy McNichols — IR (25d ago)；· OL Sam Cosmi — Out (4d ago) ｜ IND: · TE Will Mallory — IR (25d ago)；· WR Alec Pierce — Out (2d ago)；· WR D.J. Montgomery — IR (25d ago)；· DL Micheal Clemons — IR (2d ago)
 - **Philadelphia Eagles @ Chicago Bears** — 模型 51% vs 市場 33%（分歧 +18%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：CHI: 🚨 QB Caleb Williams — Doubtful (19h ago)；🚨 QB Tyson Bagent — Questionable (22h ago)；· LB Tony Fields — IR (25d ago)；· CB Tyrique Stevenson — Questionable (16h ago) ｜ PHI: · DB Andrew Mukuba — Questionable (19h ago)；· TE Grant Calcaterra — IR (24d ago)；· TE Eli Stowers — IR (13d ago)；· DB Jakorian Bennett — IR (25d ago)
+  - 日級狀態（Sleeper）：CHI: 🚨 QB Caleb Williams — Doubtful (4h ago)；🚨 QB Tyson Bagent — Questionable (5h ago)；· LB Tony Fields — IR (25d ago)；· CB Tyrique Stevenson — Questionable (2h ago) ｜ PHI: · TE Grant Calcaterra — IR (24d ago)；· TE Eli Stowers — IR (13d ago)；· DB Jakorian Bennett — IR (25d ago)；· OL Landon Dickerson — IR (10d ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
-- Houston Texans @ Indianapolis Colts: 主隊隱含 43% → 47% (+4%)
-- Denver Broncos @ San Francisco 49ers: 主隊隱含 64% → 58% (-7%)
+- Denver Broncos @ San Francisco 49ers: 主隊隱含 64% → 58% (-6%)
 
 ## 全場次
 
@@ -25,18 +24,18 @@
 |---|---|---|---|---|
 | 09/27 | Los Angeles Chargers @ Buffalo Bills | 79% | 74% | **76%** |
 | 09/27 | Carolina Panthers @ Cleveland Browns | 52% | 43% | **46%** |
-| 09/27 | Cincinnati Bengals @ Pittsburgh Steelers | 52% | 37% | **42%** |
+| 09/27 | Cincinnati Bengals @ Pittsburgh Steelers | 52% | 38% | **42%** |
 | 09/27 | New York Jets @ Detroit Lions | 76% | 72% | **73%** |
 | 09/27 | Houston Texans @ Indianapolis Colts | 40% | 47% | **45%** |
 | 09/27 | New England Patriots @ Jacksonville Jaguars | 50% | 59% | **56%** |
-| 09/27 | Kansas City Chiefs @ Miami Dolphins | 38% | 17% | **23%** |
+| 09/27 | Kansas City Chiefs @ Miami Dolphins | 38% | 16% | **23%** |
 | 09/27 | Tennessee Titans @ New York Giants | 70% | 56% | **60%** |
-| 09/27 | Seattle Seahawks @ Washington Commanders | 21% | 25% | **24%** |
+| 09/27 | Seattle Seahawks @ Washington Commanders | 21% | 24% | **23%** |
 | 09/27 | Arizona Cardinals @ San Francisco 49ers | 79% | 77% | **78%** |
-| 09/27 | Minnesota Vikings @ Tampa Bay Buccaneers | 34% | 48% | **43%** |
+| 09/27 | Minnesota Vikings @ Tampa Bay Buccaneers | 34% | 47% | **43%** |
 | 09/27 | Baltimore Ravens @ Dallas Cowboys | 45% | 38% | **40%** |
-| 09/27 | Las Vegas Raiders @ New Orleans Saints | 62% | 61% | **62%** |
-| 09/28 | Los Angeles Rams @ Denver Broncos | 57% | 45% | **48%** |
+| 09/27 | Las Vegas Raiders @ New Orleans Saints | 62% | 62% | **62%** |
+| 09/28 | Los Angeles Rams @ Denver Broncos | 57% | 45% | **49%** |
 | 09/29 | Philadelphia Eagles @ Chicago Bears | 51% | 33% | **38%** |
 | 10/02 | Pittsburgh Steelers @ Cleveland Browns | 44% | 44% | **44%** |
 | 10/04 | Indianapolis Colts @ Washington Commanders | 55% | 34% | **41%** |
