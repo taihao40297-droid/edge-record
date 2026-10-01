@@ -6,18 +6,18 @@
 
 - **Tampa Bay Buccaneers @ Dallas Cowboys** — 模型 59% vs 市場 81%（分歧 -22%，4 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · DB Shavon Revel — Questionable (26h ago)；· OL Tyler Smith — IR (23h ago)；· DE Jonathan Bullard — IR (24h ago)；· LB DeMarvion Overshown — Questionable (1h ago) ｜ TB: 🚨 QB Baker Mayfield — Out (2d ago)；· RB Bucky Irving — Questionable (4h ago)；· DT Rakeem Nunez-Roches — Questionable (9h ago)；· TE Ko Kieft — Questionable (4h ago)
+  - 日級狀態（Sleeper）：DAL: · DB Shavon Revel — Questionable (44h ago)；· OL Tyler Smith — IR (41h ago)；· DE Jonathan Bullard — IR (18h ago)；· LB DeMarvion Overshown — Questionable (19h ago) ｜ TB: 🚨 QB Baker Mayfield — Out (3d ago)；· RB Bucky Irving — Questionable (1h ago)；· DT Rakeem Nunez-Roches — Questionable (1h ago)；· TE Ko Kieft — Questionable (22h ago)
 - **Indianapolis Colts @ Washington Commanders** — 模型 56% vs 市場 36%（分歧 +20%，9 家賠率）
+  - 傷兵情報（週報）：WAS: · S Nick Cross — Out；⚠️ G Sam Cosmi — Out
+  - 日級狀態（Sleeper）：WAS: 🚨 QB Jayden Daniels — Questionable (1h ago)；· RB Rachaad White — Questionable (3h ago)；· DT Javon Kinlaw — Questionable (6d ago)；· LB Leo Chenal — IR (44h ago) ｜ IND: · TE Mo Alie-Cox — Questionable (20h ago)；· WR Alec Pierce — IR (3d ago)；· LB Akeem Davis-Gaither — Questionable (9d ago)；· DL Micheal Clemons — IR (8d ago)
+- **New York Jets @ Chicago Bears** — 模型 79% vs 市場 62%（分歧 +18%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：WAS: 🚨 QB Jayden Daniels — Questionable (8h ago)；· RB Rachaad White — Questionable (5h ago)；· DT Javon Kinlaw — Questionable (5d ago)；· LB Leo Chenal — IR (26h ago) ｜ IND: · TE Mo Alie-Cox — Questionable (2h ago)；· WR Alec Pierce — IR (2d ago)；· LB Akeem Davis-Gaither — Questionable (8d ago)；· DL Micheal Clemons — IR (7d ago)
-- **New York Jets @ Chicago Bears** — 模型 79% vs 市場 62%（分歧 +17%，9 家賠率）
-  - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：CHI: 🚨 QB Caleb Williams — Doubtful (5h ago)；· CB Cam Lewis — Questionable (45h ago)；· OL Braxton Jones — Doubtful (46h ago)；· DB Kyler Gordon — PUP (1h ago) ｜ NYJ: · TE Jeremy Ruckert — Questionable (1h ago)；· TE Kenyon Sadiq — Questionable (1h ago)；· LB Marcelino McCrary-Ball — IR (8d ago)；· WR Tim Patrick — IR (18d ago)
+  - 日級狀態（Sleeper）：CHI: 🚨 QB Caleb Williams — Doubtful (23h ago)；· CB Cam Lewis — Questionable (3d ago)；· OL Braxton Jones — Doubtful (18h ago)；· DB Kyler Gordon — PUP (19h ago) ｜ NYJ: · TE Jeremy Ruckert — Questionable (19h ago)；· TE Kenyon Sadiq — Questionable (18h ago)；· LB Marcelino McCrary-Ball — IR (9d ago)；· WR Tim Patrick — IR (19d ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
-- Arizona Cardinals @ New York Giants: 主隊隱含 49% → 44% (-5%)
-- Dallas Cowboys @ Houston Texans: 主隊隱含 56% → 59% (+3%)
+- Arizona Cardinals @ New York Giants: 主隊隱含 47% → 44% (-3%)
+- Dallas Cowboys @ Houston Texans: 主隊隱含 57% → 59% (+3%)
 
 ## 全場次
 
@@ -27,11 +27,11 @@
 | 10/04 | Indianapolis Colts @ Washington Commanders | 56% | 36% | **42%** |
 | 10/04 | Arizona Cardinals @ New York Giants | 60% | 44% | **49%** |
 | 10/04 | Tennessee Titans @ Baltimore Ravens | 83% | 84% | **84%** |
-| 10/04 | New England Patriots @ Buffalo Bills | 66% | 72% | **71%** |
+| 10/04 | New England Patriots @ Buffalo Bills | 66% | 74% | **71%** |
 | 10/04 | New York Jets @ Chicago Bears | 79% | 62% | **67%** |
 | 10/04 | Jacksonville Jaguars @ Cincinnati Bengals | 44% | 57% | **53%** |
 | 10/04 | Dallas Cowboys @ Houston Texans | 67% | 59% | **62%** |
-| 10/04 | Green Bay Packers @ Tampa Bay Buccaneers | 50% | 38% | **41%** |
+| 10/04 | Green Bay Packers @ Tampa Bay Buccaneers | 50% | 37% | **41%** |
 | 10/04 | Los Angeles Rams @ Philadelphia Eagles | 51% | 40% | **43%** |
 | 10/04 | Miami Dolphins @ Minnesota Vikings | 82% | 83% | **82%** |
 | 10/04 | Denver Broncos @ San Francisco 49ers | 57% | 57% | **57%** |

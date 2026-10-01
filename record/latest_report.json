@@ -1,13 +1,13 @@
 {
- "generated_utc": "2026-10-01T01:09+00:00",
+ "generated_utc": "2026-10-01T19:11+00:00",
  "slate": [
   {
    "home": "Cleveland Browns",
    "away": "Pittsburgh Steelers",
    "model": 0.443019253351845,
-   "market": 0.4257656915258893,
-   "blend": 0.430941760073676,
-   "edge": 0.01725356182595572,
+   "market": 0.42510328814832515,
+   "blend": 0.4304780777093811,
+   "edge": 0.017915965203519846,
    "kickoff": "2026-10-02T00:15:00+00:00"
   },
   {
@@ -23,9 +23,9 @@
    "home": "New York Giants",
    "away": "Arizona Cardinals",
    "model": 0.5999190198297502,
-   "market": 0.43795620437956206,
-   "blend": 0.4865450490146185,
-   "edge": 0.1619628154501881,
+   "market": 0.43650793650793646,
+   "blend": 0.48553126150448056,
+   "edge": 0.1634110833218137,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
@@ -41,45 +41,45 @@
    "home": "Buffalo Bills",
    "away": "New England Patriots",
    "model": 0.661229882087069,
-   "market": 0.7241379310344829,
-   "blend": 0.7052655163502587,
-   "edge": -0.06290804894741386,
+   "market": 0.7351612400685464,
+   "blend": 0.7129818326741032,
+   "edge": -0.07393135798147743,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
    "home": "Chicago Bears",
    "away": "New York Jets",
    "model": 0.7932367534162424,
-   "market": 0.6187290969899665,
-   "blend": 0.6710813939178493,
-   "edge": 0.17450765642627597,
+   "market": 0.6159274740784974,
+   "blend": 0.6691202578798209,
+   "edge": 0.1773092793377451,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
    "home": "Cincinnati Bengals",
    "away": "Jacksonville Jaguars",
    "model": 0.44418477252228883,
-   "market": 0.5675310114079267,
-   "blend": 0.5305271397422353,
-   "edge": -0.1233462388856379,
+   "market": 0.5651712800933291,
+   "blend": 0.528875327822017,
+   "edge": -0.12098650757104024,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
    "home": "Houston Texans",
    "away": "Dallas Cowboys",
    "model": 0.6672150213518739,
-   "market": 0.5940252776713902,
-   "blend": 0.6159822007755353,
-   "edge": 0.0731897436804837,
+   "market": 0.593369754159424,
+   "blend": 0.6155233343171589,
+   "edge": 0.07384526719244999,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
    "home": "Tampa Bay Buccaneers",
    "away": "Green Bay Packers",
    "model": 0.4981652465516056,
-   "market": 0.37705359547535683,
-   "blend": 0.41338709079823144,
-   "edge": 0.12111165107624877,
+   "market": 0.37296342341163385,
+   "blend": 0.41052397035362537,
+   "edge": 0.12520182313997175,
    "kickoff": "2026-10-04T17:00:00+00:00"
   },
   {
@@ -288,7 +288,7 @@
    "model": 0.5896246065024751,
    "market": 0.8058731727209989,
    "qb": null,
-   "story": "Our model prices Dallas Cowboys 22 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Baker Mayfield \u2014 Out (2d ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: +16% around 2026-09-30 01:10 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Dallas Cowboys 22 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Baker Mayfield \u2014 Out (3d ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: +16% around 2026-09-30 01:10 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "Indianapolis Colts",
@@ -296,15 +296,15 @@
    "model": 0.5582670514598794,
    "market": 0.361674737939067,
    "qb": null,
-   "story": "Our model prices Washington Commanders 20 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jayden Daniels \u2014 Questionable (8h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -18% around 2026-09-23 00:11 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Washington Commanders 20 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jayden Daniels \u2014 Questionable (1h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -18% around 2026-09-23 00:11 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "New York Jets",
    "home": "Chicago Bears",
    "model": 0.7932367534162424,
-   "market": 0.6187290969899665,
+   "market": 0.6159274740784974,
    "qb": null,
-   "story": "Our model prices Chicago Bears 17 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Caleb Williams \u2014 Doubtful (5h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -15% around 2026-09-23 00:11 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Chicago Bears 18 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Caleb Williams \u2014 Doubtful (23h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -15% around 2026-09-23 00:11 UTC \u2014 our snapshot archive has the full path."
   }
  ]
 }
