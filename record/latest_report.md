@@ -4,43 +4,40 @@
 
 回測顯示：大幅分歧時市場正確率更高。分歧場 = 查傷兵/新聞的訊號，非逆勢訊號。
 
-- **Pittsburgh Steelers @ Cleveland Browns** — 模型 44% vs 市場 72%（分歧 -28%，5 家賠率）
-  - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：CLE: 🚨 QB Taylen Green — Out (2h ago)；· DL Kalia Davis — IR (29d ago)；· OL Teven Jenkins — Out (24h ago)；· LB Nathaniel Watson — Out (9d ago) ｜ PIT: 🚨 QB Will Howard — Out (2h ago)；🚨 QB Drew Allar — Out (2h ago)；· RB Rico Dowdle — Out (9h ago)；· RB Eli Heidenreich — Out (4d ago)
 - **Tampa Bay Buccaneers @ Dallas Cowboys** — 模型 59% vs 市場 81%（分歧 -22%，3 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · DB Shavon Revel — Questionable (1h ago)；· OL Tyler Smith — IR (47h ago)；· DE Jonathan Bullard — IR (24h ago)；· LB DeMarvion Overshown — Questionable (4h ago) ｜ TB: 🚨 QB Baker Mayfield — Out (3d ago)；· RB Bucky Irving — Questionable (5h ago)；· DT Rakeem Nunez-Roches — Questionable (7h ago)；· TE Ko Kieft — Questionable (5h ago)
-- **Indianapolis Colts @ Washington Commanders** — 模型 56% vs 市場 36%（分歧 +19%，9 家賠率）
-  - 傷兵情報（週報）：WAS: · S Nick Cross — Out；⚠️ G Sam Cosmi — Out
-  - 日級狀態（Sleeper）：WAS: 🚨 QB Jayden Daniels — Questionable (6h ago)；· RB Rachaad White — Questionable (9h ago)；· DT Javon Kinlaw — Questionable (6d ago)；· LB Leo Chenal — IR (2d ago) ｜ IND: · TE Mo Alie-Cox — Questionable (4h ago)；· WR Alec Pierce — IR (3d ago)；· WR Keenan Allen — Questionable (5h ago)；· DL Micheal Clemons — IR (8d ago)
+  - 日級狀態（Sleeper）：DAL: · DB Shavon Revel — Questionable (19h ago)；· OL Tyler Smith — IR (3d ago)；· DE Jonathan Bullard — IR (42h ago)；· LB DeMarvion Overshown — Out (1h ago) ｜ TB: 🚨 QB Baker Mayfield — Out (2h ago)；· RB Bucky Irving — Questionable (2h ago)；· DT Rakeem Nunez-Roches — Questionable (25h ago)；· TE Ko Kieft — Out (1h ago)
+- **Indianapolis Colts @ Washington Commanders** — 模型 56% vs 市場 36%（分歧 +20%，9 家賠率）
+  - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
+  - 日級狀態（Sleeper）：WAS: 🚨 QB Jayden Daniels — Out (5h ago)；· RB Rachaad White — Out (1h ago)；· LB Leo Chenal — IR (3d ago)；· DB Nick Cross — Out (1h ago) ｜ IND: · TE Mo Alie-Cox — Questionable (14h ago)；· WR Alec Pierce — IR (4h ago)；· WR Keenan Allen — Questionable (1h ago)；· DL Micheal Clemons — IR (9d ago)
+- **New York Jets @ Chicago Bears** — 模型 79% vs 市場 63%（分歧 +17%，9 家賠率）
+  - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
+  - 日級狀態（Sleeper）：CHI: 🚨 QB Caleb Williams — Out (2h ago)；· RB D'Andre Swift — Questionable (2h ago)；· CB Cam Lewis — Questionable (4d ago)；· OL Braxton Jones — Doubtful (42h ago) ｜ NYJ: · TE Jeremy Ruckert — Questionable (21h ago)；· TE Kenyon Sadiq — Questionable (23h ago)；· LB Marcelino McCrary-Ball — IR (10d ago)；· WR Tim Patrick — IR (20d ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
-- Pittsburgh Steelers @ Cleveland Browns: 主隊隱含 43% → 72% (+30%)
-  - Trending 突波（24h vs 7日基線）：WR KC Concepcion(CLE) 76,608 adds/24h
-- Arizona Cardinals @ New York Giants: 主隊隱含 47% → 44% (-3%)
-- Los Angeles Rams @ Philadelphia Eagles: 主隊隱含 41% → 38% (-3%)
+- Los Angeles Rams @ Philadelphia Eagles: 主隊隱含 40% → 37% (-3%)
+  - Trending 突波（24h vs 7日基線）：WR Dontayvion Wicks(PHI) 96,405 adds/24h；WR Makai Lemon(PHI) 84,868 adds/24h
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
-| 10/02 | Pittsburgh Steelers @ Cleveland Browns | 44% | 72% | **64%** |
 | 10/04 | Indianapolis Colts @ Washington Commanders | 56% | 36% | **42%** |
 | 10/04 | Arizona Cardinals @ New York Giants | 60% | 44% | **49%** |
 | 10/04 | Tennessee Titans @ Baltimore Ravens | 83% | 84% | **84%** |
 | 10/04 | New England Patriots @ Buffalo Bills | 66% | 74% | **71%** |
-| 10/04 | New York Jets @ Chicago Bears | 79% | 62% | **67%** |
+| 10/04 | New York Jets @ Chicago Bears | 79% | 63% | **68%** |
 | 10/04 | Jacksonville Jaguars @ Cincinnati Bengals | 44% | 57% | **53%** |
 | 10/04 | Dallas Cowboys @ Houston Texans | 67% | 59% | **62%** |
 | 10/04 | Green Bay Packers @ Tampa Bay Buccaneers | 50% | 37% | **41%** |
-| 10/04 | Los Angeles Rams @ Philadelphia Eagles | 51% | 38% | **42%** |
+| 10/04 | Los Angeles Rams @ Philadelphia Eagles | 51% | 37% | **41%** |
 | 10/04 | Miami Dolphins @ Minnesota Vikings | 82% | 83% | **82%** |
 | 10/04 | Denver Broncos @ San Francisco 49ers | 57% | 57% | **57%** |
-| 10/04 | Kansas City Chiefs @ Las Vegas Raiders | 41% | 35% | **36%** |
+| 10/04 | Kansas City Chiefs @ Las Vegas Raiders | 41% | 34% | **36%** |
 | 10/04 | Los Angeles Chargers @ Seattle Seahawks | 83% | 75% | **77%** |
 | 10/05 | Detroit Lions @ Carolina Panthers | 40% | 37% | **38%** |
-| 10/06 | Atlanta Falcons @ New Orleans Saints | 53% | 57% | **56%** |
+| 10/06 | Atlanta Falcons @ New Orleans Saints | 53% | 56% | **55%** |
 | 10/09 | Tampa Bay Buccaneers @ Dallas Cowboys | 59% | 81% | **74%** |
 | 10/11 | Philadelphia Eagles @ Jacksonville Jaguars | 64% | 57% | **59%** |
 | 10/11 | Chicago Bears @ Green Bay Packers | 42% | 55% | **51%** |
