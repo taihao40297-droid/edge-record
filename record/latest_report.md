@@ -6,18 +6,13 @@
 
 - **Minnesota Vikings @ New Orleans Saints** — 模型 28% vs 市場 44%（分歧 -16%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：NO: · OL Kelvin Banks — IR (14d ago)；· WR Jordyn Tyson — IR (4d ago)；· RB Travis Etienne — IR (8d ago)；· WR Barion Brown — Questionable (3h ago) ｜ MIN: · CB Charles Demmings — Out (7d ago)；· TE Josh Oliver — IR (10d ago)；· RB Jordan Mason — IR (2h ago)；· T Christian Darrisaw — Out (25h ago)
+  - 日級狀態（Sleeper）：NO: · OL Kelvin Banks — IR (15d ago)；· DL Christen Miller — Questionable (5d ago)；· WR Jordyn Tyson — IR (5d ago)；· RB Travis Etienne — IR (9d ago) ｜ MIN: · CB Charles Demmings — Out (16h ago)；· TE Josh Oliver — IR (11d ago)；· RB Jordan Mason — IR (19h ago)；· T Christian Darrisaw — Out (16h ago)
 - **New Orleans Saints @ New York Giants** — 模型 63% vs 市場 48%（分歧 +15%，4 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：NYG: 🚨 QB Jaxson Dart — IR (9d ago)；· CB Jason Pinnock — Out (31h ago)；· WR Braxton Berrios — IR (2d ago)；· DE Chauncey Golston — Out (0h ago) ｜ NO: · OL Kelvin Banks — IR (14d ago)；· WR Jordyn Tyson — IR (4d ago)；· RB Travis Etienne — IR (8d ago)；· WR Barion Brown — Questionable (3h ago)
-- **Baltimore Ravens @ Atlanta Falcons** — 模型 47% vs 市場 61%（分歧 -15%，9 家賠率）
+  - 日級狀態（Sleeper）：NYG: 🚨 QB Jaxson Dart — IR (10d ago)；· CB Jason Pinnock — Out (15h ago)；· WR Braxton Berrios — IR (3d ago)；· DE Chauncey Golston — Out (17h ago) ｜ NO: · OL Kelvin Banks — IR (15d ago)；· DL Christen Miller — Questionable (5d ago)；· WR Jordyn Tyson — IR (5d ago)；· RB Travis Etienne — IR (9d ago)
+- **Baltimore Ravens @ Atlanta Falcons** — 模型 47% vs 市場 61%（分歧 -14%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：ATL: · OL Cameron Williams — IR (27d ago)；· DT Da'Shawn Hand — IR (23d ago)；· DE Samson Ebukam — Questionable (4h ago)；· CB A.J. Terrell — IR (17d ago) ｜ BAL: 🚨 QB Lamar Jackson — Out (1h ago)；· OL Andrew Vorhees — Questionable (5d ago)；· DE Trey Hendrickson — Out (1h ago)；· OL Jovaughn Gwyn — IR (6d ago)
-
-## 📈 48 小時盤口異動（≥2%）
-
-- Chicago Bears @ Green Bay Packers: 主隊隱含 45% → 47% (+2%)
-- Baltimore Ravens @ Cleveland Browns: 主隊隱含 42% → 38% (-3%)
+  - 日級狀態（Sleeper）：ATL: · OL Cameron Williams — IR (28d ago)；· DT Da'Shawn Hand — IR (24d ago)；· DE Samson Ebukam — Questionable (21h ago)；· CB A.J. Terrell — IR (18d ago) ｜ BAL: 🚨 QB Lamar Jackson — Out (13h ago)；· OL Andrew Vorhees — Questionable (6d ago)；· DE Trey Hendrickson — Out (16h ago)；· OL Jovaughn Gwyn — IR (7d ago)
 
 ## 全場次
 
@@ -29,14 +24,14 @@
 | 10/11 | Cleveland Browns @ New York Jets | 42% | 56% | **52%** |
 | 10/11 | Houston Texans @ Tennessee Titans | 28% | 25% | **26%** |
 | 10/11 | Indianapolis Colts @ Pittsburgh Steelers | 60% | 57% | **58%** |
-| 10/11 | Las Vegas Raiders @ New England Patriots | 75% | 63% | **67%** |
+| 10/11 | Las Vegas Raiders @ New England Patriots | 75% | 63% | **66%** |
 | 10/11 | Minnesota Vikings @ New Orleans Saints | 28% | 44% | **39%** |
-| 10/11 | New York Giants @ Washington Commanders | 49% | 62% | **58%** |
+| 10/11 | New York Giants @ Washington Commanders | 49% | 63% | **58%** |
 | 10/11 | Denver Broncos @ Los Angeles Chargers | 35% | 38% | **37%** |
 | 10/11 | Detroit Lions @ Arizona Cardinals | 37% | 32% | **33%** |
 | 10/11 | San Francisco 49ers @ Seattle Seahawks | 62% | 61% | **61%** |
 | 10/12 | Baltimore Ravens @ Atlanta Falcons | 47% | 61% | **57%** |
-| 10/13 | Buffalo Bills @ Los Angeles Rams | 50% | 61% | **58%** |
+| 10/13 | Buffalo Bills @ Los Angeles Rams | 50% | 62% | **58%** |
 | 10/16 | Seattle Seahawks @ Denver Broncos | 42% | 45% | **44%** |
 | 10/18 | Houston Texans @ Jacksonville Jaguars | 70% | 60% | **63%** |
 | 10/18 | Chicago Bears @ Atlanta Falcons | 43% | 46% | **45%** |
