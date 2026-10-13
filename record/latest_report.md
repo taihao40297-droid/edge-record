@@ -4,38 +4,62 @@
 
 回測顯示：大幅分歧時市場正確率更高。分歧場 = 查傷兵/新聞的訊號，非逆勢訊號。
 
-- **Dallas Cowboys @ Green Bay Packers** — 模型 66% vs 市場 51%（分歧 +15%，9 家賠率）
+- **Chicago Bears @ Atlanta Falcons** — 模型 62% vs 市場 39%（分歧 +23%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：GB: · WR Jayden Reed — IR (2d ago)；· RB Chris Brooks — IR (2d ago)；· OL Donovan Jennings — Out (19d ago)；· WR Savion Williams — IR (3d ago) ｜ DAL: · WR CeeDee Lamb — Questionable (4d ago)；· OL Tyler Guyton — Questionable (3d ago)；· DB Alijah Clark — Questionable (4d ago)；· DE Jonathan Bullard — IR (12d ago)
-- **New Orleans Saints @ New York Giants** — 模型 65% vs 市場 50%（分歧 +15%，8 家賠率）
+  - 日級狀態（Sleeper）：ATL: 🚨 QB Cooper Rush — Out (45h ago)；🚨 QB Michael Penix — Questionable (24h ago)；🚨 QB Jack Strand — Out (19d ago)；· DT Da'Shawn Hand — IR (27d ago) ｜ CHI: 🚨 QB Caleb Williams — Out (2h ago)；· OL Braxton Jones — IR (10d ago)；· LB Keyshaun Elliott — Out (4d ago)；· CB Tyrique Stevenson — Questionable (2d ago)
+- **New England Patriots @ Chicago Bears** — 模型 31% vs 市場 54%（分歧 -23%，2 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：NYG: 🚨 QB Jake Haener — Out (35h ago)；🚨 QB Jaxson Dart — IR (2d ago)；· CB Jason Pinnock — Out (3d ago)；· RB Devin Singletary — Out (8d ago) ｜ NO: 🚨 QB Zach Wilson — Out (34h ago)；· DT Nathan Shepherd — Out (34h ago)；· DT Vernon Broughton — Out (34h ago)；· OL Kelvin Banks — IR (17d ago)
-- **Buffalo Bills @ Los Angeles Rams** — 模型 50% vs 市場 36%（分歧 +13%，6 家賠率）
+  - 日級狀態（Sleeper）：CHI: 🚨 QB Caleb Williams — Out (2h ago)；· OL Braxton Jones — IR (10d ago)；· LB Keyshaun Elliott — Out (4d ago)；· CB Tyrique Stevenson — Questionable (2d ago) ｜ NE: 🚨 QB Behren Morton — Out (2d ago)；· RB TreVeyon Henderson — Out (5h ago)；· OL Mike Onwenu — IR (21d ago)；· LB Khalil Jacobs — IR (6d ago)
+- **Baltimore Ravens @ Cleveland Browns** — 模型 52% vs 市場 34%（分歧 +18%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：LA: 🚨 QB Ty Simpson — Out (4h ago)；· TE Terrance Ferguson — IR (5d ago)；· DE Myles Garrett — IR (2d ago)；· RB Ronnie Rivers — IR (19d ago) ｜ BUF: · DT Ed Oliver — Out (2d ago)；· DB Jordan Hancock — IR (17d ago)；· DB Dee Alford — Out (4h ago)；· WR DJ Moore — Out (4h ago)
+  - 日級狀態（Sleeper）：CLE: 🚨 QB Dillon Gabriel — IR (4d ago)；🚨 QB Taylen Green — Out (2d ago)；· DL Kalia Davis — IR (4d ago)；· C Parker Brailsford — Out (25d ago) ｜ BAL: 🚨 QB Lamar Jackson — Out (24h ago)；· WR Elijah Sarratt — Out (8d ago)；· OL Andrew Vorhees — Out (45h ago)；· DT Broderick Washington — Questionable (41h ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
-- Buffalo Bills @ Los Angeles Rams: 主隊隱含 61% → 36% (-25%)
-  - Trending 突波（24h vs 7日基線）：WR Konata Mumpfield(LAR) 86,418 adds/24h；RB Blake Corum(LAR) 42,888 adds/24h；RB Ty Johnson(BUF) 39,918 adds/24h
+- Buffalo Bills @ Las Vegas Raiders: 主隊隱含 30% → 33% (+3%)
+  - Trending 突波（24h vs 7日基線）：WR Keon Coleman(BUF) 278,874 drops/24h；DEF ?(LV) 220,104 drops/24h
+- Dallas Cowboys @ Green Bay Packers: 主隊隱含 50% → 53% (+3%)
+  - Trending 突波（24h vs 7日基線）：RB MarShawn Lloyd(GB) 1,406,988 adds/24h；K Trey Smack(GB) 135,532 adds/24h
+
+## 🚨 QB 缺陣調整（模型勝率已下修 110 Elo，回測校準）
+
+- **Chicago Bears @ Atlanta Falcons** — CHI: Caleb Williams
+- **Baltimore Ravens @ Cleveland Browns** — BAL: Lamar Jackson
+- **New England Patriots @ Chicago Bears** — CHI: Caleb Williams
+- **Cincinnati Bengals @ Baltimore Ravens** — BAL: Lamar Jackson
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
-| 10/13 | Buffalo Bills @ Los Angeles Rams | 50% | 36% | **40%** |
-| 10/16 | Seattle Seahawks @ Denver Broncos | 46% | 41% | **43%** |
+| 10/16 | Seattle Seahawks @ Denver Broncos | 46% | 43% | **44%** |
 | 10/18 | Houston Texans @ Jacksonville Jaguars | 69% | 57% | **61%** |
-| 10/18 | Chicago Bears @ Atlanta Falcons | 46% | 38% | **41%** |
-| 10/18 | Baltimore Ravens @ Cleveland Browns | 36% | 33% | **34%** |
-| 10/18 | Carolina Panthers @ Philadelphia Eagles | 63% | 52% | **55%** |
-| 10/18 | Tennessee Titans @ Indianapolis Colts | 77% | 73% | **74%** |
+| 10/18 | Chicago Bears @ Atlanta Falcons | 62% | 39% | **46%** |
+| 10/18 | Baltimore Ravens @ Cleveland Browns | 52% | 34% | **39%** |
+| 10/18 | Carolina Panthers @ Philadelphia Eagles | 63% | 51% | **55%** |
+| 10/18 | Tennessee Titans @ Indianapolis Colts | 77% | 74% | **74%** |
 | 10/18 | New York Jets @ New England Patriots | 82% | 74% | **76%** |
-| 10/18 | New Orleans Saints @ New York Giants | 65% | 50% | **54%** |
-| 10/18 | Pittsburgh Steelers @ Tampa Bay Buccaneers | 44% | 42% | **43%** |
+| 10/18 | New Orleans Saints @ New York Giants | 65% | 49% | **54%** |
+| 10/18 | Pittsburgh Steelers @ Tampa Bay Buccaneers | 44% | 45% | **44%** |
+| 10/18 | Arizona Cardinals @ Los Angeles Rams | 80% | 85% | **84%** |
+| 10/18 | Buffalo Bills @ Las Vegas Raiders | 27% | 33% | **31%** |
 | 10/18 | Los Angeles Chargers @ Kansas City Chiefs | 75% | 78% | **77%** |
-| 10/19 | Dallas Cowboys @ Green Bay Packers | 66% | 51% | **56%** |
+| 10/19 | Dallas Cowboys @ Green Bay Packers | 66% | 53% | **57%** |
 | 10/20 | Washington Commanders @ San Francisco 49ers | 83% | 76% | **78%** |
+| 10/23 | New England Patriots @ Chicago Bears | 31% | 54% | **47%** |
+| 10/25 | Pittsburgh Steelers @ New Orleans Saints | 38% | 44% | **42%** |
+| 10/25 | San Francisco 49ers @ Atlanta Falcons | 31% | 33% | **33%** |
+| 10/25 | Cincinnati Bengals @ Baltimore Ravens | 47% | 63% | **58%** |
+| 10/25 | Tampa Bay Buccaneers @ Carolina Panthers | 59% | 59% | **59%** |
+| 10/25 | Cleveland Browns @ Tennessee Titans | 35% | 48% | **44%** |
+| 10/25 | New York Giants @ Houston Texans | 64% | 77% | **73%** |
+| 10/25 | Indianapolis Colts @ Minnesota Vikings | 77% | 68% | **71%** |
+| 10/25 | Miami Dolphins @ New York Jets | 58% | 66% | **64%** |
+| 10/25 | Denver Broncos @ Arizona Cardinals | 26% | 32% | **30%** |
+| 10/25 | Green Bay Packers @ Detroit Lions | 59% | 64% | **63%** |
+| 10/25 | Los Angeles Rams @ Las Vegas Raiders | 35% | 27% | **29%** |
+| 10/26 | Kansas City Chiefs @ Seattle Seahawks | 69% | 56% | **60%** |
+| 10/27 | Dallas Cowboys @ Philadelphia Eagles | 66% | 51% | **55%** |
 
 ---
 Data: nflverse (CC-BY 4.0) · Odds: The Odds API
