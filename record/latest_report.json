@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-15T17:56+00:00",
+ "generated_utc": "2026-10-16T00:10+00:00",
  "slate": [
   {
    "home": "Denver Broncos",
@@ -32,18 +32,18 @@
    "home": "Cleveland Browns",
    "away": "Baltimore Ravens",
    "model": 0.36486221460923707,
-   "market": 0.34142640364188165,
-   "blend": 0.3484571469320883,
-   "edge": 0.02343581096735542,
+   "market": 0.34929577464788736,
+   "blend": 0.35396570663629223,
+   "edge": 0.01556643996134971,
    "kickoff": "2026-10-18T17:00:00+00:00"
   },
   {
    "home": "Philadelphia Eagles",
    "away": "Carolina Panthers",
    "model": 0.47677728884293374,
-   "market": 0.37603733809771456,
-   "blend": 0.40625932332128034,
-   "edge": 0.10073995074521919,
+   "market": 0.37296342341163385,
+   "blend": 0.4041075830410238,
+   "edge": 0.10381386543129989,
    "kickoff": "2026-10-18T17:00:00+00:00"
   },
   {
@@ -86,9 +86,9 @@
    "home": "Los Angeles Rams",
    "away": "Arizona Cardinals",
    "model": 0.8018263293352635,
-   "market": 0.8532818532818532,
-   "blend": 0.8378451960978763,
-   "edge": -0.0514555239465897,
+   "market": 0.8553993704616992,
+   "blend": 0.8393274581237684,
+   "edge": -0.05357304112643568,
    "kickoff": "2026-10-18T20:05:00+00:00"
   },
   {
@@ -185,9 +185,9 @@
    "home": "Houston Texans",
    "away": "New York Giants",
    "model": 0.6430586897774467,
-   "market": 0.7775930160049885,
-   "blend": 0.737232718136726,
-   "edge": -0.1345343262275418,
+   "market": 0.7685185185185185,
+   "blend": 0.7308805698961969,
+   "edge": -0.12545982874107175,
    "kickoff": "2026-10-25T17:00:00+00:00"
   },
   {
@@ -266,7 +266,7 @@
    "away": "New York Giants",
    "home": "Houston Texans",
    "model": 0.6430586897774467,
-   "market": 0.7775930160049885,
+   "market": 0.7685185185185185,
    "qb": null,
    "story": "Our model prices Houston Texans 13 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jaxson Dart \u2014 IR (5d ago). QB uncertainty moves lines faster than anything."
   }
