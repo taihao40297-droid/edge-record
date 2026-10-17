@@ -4,37 +4,36 @@
 
 回測顯示：大幅分歧時市場正確率更高。分歧場 = 查傷兵/新聞的訊號，非逆勢訊號。
 
-- **Carolina Panthers @ Philadelphia Eagles** — 模型 63% vs 市場 39%（分歧 +24%，8 家賠率）
+- **Carolina Panthers @ Philadelphia Eagles** — 模型 63% vs 市場 39%（分歧 +24%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：PHI: 🚨 QB Jalen Hurts — Out (3h ago)；· TE Grant Calcaterra — IR (14h ago)；· DL Jalyx Hunt — Out (14h ago)；· TE Eli Stowers — IR (14h ago) ｜ CAR: · T Taylor Moton — PUP (13h ago)；· CB Mike Jackson — IR (17d ago)；· DT Tershawn Wharton — PUP (4d ago)；· CB Jaycee Horn — IR (17d ago)
-- **New Orleans Saints @ New York Giants** — 模型 65% vs 市場 50%（分歧 +15%，5 家賠率）
+  - 日級狀態（Sleeper）：PHI: 🚨 QB Jalen Hurts — IR (3h ago)；· TE Grant Calcaterra — IR (22h ago)；· DL Jalyx Hunt — Out (21h ago)；· TE Eli Stowers — IR (21h ago) ｜ CAR: · T Taylor Moton — Questionable (20h ago)；· CB Mike Jackson — IR (17d ago)；· DT Tershawn Wharton — Questionable (0h ago)；· CB Jaycee Horn — IR (17d ago)
+- **Dallas Cowboys @ Green Bay Packers** — 模型 66% vs 市場 51%（分歧 +15%，8 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：NYG: 🚨 QB Jaxson Dart — IR (7d ago)；· WR Braxton Berrios — IR (3d ago)；· TE Theo Johnson — Out (18h ago)；· DB Tyler Nubin — Out (14h ago) ｜ NO: · DT Nathan Shepherd — Questionable (20h ago)；· OL Kelvin Banks — IR (22d ago)；· WR Jordyn Tyson — IR (3d ago)；· RB Travis Etienne — IR (16d ago)
-- **Dallas Cowboys @ Green Bay Packers** — 模型 66% vs 市場 52%（分歧 +14%，7 家賠率）
+  - 日級狀態（Sleeper）：GB: · WR Jayden Reed — IR (7d ago)；· RB Chris Brooks — IR (7d ago)；· DL Jordon Riley — PUP (3d ago)；· DL Jonathan Ford — IR (19h ago) ｜ DAL: · DE Jonathan Bullard — IR (17d ago)；· LB DeMarvion Overshown — Out (21h ago)；· DB P.J. Locke — IR (21d ago)；· DB Cobie Durant — Out (21h ago)
+- **New Orleans Saints @ New York Giants** — 模型 65% vs 市場 50%（分歧 +15%，6 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：GB: · WR Jayden Reed — IR (7d ago)；· RB Chris Brooks — IR (7d ago)；· DL Jordon Riley — PUP (3d ago)；· DL Jonathan Ford — Out (12h ago) ｜ DAL: · DE Jonathan Bullard — IR (17d ago)；· LB DeMarvion Overshown — Questionable (14h ago)；· DB P.J. Locke — IR (21d ago)；· DB Cobie Durant — Out (14h ago)
+  - 日級狀態（Sleeper）：NYG: 🚨 QB Jaxson Dart — IR (7d ago)；· WR Braxton Berrios — IR (3d ago)；· TE Theo Johnson — Out (25h ago)；· DB Tyler Nubin — Out (21h ago) ｜ NO: · DT Nathan Shepherd — Questionable (27h ago)；· OL Kelvin Banks — IR (22d ago)；· WR Jordyn Tyson — IR (3d ago)；· RB Travis Etienne — IR (16d ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
-- Baltimore Ravens @ Cleveland Browns: 主隊隱含 34% → 40% (+6%)
-  - Trending 突波（24h vs 7日基線）：QB Tyler Huntley(BAL) 65,714 adds/24h；RB Jaleel McLaughlin(CLE) 51,170 drops/24h
+- Baltimore Ravens @ Cleveland Browns: 主隊隱含 35% → 39% (+4%)
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
-| 10/18 | Houston Texans @ Jacksonville Jaguars | 69% | 56% | **60%** |
+| 10/18 | Houston Texans @ Jacksonville Jaguars | 69% | 57% | **60%** |
 | 10/18 | Chicago Bears @ Atlanta Falcons | 46% | 49% | **48%** |
-| 10/18 | Baltimore Ravens @ Cleveland Browns | 36% | 40% | **39%** |
+| 10/18 | Baltimore Ravens @ Cleveland Browns | 36% | 39% | **38%** |
 | 10/18 | Carolina Panthers @ Philadelphia Eagles | 63% | 39% | **46%** |
-| 10/18 | Tennessee Titans @ Indianapolis Colts | 77% | 73% | **74%** |
+| 10/18 | Tennessee Titans @ Indianapolis Colts | 77% | 74% | **75%** |
 | 10/18 | New York Jets @ New England Patriots | 82% | 75% | **77%** |
 | 10/18 | New Orleans Saints @ New York Giants | 65% | 50% | **54%** |
 | 10/18 | Pittsburgh Steelers @ Tampa Bay Buccaneers | 44% | 43% | **44%** |
-| 10/18 | Arizona Cardinals @ Los Angeles Rams | 80% | 85% | **84%** |
+| 10/18 | Arizona Cardinals @ Los Angeles Rams | 80% | 86% | **84%** |
 | 10/18 | Buffalo Bills @ Las Vegas Raiders | 27% | 33% | **31%** |
 | 10/18 | Los Angeles Chargers @ Kansas City Chiefs | 75% | 77% | **76%** |
-| 10/19 | Dallas Cowboys @ Green Bay Packers | 66% | 52% | **56%** |
+| 10/19 | Dallas Cowboys @ Green Bay Packers | 66% | 51% | **56%** |
 | 10/20 | Washington Commanders @ San Francisco 49ers | 83% | 77% | **79%** |
 | 10/23 | New England Patriots @ Chicago Bears | 46% | 54% | **51%** |
 | 10/25 | Pittsburgh Steelers @ New Orleans Saints | 38% | 45% | **43%** |
