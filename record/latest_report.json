@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T17:46+00:00",
+ "generated_utc": "2026-10-17T00:13+00:00",
  "slate": [
   {
    "home": "Jacksonville Jaguars",
@@ -14,27 +14,27 @@
    "home": "Atlanta Falcons",
    "away": "Chicago Bears",
    "model": 0.46280703964774283,
-   "market": 0.4868842956425653,
-   "blend": 0.47966111884411855,
-   "edge": -0.024077255994822466,
+   "market": 0.48638899762571797,
+   "blend": 0.47931441023232546,
+   "edge": -0.023581957977975132,
    "kickoff": "2026-10-18T17:00:00+00:00"
   },
   {
    "home": "Cleveland Browns",
    "away": "Baltimore Ravens",
    "model": 0.36486221460923707,
-   "market": 0.3955770704871351,
-   "blend": 0.3863626137237657,
-   "edge": -0.030714855877898017,
+   "market": 0.39596563317146055,
+   "blend": 0.3866346076027935,
+   "edge": -0.031103418562223484,
    "kickoff": "2026-10-18T17:00:00+00:00"
   },
   {
    "home": "Philadelphia Eagles",
    "away": "Carolina Panthers",
    "model": 0.6318713108103408,
-   "market": 0.37296342341163385,
-   "blend": 0.45063578963124595,
-   "edge": 0.2589078873987069,
+   "market": 0.3859649122807018,
+   "blend": 0.45973683183959346,
+   "edge": 0.24590639852963897,
    "kickoff": "2026-10-18T17:00:00+00:00"
   },
   {
@@ -68,9 +68,9 @@
    "home": "Tampa Bay Buccaneers",
    "away": "Pittsburgh Steelers",
    "model": 0.43903450223764684,
-   "market": 0.43650793650793646,
-   "blend": 0.4372659062268496,
-   "edge": 0.002526565729710384,
+   "market": 0.43428325317636923,
+   "blend": 0.4357086278947525,
+   "edge": 0.004751249061277607,
    "kickoff": "2026-10-18T17:00:00+00:00"
   },
   {
@@ -95,9 +95,9 @@
    "home": "Kansas City Chiefs",
    "away": "Los Angeles Chargers",
    "model": 0.7461151788617988,
-   "market": 0.7764402407566638,
-   "blend": 0.7673427221882043,
-   "edge": -0.030325061894865057,
+   "market": 0.7706422018348623,
+   "blend": 0.7632840949429432,
+   "edge": -0.024527022973063528,
    "kickoff": "2026-10-18T20:25:00+00:00"
   },
   {
@@ -113,9 +113,9 @@
    "home": "San Francisco 49ers",
    "away": "Washington Commanders",
    "model": 0.8325041247388241,
-   "market": 0.7696990336724703,
-   "blend": 0.7885405609923765,
-   "edge": 0.06280509106635379,
+   "market": 0.7663551401869159,
+   "blend": 0.7861998355524884,
+   "edge": 0.06614898455190821,
    "kickoff": "2026-10-20T00:15:00+00:00"
   },
   {
@@ -167,9 +167,9 @@
    "home": "Tennessee Titans",
    "away": "Cleveland Browns",
    "model": 0.35414823266055906,
-   "market": 0.4739134147382802,
-   "blend": 0.4379838601149638,
-   "edge": -0.11976518207772113,
+   "market": 0.46874999999999994,
+   "blend": 0.4343694697981677,
+   "edge": -0.11460176733944089,
    "kickoff": "2026-10-25T17:00:00+00:00"
   },
   {
@@ -203,9 +203,9 @@
    "home": "Detroit Lions",
    "away": "Green Bay Packers",
    "model": 0.5943054172995694,
-   "market": 0.6524137931034484,
-   "blend": 0.6349812803622847,
-   "edge": -0.05810837580387895,
+   "market": 0.6335443984643765,
+   "blend": 0.6217727041149343,
+   "edge": -0.03923898116480706,
    "kickoff": "2026-10-25T20:25:00+00:00"
   },
   {
@@ -223,9 +223,9 @@
    "away": "Carolina Panthers",
    "home": "Philadelphia Eagles",
    "model": 0.6318713108103408,
-   "market": 0.37296342341163385,
+   "market": 0.3859649122807018,
    "qb": null,
-   "story": "Our model prices Philadelphia Eagles 26 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jalen Hurts \u2014 Out (18h ago). QB uncertainty moves lines faster than anything. The line itself moved 13% in the last 48h (50% \u2192 37%), so whatever it is, money is acting on it."
+   "story": "Our model prices Philadelphia Eagles 25 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jalen Hurts \u2014 Out (24h ago). QB uncertainty moves lines faster than anything. The line itself moved 10% in the last 48h (49% \u2192 39%), so whatever it is, money is acting on it."
   },
   {
    "away": "Dallas Cowboys",
@@ -233,7 +233,7 @@
    "model": 0.6619894291826287,
    "market": 0.5108342361863488,
    "qb": null,
-   "story": "Our model prices Green Bay Packers 15 points higher than the market does. Fantasy managers are moving too (QB Joe Milton(DAL) 102,388 adds/24h), which usually tracks breaking roster news. Sharpest recorded swing on this line: +5% around 2026-10-12 01:06 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Green Bay Packers 15 points higher than the market does. Fantasy managers are moving too (RB Josh Jacobs(GB) 357,115 adds/24h), which usually tracks breaking roster news. Sharpest recorded swing on this line: +5% around 2026-10-12 01:06 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "New Orleans Saints",
