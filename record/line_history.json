@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-20T18:13+00:00",
+ "generated_utc": "2026-10-21T00:28+00:00",
  "window_days": 21,
  "note": "consensus home-win probability, de-vigged median across books; series starts when a game first appears on the board",
  "games": {
@@ -63,6 +63,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.5898
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.5914
    }
   ],
   "Pittsburgh Steelers @ New Orleans Saints": [
@@ -125,6 +129,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.3813
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.3775
    }
   ],
   "San Francisco 49ers @ Atlanta Falcons": [
@@ -183,6 +191,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.3864
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.3908
    }
   ],
   "Cincinnati Bengals @ Baltimore Ravens": [
@@ -245,6 +257,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.5726
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.5729
    }
   ],
   "Tampa Bay Buccaneers @ Carolina Panthers": [
@@ -307,6 +323,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.6087
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.614
    }
   ],
   "Cleveland Browns @ Tennessee Titans": [
@@ -369,6 +389,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.4653
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.4675
    }
   ],
   "New York Giants @ Houston Texans": [
@@ -427,6 +451,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.7917
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.7969
    }
   ],
   "Indianapolis Colts @ Minnesota Vikings": [
@@ -489,6 +517,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.7028
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.7083
    }
   ],
   "Miami Dolphins @ New York Jets": [
@@ -551,6 +583,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.6728
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.6705
    }
   ],
   "Denver Broncos @ Arizona Cardinals": [
@@ -593,6 +629,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.3419
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.3452
    }
   ],
   "Green Bay Packers @ Detroit Lions": [
@@ -655,6 +695,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.6048
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.6092
    }
   ],
   "Los Angeles Rams @ Las Vegas Raiders": [
@@ -717,6 +761,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.3493
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.3485
    }
   ],
   "Kansas City Chiefs @ Seattle Seahawks": [
@@ -759,6 +807,10 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.562
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.5788
    }
   ],
   "Dallas Cowboys @ Philadelphia Eagles": [
@@ -793,6 +845,94 @@
    {
     "t": "2026-10-20T18:13Z",
     "p": 0.3411
+   },
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.3411
+   }
+  ],
+  "Carolina Panthers @ Green Bay Packers": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.589
+   }
+  ],
+  "Arizona Cardinals @ Dallas Cowboys": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.7221
+   }
+  ],
+  "Atlanta Falcons @ Tampa Bay Buccaneers": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.5174
+   }
+  ],
+  "Baltimore Ravens @ Buffalo Bills": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.5707
+   }
+  ],
+  "Tennessee Titans @ Cincinnati Bengals": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.8282
+   }
+  ],
+  "Cleveland Browns @ Pittsburgh Steelers": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.6447
+   }
+  ],
+  "Minnesota Vikings @ Detroit Lions": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.5965
+   }
+  ],
+  "Indianapolis Colts @ Jacksonville Jaguars": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.7654
+   }
+  ],
+  "Las Vegas Raiders @ New York Jets": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.5154
+   }
+  ],
+  "Los Angeles Chargers @ Los Angeles Rams": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.7685
+   }
+  ],
+  "Kansas City Chiefs @ Denver Broncos": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.463
+   }
+  ],
+  "New England Patriots @ Miami Dolphins": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.2188
+   }
+  ],
+  "Philadelphia Eagles @ Washington Commanders": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.6411
+   }
+  ],
+  "Chicago Bears @ Seattle Seahawks": [
+   {
+    "t": "2026-10-21T00:28Z",
+    "p": 0.5965
    }
   ]
  }
