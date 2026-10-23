@@ -1,15 +1,6 @@
 {
- "generated_utc": "2026-10-23T00:28+00:00",
+ "generated_utc": "2026-10-23T18:02+00:00",
  "slate": [
-  {
-   "home": "Chicago Bears",
-   "away": "New England Patriots",
-   "model": 0.4771487752222334,
-   "market": 0.6287425149700598,
-   "blend": 0.5832643930457119,
-   "edge": -0.15159373974782642,
-   "kickoff": "2026-10-23T00:15:47+00:00"
-  },
   {
    "home": "New Orleans Saints",
    "away": "Pittsburgh Steelers",
@@ -23,54 +14,54 @@
    "home": "Atlanta Falcons",
    "away": "San Francisco 49ers",
    "model": 0.2755601371261708,
-   "market": 0.42888402625820565,
-   "blend": 0.3828868595185952,
-   "edge": -0.15332388913203487,
+   "market": 0.4255319148936171,
+   "blend": 0.3805403815633832,
+   "edge": -0.1499717777674463,
    "kickoff": "2026-10-25T17:00:00+00:00"
   },
   {
    "home": "Baltimore Ravens",
    "away": "Cincinnati Bengals",
    "model": 0.6030670256812155,
-   "market": 0.5287958115183247,
-   "blend": 0.551077175767192,
-   "edge": 0.07427121416289084,
+   "market": 0.5091808827180884,
+   "blend": 0.5373467256070266,
+   "edge": 0.09388614296312714,
    "kickoff": "2026-10-25T17:00:00+00:00"
   },
   {
    "home": "Carolina Panthers",
    "away": "Tampa Bay Buccaneers",
    "model": 0.6519551575874682,
-   "market": 0.5787700084245998,
-   "blend": 0.6007255531734603,
-   "edge": 0.07318514916286845,
+   "market": 0.5775784997028711,
+   "blend": 0.5998914970682503,
+   "edge": 0.07437665788459713,
    "kickoff": "2026-10-25T17:00:00+00:00"
   },
   {
    "home": "Tennessee Titans",
    "away": "Cleveland Browns",
    "model": 0.37220484852875046,
-   "market": 0.4572564612326044,
-   "blend": 0.4317409774214482,
-   "edge": -0.08505161270385392,
+   "market": 0.4613143412107478,
+   "blend": 0.4345814934061486,
+   "edge": -0.08910949268199736,
    "kickoff": "2026-10-25T17:00:00+00:00"
   },
   {
    "home": "Houston Texans",
    "away": "New York Giants",
    "model": 0.7032974841501036,
-   "market": 0.8013202996064491,
-   "blend": 0.7719134549695456,
-   "edge": -0.0980228154563455,
+   "market": 0.7983193277310925,
+   "blend": 0.7698127746567959,
+   "edge": -0.09502184358098886,
    "kickoff": "2026-10-25T17:00:00+00:00"
   },
   {
    "home": "Minnesota Vikings",
    "away": "Indianapolis Colts",
    "model": 0.8005225605103683,
-   "market": 0.7095435684647302,
-   "blend": 0.7368372660784216,
-   "edge": 0.09097899204563809,
+   "market": 0.711362805991962,
+   "blend": 0.7381107323474839,
+   "edge": 0.0891597545184063,
    "kickoff": "2026-10-25T17:00:00+00:00"
   },
   {
@@ -95,27 +86,27 @@
    "home": "Detroit Lions",
    "away": "Green Bay Packers",
    "model": 0.5713734560207713,
-   "market": 0.6173331896087096,
-   "blend": 0.6035452695323281,
-   "edge": -0.04595973358793837,
+   "market": 0.6205560770522364,
+   "blend": 0.6058012907427968,
+   "edge": -0.04918262103146509,
    "kickoff": "2026-10-25T20:25:00+00:00"
   },
   {
    "home": "Las Vegas Raiders",
    "away": "Los Angeles Rams",
    "model": 0.3672765243299553,
-   "market": 0.36546943919344677,
-   "blend": 0.36601156473439933,
-   "edge": 0.0018070851365085128,
+   "market": 0.36983396265452856,
+   "blend": 0.36906673115715655,
+   "edge": -0.00255743832457328,
    "kickoff": "2026-10-25T20:25:00+00:00"
   },
   {
    "home": "Seattle Seahawks",
    "away": "Kansas City Chiefs",
    "model": 0.6502607543898942,
-   "market": 0.5711159737417943,
-   "blend": 0.5948594079362243,
-   "edge": 0.07914478064809982,
+   "market": 0.5671302866874822,
+   "blend": 0.5920694269982059,
+   "edge": 0.08313046770241195,
    "kickoff": "2026-10-26T00:20:00+00:00"
   },
   {
@@ -221,18 +212,18 @@
    "home": "Denver Broncos",
    "away": "Kansas City Chiefs",
    "model": 0.6003079575933282,
-   "market": 0.4712041884816754,
-   "blend": 0.5099353192151712,
-   "edge": 0.12910376911165283,
+   "market": 0.4675324675324675,
+   "blend": 0.5073651145507257,
+   "edge": 0.1327754900608607,
    "kickoff": "2026-11-01T21:25:00+00:00"
   },
   {
    "home": "Miami Dolphins",
    "away": "New England Patriots",
-   "model": 0.2375164795331308,
-   "market": 0.22541879842400397,
-   "blend": 0.229048102756742,
-   "edge": 0.012097681109126818,
+   "model": 0.25996401541641934,
+   "market": 0.2092675635276532,
+   "blend": 0.22447649909428302,
+   "edge": 0.05069645188876615,
    "kickoff": "2026-11-01T21:25:00+00:00"
   },
   {
@@ -247,10 +238,10 @@
   {
    "home": "Seattle Seahawks",
    "away": "Chicago Bears",
-   "model": 0.6804176379607177,
-   "market": 0.5918245261586224,
-   "blend": 0.618402459699251,
-   "edge": 0.08859311180209539,
+   "model": 0.6537363066087563,
+   "market": 0.5902792981578207,
+   "blend": 0.6093164006931013,
+   "edge": 0.0634570084509356,
    "kickoff": "2026-11-03T01:20:00+00:00"
   }
  ],
@@ -261,7 +252,7 @@
    "model": 0.6397318391012313,
    "market": 0.35377358490566035,
    "qb": null,
-   "story": "Our model prices Philadelphia Eagles 29 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jalen Hurts \u2014 IR (31h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -18% around 2026-10-19 00:02 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Philadelphia Eagles 29 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jalen Hurts \u2014 IR (2d ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -18% around 2026-10-19 00:02 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "Philadelphia Eagles",
@@ -275,7 +266,7 @@
    "away": "San Francisco 49ers",
    "home": "Atlanta Falcons",
    "model": 0.2755601371261708,
-   "market": 0.42888402625820565,
+   "market": 0.4255319148936171,
    "qb": null,
    "story": "Our model prices Atlanta Falcons 15 points lower than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly. The line itself moved 4% in the last 48h (39% \u2192 43%), so whatever it is, money is acting on it."
   }
