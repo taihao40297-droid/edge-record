@@ -4,46 +4,41 @@
 
 回測顯示：大幅分歧時市場正確率更高。分歧場 = 查傷兵/新聞的訊號，非逆勢訊號。
 
-- **Cleveland Browns @ Tennessee Titans** — 模型 37% vs 市場 76%（分歧 -39%，6 家賠率）
+- **Dallas Cowboys @ Philadelphia Eagles** — 模型 64% vs 市場 34%（分歧 +30%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：TEN: · OL Jackson Slater — IR (26d ago)；· WR Calvin Ridley — Out (1h ago)；· G Fernando Carmona Jr. — IR (26d ago)；· LB Dorian Mausi — IR (4d ago) ｜ CLE: 🚨 QB Dillon Gabriel — IR (42h ago)；🚨 QB Taylen Green — Out (1h ago)；· RB Audric Estime — Out (1h ago)；· DL Kalia Davis — IR (42h ago)
-- **Dallas Cowboys @ Philadelphia Eagles** — 模型 64% vs 市場 33%（分歧 +31%，9 家賠率）
+  - 日級狀態（Sleeper）：PHI: 🚨 QB Jalen Hurts — IR (4d ago)；· TE Grant Calcaterra — IR (26h ago)；· DL Jalyx Hunt — Questionable (2d ago)；· WR Dontayvion Wicks — Out (27h ago) ｜ DAL: · DE Jonathan Bullard — IR (25d ago)；· DB P.J. Locke — IR (5h ago)；· WR KaVontae Turpin — Out (25h ago)；· DB Jalen Thompson — IR (25d ago)
+- **Philadelphia Eagles @ Washington Commanders** — 模型 45% vs 市場 63%（分歧 -19%，5 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：PHI: 🚨 QB Jalen Hurts — IR (4d ago)；· TE Grant Calcaterra — IR (19h ago)；· DL Jalyx Hunt — Questionable (46h ago)；· WR Dontayvion Wicks — Out (20h ago) ｜ DAL: · DE Jonathan Bullard — IR (25d ago)；· DB P.J. Locke — IR (40h ago)；· WR KaVontae Turpin — Out (18h ago)；· DB Jalen Thompson — IR (25d ago)
-- **Indianapolis Colts @ Minnesota Vikings** — 模型 80% vs 市場 51%（分歧 +29%，6 家賠率）
+  - 日級狀態（Sleeper）：WAS: 🚨 QB Marcus Mariota — Out (8d ago)；· DT Javon Kinlaw — Questionable (6d ago)；· LB Leo Chenal — IR (26d ago)；· WR Jaylin Lane — IR (4d ago) ｜ PHI: 🚨 QB Jalen Hurts — IR (4d ago)；· TE Grant Calcaterra — IR (26h ago)；· DL Jalyx Hunt — Questionable (2d ago)；· WR Dontayvion Wicks — Out (27h ago)
+- **Kansas City Chiefs @ Denver Broncos** — 模型 62% vs 市場 46%（分歧 +15%，4 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：MIN: 🚨 QB Max Brosmer — Out (2h ago)；· RB Demond Claiborne — Out (2h ago)；· CB Charles Demmings — Out (4d ago)；· TE Josh Oliver — IR (26d ago) ｜ IND: 🚨 QB Riley Leonard — Out (2h ago)；· LB CJ Allen — Out (23h ago)；· TE Tyler Warren — Out (2d ago)；· WR Alec Pierce — IR (6d ago)
+  - 日級狀態（Sleeper）：DEN: 🚨 QB Sam Ehlinger — Out (5h ago)；· DE Jonah Elliss — IR (25h ago)；· WR Jaylen Waddle — Questionable (0h ago)；· DE Zach Allen — Questionable (0h ago) ｜ KC: 🚨 QB Garrett Nussmeier — Out (1h ago)；· OL Josh Simmons — IR (3d ago)；· RB Brashard Smith — IR (30h ago)；· WR Rashee Rice — Out (2d ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
-- Indianapolis Colts @ Minnesota Vikings: 主隊隱含 71% → 51% (-20%)
-  - Trending 突波（24h vs 7日基線）：RB Seth McGowan(IND) 78,168 drops/24h
-- Cincinnati Bengals @ Baltimore Ravens: 主隊隱含 51% → 56% (+5%)
-- San Francisco 49ers @ Atlanta Falcons: 主隊隱含 43% → 33% (-9%)
-- Tampa Bay Buccaneers @ Carolina Panthers: 主隊隱含 58% → 40% (-18%)
-- New York Giants @ Houston Texans: 主隊隱含 80% → 78% (-2%)
-- Miami Dolphins @ New York Jets: 主隊隱含 66% → 61% (-5%)
-  - Trending 突波（24h vs 7日基線）：QB Geno Smith(NYJ) 90,556 adds/24h
-- Cleveland Browns @ Tennessee Titans: 主隊隱含 46% → 76% (+30%)
-- Dallas Cowboys @ Philadelphia Eagles: 主隊隱含 35% → 33% (-2%)
-  - Trending 突波（24h vs 7日基線）：WR Darius Cooper(PHI) 783,510 adds/24h；WR Makai Lemon(PHI) 155,608 adds/24h
+- Kansas City Chiefs @ Seattle Seahawks: 主隊隱含 57% → 59% (+2%)
+- Carolina Panthers @ Green Bay Packers: 主隊隱含 59% → 63% (+3%)
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
-| 10/25 | Indianapolis Colts @ Minnesota Vikings | 80% | 51% | **60%** |
-| 10/25 | Cincinnati Bengals @ Baltimore Ravens | 60% | 56% | **57%** |
-| 10/25 | San Francisco 49ers @ Atlanta Falcons | 28% | 33% | **32%** |
-| 10/25 | Tampa Bay Buccaneers @ Carolina Panthers | 65% | 40% | **47%** |
-| 10/25 | New York Giants @ Houston Texans | 70% | 78% | **75%** |
-| 10/25 | Miami Dolphins @ New York Jets | 57% | 61% | **60%** |
-| 10/25 | Cleveland Browns @ Tennessee Titans | 37% | 76% | **65%** |
-| 10/25 | Denver Broncos @ Arizona Cardinals | 26% | 33% | **31%** |
-| 10/25 | Green Bay Packers @ Detroit Lions | 57% | 64% | **62%** |
-| 10/25 | Los Angeles Rams @ Las Vegas Raiders | 37% | 39% | **38%** |
-| 10/26 | Kansas City Chiefs @ Seattle Seahawks | 65% | 58% | **60%** |
-| 10/27 | Dallas Cowboys @ Philadelphia Eagles | 64% | 33% | **43%** |
+| 10/26 | Kansas City Chiefs @ Seattle Seahawks | 65% | 59% | **61%** |
+| 10/27 | Dallas Cowboys @ Philadelphia Eagles | 64% | 34% | **43%** |
+| 10/30 | Carolina Panthers @ Green Bay Packers | 66% | 63% | **64%** |
+| 11/01 | Arizona Cardinals @ Dallas Cowboys | 63% | 72% | **69%** |
+| 11/01 | Atlanta Falcons @ Tampa Bay Buccaneers | 53% | 52% | **53%** |
+| 11/01 | Baltimore Ravens @ Buffalo Bills | 73% | 62% | **65%** |
+| 11/01 | Tennessee Titans @ Cincinnati Bengals | 84% | 83% | **83%** |
+| 11/01 | Cleveland Browns @ Pittsburgh Steelers | 68% | 64% | **65%** |
+| 11/01 | Minnesota Vikings @ Detroit Lions | 45% | 58% | **54%** |
+| 11/01 | Indianapolis Colts @ Jacksonville Jaguars | 78% | 77% | **77%** |
+| 11/01 | Las Vegas Raiders @ New York Jets | 51% | 52% | **51%** |
+| 11/01 | Los Angeles Chargers @ Los Angeles Rams | 76% | 76% | **76%** |
+| 11/01 | Kansas City Chiefs @ Denver Broncos | 62% | 46% | **51%** |
+| 11/01 | New England Patriots @ Miami Dolphins | 28% | 23% | **24%** |
+| 11/02 | Philadelphia Eagles @ Washington Commanders | 45% | 63% | **58%** |
+| 11/03 | Chicago Bears @ Seattle Seahawks | 65% | 60% | **61%** |
 
 ---
 Data: nflverse (CC-BY 4.0) · Odds: The Odds API
