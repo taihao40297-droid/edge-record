@@ -1,32 +1,23 @@
 {
- "generated_utc": "2026-10-26T19:40+00:00",
+ "generated_utc": "2026-10-27T01:19+00:00",
  "slate": [
   {
    "home": "Philadelphia Eagles",
    "away": "Dallas Cowboys",
    "model": 0.6397318391012313,
-   "market": 0.33463180141726406,
-   "blend": 0.42616181272245424,
-   "edge": 0.30510003768396726,
-   "kickoff": "2026-10-27T00:15:00+00:00"
+   "market": 0.35010940919037203,
+   "blend": 0.4369961381636298,
+   "edge": 0.2896224299108593,
+   "kickoff": "2026-10-27T00:16:21+00:00"
   },
   {
    "home": "Green Bay Packers",
    "away": "Carolina Panthers",
    "model": 0.6643837271809109,
-   "market": 0.6386477179027017,
-   "blend": 0.6463685206861645,
-   "edge": 0.025736009278209182,
+   "market": 0.6385542168674698,
+   "blend": 0.6463030699615021,
+   "edge": 0.02582951031344105,
    "kickoff": "2026-10-30T00:15:00+00:00"
-  },
-  {
-   "home": "Dallas Cowboys",
-   "away": "Arizona Cardinals",
-   "model": 0.6270415169771727,
-   "market": 0.7126178002593542,
-   "blend": 0.6869449152746997,
-   "edge": -0.08557628328218148,
-   "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
    "home": "Tampa Bay Buccaneers",
@@ -41,18 +32,18 @@
    "home": "Buffalo Bills",
    "away": "Baltimore Ravens",
    "model": 0.7280810915771583,
-   "market": 0.6189517655389246,
-   "blend": 0.6516905633503948,
-   "edge": 0.10912932603823366,
+   "market": 0.6201420208328453,
+   "blend": 0.6525237420561392,
+   "edge": 0.10793907074431297,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
    "home": "Cincinnati Bengals",
    "away": "Tennessee Titans",
    "model": 0.8356815073458574,
-   "market": 0.816718233782579,
-   "blend": 0.8224072158515625,
-   "edge": 0.018963273563278427,
+   "market": 0.8137936545992167,
+   "blend": 0.8203600104232089,
+   "edge": 0.021887852746640735,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
@@ -68,45 +59,45 @@
    "home": "Detroit Lions",
    "away": "Minnesota Vikings",
    "model": 0.4472412536224731,
-   "market": 0.6111769214688871,
-   "blend": 0.561996221114963,
-   "edge": -0.16393566784641406,
+   "market": 0.612617598229109,
+   "blend": 0.5630046948471182,
+   "edge": -0.16537634460663592,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
    "home": "Jacksonville Jaguars",
    "away": "Indianapolis Colts",
    "model": 0.7815916806698913,
-   "market": 0.765438008616563,
-   "blend": 0.7702841102325615,
-   "edge": 0.016153672053328294,
+   "market": 0.7659021045164341,
+   "blend": 0.7706089773624714,
+   "edge": 0.01568957615345712,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
    "home": "New York Jets",
    "away": "Las Vegas Raiders",
    "model": 0.5054630401689736,
-   "market": 0.5021648770349845,
-   "blend": 0.5031543259751812,
-   "edge": 0.003298163133989118,
+   "market": 0.5,
+   "blend": 0.5016389120506921,
+   "edge": 0.0054630401689735875,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
    "home": "Los Angeles Rams",
    "away": "Los Angeles Chargers",
    "model": 0.7625993745914215,
-   "market": 0.7243866752866718,
-   "blend": 0.7358504850780967,
-   "edge": 0.03821269930474969,
+   "market": 0.7241379310344829,
+   "blend": 0.7356763641015645,
+   "edge": 0.03846144355693859,
    "kickoff": "2026-11-01T21:05:00+00:00"
   },
   {
    "home": "Denver Broncos",
    "away": "Kansas City Chiefs",
    "model": 0.6420984115960994,
-   "market": 0.47145769622833844,
-   "blend": 0.5226499108386667,
-   "edge": 0.17064071536776093,
+   "market": 0.47639484978540764,
+   "blend": 0.5261059183286152,
+   "edge": 0.16570356181069174,
    "kickoff": "2026-11-01T21:25:00+00:00"
   },
   {
@@ -119,21 +110,12 @@
    "kickoff": "2026-11-01T21:25:00+00:00"
   },
   {
-   "home": "Washington Commanders",
-   "away": "Philadelphia Eagles",
-   "model": 0.4457094030616581,
-   "market": 0.6323491527825185,
-   "blend": 0.5763572278662603,
-   "edge": -0.18663974972086034,
-   "kickoff": "2026-11-02T01:20:00+00:00"
-  },
-  {
    "home": "Seattle Seahawks",
    "away": "Chicago Bears",
    "model": 0.6777369634973891,
-   "market": 0.6082646264371879,
-   "blend": 0.6291063275552482,
-   "edge": 0.06947233706020117,
+   "market": 0.6076721883173497,
+   "blend": 0.6286916208713615,
+   "edge": 0.0700647751800394,
    "kickoff": "2026-11-03T01:20:00+00:00"
   }
  ],
@@ -142,25 +124,25 @@
    "away": "Dallas Cowboys",
    "home": "Philadelphia Eagles",
    "model": 0.6397318391012313,
-   "market": 0.33463180141726406,
+   "market": 0.35010940919037203,
    "qb": null,
-   "story": "Our model prices Philadelphia Eagles 31 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jalen Hurts \u2014 IR (5d ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -18% around 2026-10-19 00:02 UTC \u2014 our snapshot archive has the full path."
-  },
-  {
-   "away": "Philadelphia Eagles",
-   "home": "Washington Commanders",
-   "model": 0.4457094030616581,
-   "market": 0.6323491527825185,
-   "qb": null,
-   "story": "Our model prices Washington Commanders 19 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Marcus Mariota \u2014 Out (1h ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Philadelphia Eagles 29 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jalen Hurts \u2014 IR (5d ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -18% around 2026-10-19 00:02 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "Kansas City Chiefs",
    "home": "Denver Broncos",
    "model": 0.6420984115960994,
-   "market": 0.47145769622833844,
+   "market": 0.47639484978540764,
    "qb": null,
-   "story": "Our model prices Denver Broncos 17 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Sam Ehlinger \u2014 Out (25h ago). QB uncertainty moves lines faster than anything."
+   "story": "Our model prices Denver Broncos 17 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Sam Ehlinger \u2014 Out (30h ago). QB uncertainty moves lines faster than anything."
+  },
+  {
+   "away": "Minnesota Vikings",
+   "home": "Detroit Lions",
+   "model": 0.4472412536224731,
+   "market": 0.612617598229109,
+   "qb": null,
+   "story": "Our model prices Detroit Lions 17 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Max Brosmer \u2014 Out (34h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: +3% around 2026-10-26 19:40 UTC \u2014 our snapshot archive has the full path."
   }
  ]
 }
