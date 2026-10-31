@@ -6,29 +6,24 @@
 
 - **Philadelphia Eagles @ Washington Commanders** — 模型 50% vs 市場 69%（分歧 -19%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：WAS: · DT Javon Kinlaw — Out (4h ago)；· WR Treylon Burks — Questionable (3h ago)；· OL Laremy Tunsil — IR (48h ago)；· WR Jaylin Lane — IR (9d ago) ｜ PHI: 🚨 QB Jalen Hurts — IR (9d ago)；· WR Britain Covey — Out (1h ago)；· WR Dontayvion Wicks — Out (5h ago)；· DB Jakorian Bennett — IR (4d ago)
-- **Minnesota Vikings @ Detroit Lions** — 模型 45% vs 市場 61%（分歧 -17%，9 家賠率）
+  - 日級狀態（Sleeper）：WAS: · DT Javon Kinlaw — Out (21h ago)；· WR Treylon Burks — Questionable (19h ago)；· OL Laremy Tunsil — IR (3d ago)；· WR Jaylin Lane — IR (10d ago) ｜ PHI: 🚨 QB Jalen Hurts — IR (10d ago)；· WR Britain Covey — Out (18h ago)；· WR Dontayvion Wicks — Out (21h ago)；· DB Jakorian Bennett — IR (5d ago)
+- **Minnesota Vikings @ Detroit Lions** — 模型 45% vs 市場 62%（分歧 -17%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DET: · LB Devin White — IR (14d ago)；· RB Isiah Pacheco — IR (8h ago)；· OL Ben Bartch — IR (14d ago)；· DB Kerby Joseph — PUP (2h ago) ｜ MIN: · OL Donovan Jackson — IR (24d ago)；· WR Michael Briscoe — Out (2d ago)
+  - 日級狀態（Sleeper）：DET: · LB Devin White — IR (15d ago)；· RB Isiah Pacheco — IR (24h ago)；· OL Ben Bartch — IR (15d ago)；· DB Kerby Joseph — PUP (18h ago) ｜ MIN: · OL Donovan Jackson — IR (25d ago)；· WR Michael Briscoe — Out (3d ago)
 - **Kansas City Chiefs @ Denver Broncos** — 模型 64% vs 市場 48%（分歧 +16%，8 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DEN: · DE Jonah Elliss — IR (6d ago)；· WR Jaylen Waddle — Questionable (3h ago)；· DB Brandon Jones — Questionable (1h ago)；· DE Zach Allen — Questionable (0h ago) ｜ KC: · DB Mansoor Delane — Questionable (2h ago)；· DT Omarr Norman-Lott — PUP (48h ago)；· OL Josh Simmons — IR (3d ago)；· RB Brashard Smith — IR (6d ago)
-
-## 📈 48 小時盤口異動（≥2%）
-
-- Tennessee Titans @ Cincinnati Bengals: 主隊隱含 82% → 84% (+2%)
-  - Trending 突波（24h vs 7日基線）：RB Samaje Perine(CIN) 65,956 adds/24h；WR Elic Ayomanor(TEN) 63,644 adds/24h
+  - 日級狀態（Sleeper）：DEN: · DE Jonah Elliss — IR (7d ago)；· WR Jaylen Waddle — Questionable (3h ago)；· DB Brandon Jones — Questionable (17h ago)；· DE Zach Allen — Questionable (17h ago) ｜ KC: · DB Mansoor Delane — Questionable (18h ago)；· DT Omarr Norman-Lott — PUP (3d ago)；· OL Josh Simmons — IR (4d ago)；· RB Brashard Smith — IR (7d ago)
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
 | 11/01 | Arizona Cardinals @ Dallas Cowboys | 68% | 73% | **71%** |
-| 11/01 | Atlanta Falcons @ Tampa Bay Buccaneers | 53% | 56% | **55%** |
-| 11/01 | Baltimore Ravens @ Buffalo Bills | 73% | 61% | **64%** |
+| 11/01 | Atlanta Falcons @ Tampa Bay Buccaneers | 53% | 55% | **55%** |
+| 11/01 | Baltimore Ravens @ Buffalo Bills | 73% | 61% | **65%** |
 | 11/01 | Tennessee Titans @ Cincinnati Bengals | 84% | 84% | **84%** |
 | 11/01 | Cleveland Browns @ Pittsburgh Steelers | 68% | 63% | **65%** |
-| 11/01 | Minnesota Vikings @ Detroit Lions | 45% | 61% | **56%** |
+| 11/01 | Minnesota Vikings @ Detroit Lions | 45% | 62% | **57%** |
 | 11/01 | Indianapolis Colts @ Jacksonville Jaguars | 78% | 80% | **79%** |
 | 11/01 | Las Vegas Raiders @ New York Jets | 51% | 52% | **52%** |
 | 11/01 | Los Angeles Chargers @ Los Angeles Rams | 76% | 71% | **73%** |

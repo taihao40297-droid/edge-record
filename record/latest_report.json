@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T01:27+00:00",
+ "generated_utc": "2026-10-31T18:05+00:00",
  "slate": [
   {
    "home": "Dallas Cowboys",
@@ -14,18 +14,18 @@
    "home": "Tampa Bay Buccaneers",
    "away": "Atlanta Falcons",
    "model": 0.5326134276761866,
-   "market": 0.5564206704224298,
-   "blend": 0.5492784975985568,
-   "edge": -0.02380724274624324,
+   "market": 0.552594002855783,
+   "blend": 0.5465998303019041,
+   "edge": -0.019980575179596394,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
    "home": "Buffalo Bills",
    "away": "Baltimore Ravens",
    "model": 0.7280810915771583,
-   "market": 0.6092427491253809,
-   "blend": 0.6448942518609141,
-   "edge": 0.11883834245177738,
+   "market": 0.609708848498661,
+   "blend": 0.6452205214222102,
+   "edge": 0.11837224307849725,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
@@ -50,18 +50,18 @@
    "home": "Detroit Lions",
    "away": "Minnesota Vikings",
    "model": 0.4472412536224731,
-   "market": 0.614511851710091,
-   "blend": 0.5643306722838056,
-   "edge": -0.16727059808761796,
+   "market": 0.6183101298843947,
+   "blend": 0.5669894670058182,
+   "edge": -0.17106887626192163,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
    "home": "Jacksonville Jaguars",
    "away": "Indianapolis Colts",
    "model": 0.7815916806698913,
-   "market": 0.7969094922737308,
-   "blend": 0.7923141487925789,
-   "edge": -0.015317811603839493,
+   "market": 0.7979471951455684,
+   "blend": 0.7930405408028653,
+   "edge": -0.01635551447567718,
    "kickoff": "2026-11-01T18:00:00+00:00"
   },
   {
@@ -122,9 +122,9 @@
    "home": "Baltimore Ravens",
    "away": "Jacksonville Jaguars",
    "model": 0.4363363241078092,
-   "market": 0.5826834300267562,
-   "blend": 0.5387792982510721,
-   "edge": -0.14634710591894695,
+   "market": 0.5791482375312936,
+   "blend": 0.5363046635042483,
+   "edge": -0.14281191342348443,
    "kickoff": "2026-11-06T01:15:00+00:00"
   },
   {
@@ -261,15 +261,15 @@
    "model": 0.5002005652016253,
    "market": 0.6888888888888889,
    "qb": null,
-   "story": "Our model prices Washington Commanders 19 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jalen Hurts \u2014 IR (9d ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: +5% around 2026-10-27 19:09 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Washington Commanders 19 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jalen Hurts \u2014 IR (10d ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: +5% around 2026-10-27 19:09 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "Minnesota Vikings",
    "home": "Detroit Lions",
    "model": 0.4472412536224731,
-   "market": 0.614511851710091,
+   "market": 0.6183101298843947,
    "qb": null,
-   "story": "Our model prices Detroit Lions 17 points lower than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly. Sharpest recorded swing on this line: +3% around 2026-10-26 19:40 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Detroit Lions 17 points lower than the market does. Fantasy managers are moving too (WR Jordan Addison(MIN) 40,752 adds/24h), which usually tracks breaking roster news. Sharpest recorded swing on this line: +3% around 2026-10-26 19:40 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "Kansas City Chiefs",
