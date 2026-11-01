@@ -1,4 +1,4 @@
-# 🏈 NFL Edge Daily — 2026-10-31 (UTC)
+# 🏈 NFL Edge Daily — 2026-11-01 (UTC)
 
 ## ⚠️ 模型–市場分歧榜（市場可能知道模型不知道的事）
 
@@ -6,43 +6,43 @@
 
 - **Philadelphia Eagles @ Washington Commanders** — 模型 50% vs 市場 69%（分歧 -19%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：WAS: · DT Javon Kinlaw — Out (21h ago)；· WR Treylon Burks — Questionable (19h ago)；· OL Laremy Tunsil — IR (3d ago)；· WR Jaylin Lane — IR (10d ago) ｜ PHI: 🚨 QB Jalen Hurts — IR (10d ago)；· WR Britain Covey — Out (18h ago)；· WR Dontayvion Wicks — Out (21h ago)；· DB Jakorian Bennett — IR (5d ago)
+  - 日級狀態（Sleeper）：WAS: · DT Javon Kinlaw — Out (28h ago)；· WR Treylon Burks — Questionable (26h ago)；· OL Laremy Tunsil — IR (3d ago)；· WR Jaylin Lane — IR (10d ago) ｜ PHI: 🚨 QB Jalen Hurts — IR (10d ago)；· WR Britain Covey — Out (25h ago)；· WR Dontayvion Wicks — Out (28h ago)；· DB Jakorian Bennett — IR (5d ago)
 - **Minnesota Vikings @ Detroit Lions** — 模型 45% vs 市場 62%（分歧 -17%，9 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DET: · LB Devin White — IR (15d ago)；· RB Isiah Pacheco — IR (24h ago)；· OL Ben Bartch — IR (15d ago)；· DB Kerby Joseph — PUP (18h ago) ｜ MIN: · OL Donovan Jackson — IR (25d ago)；· WR Michael Briscoe — Out (3d ago)
+  - 日級狀態（Sleeper）：DET: · LB Devin White — IR (15d ago)；· RB Isiah Pacheco — IR (31h ago)；· OL Ben Bartch — IR (15d ago)；· DB Kerby Joseph — PUP (25h ago) ｜ MIN: · OL Donovan Jackson — IR (25d ago)；· WR Michael Briscoe — Out (3d ago)
 - **Kansas City Chiefs @ Denver Broncos** — 模型 64% vs 市場 48%（分歧 +16%，8 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DEN: · DE Jonah Elliss — IR (7d ago)；· WR Jaylen Waddle — Questionable (3h ago)；· DB Brandon Jones — Questionable (17h ago)；· DE Zach Allen — Questionable (17h ago) ｜ KC: · DB Mansoor Delane — Questionable (18h ago)；· DT Omarr Norman-Lott — PUP (3d ago)；· OL Josh Simmons — IR (4d ago)；· RB Brashard Smith — IR (7d ago)
+  - 日級狀態（Sleeper）：DEN: · DE Jonah Elliss — IR (7d ago)；· WR Jaylen Waddle — Questionable (10h ago)；· DB Brandon Jones — Questionable (24h ago)；· DE Zach Allen — Questionable (24h ago) ｜ KC: · DB Mansoor Delane — Out (2h ago)；· DT Omarr Norman-Lott — PUP (3d ago)；· OL Josh Simmons — IR (4d ago)；· RB Brashard Smith — IR (7d ago)
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
 | 11/01 | Arizona Cardinals @ Dallas Cowboys | 68% | 73% | **71%** |
-| 11/01 | Atlanta Falcons @ Tampa Bay Buccaneers | 53% | 55% | **55%** |
+| 11/01 | Atlanta Falcons @ Tampa Bay Buccaneers | 53% | 55% | **54%** |
 | 11/01 | Baltimore Ravens @ Buffalo Bills | 73% | 61% | **65%** |
 | 11/01 | Tennessee Titans @ Cincinnati Bengals | 84% | 84% | **84%** |
 | 11/01 | Cleveland Browns @ Pittsburgh Steelers | 68% | 63% | **65%** |
 | 11/01 | Minnesota Vikings @ Detroit Lions | 45% | 62% | **57%** |
 | 11/01 | Indianapolis Colts @ Jacksonville Jaguars | 78% | 80% | **79%** |
-| 11/01 | Las Vegas Raiders @ New York Jets | 51% | 52% | **52%** |
+| 11/01 | Las Vegas Raiders @ New York Jets | 51% | 53% | **52%** |
 | 11/01 | Los Angeles Chargers @ Los Angeles Rams | 76% | 71% | **73%** |
 | 11/01 | Kansas City Chiefs @ Denver Broncos | 64% | 48% | **53%** |
 | 11/01 | New England Patriots @ Miami Dolphins | 28% | 26% | **27%** |
-| 11/02 | Philadelphia Eagles @ Washington Commanders | 50% | 69% | **63%** |
+| 11/02 | Philadelphia Eagles @ Washington Commanders | 50% | 69% | **64%** |
 | 11/03 | Chicago Bears @ Seattle Seahawks | 68% | 61% | **63%** |
 | 11/06 | Jacksonville Jaguars @ Baltimore Ravens | 44% | 58% | **54%** |
 | 11/08 | Cincinnati Bengals @ Atlanta Falcons | 46% | 40% | **42%** |
 | 11/08 | Denver Broncos @ Carolina Panthers | 30% | 44% | **40%** |
 | 11/08 | Cleveland Browns @ New Orleans Saints | 48% | 57% | **54%** |
-| 11/08 | Dallas Cowboys @ Indianapolis Colts | 49% | 33% | **38%** |
-| 11/08 | Detroit Lions @ Miami Dolphins | 32% | 21% | **24%** |
+| 11/08 | Dallas Cowboys @ Indianapolis Colts | 49% | 34% | **39%** |
+| 11/08 | Detroit Lions @ Miami Dolphins | 32% | 22% | **25%** |
 | 11/08 | New York Jets @ Kansas City Chiefs | 80% | 81% | **80%** |
 | 11/08 | Los Angeles Rams @ Washington Commanders | 33% | 33% | **33%** |
 | 11/08 | New York Giants @ Philadelphia Eagles | 54% | 48% | **50%** |
-| 11/08 | Houston Texans @ Los Angeles Chargers | 40% | 38% | **39%** |
+| 11/08 | Houston Texans @ Los Angeles Chargers | 40% | 38% | **38%** |
 | 11/08 | Las Vegas Raiders @ San Francisco 49ers | 82% | 82% | **82%** |
-| 11/08 | Arizona Cardinals @ Seattle Seahawks | 87% | 85% | **86%** |
+| 11/08 | Arizona Cardinals @ Seattle Seahawks | 87% | 85% | **85%** |
 | 11/08 | Green Bay Packers @ New England Patriots | 63% | 58% | **59%** |
 | 11/09 | Tampa Bay Buccaneers @ Chicago Bears | 70% | 72% | **71%** |
 | 11/10 | Buffalo Bills @ Minnesota Vikings | 54% | 44% | **47%** |
