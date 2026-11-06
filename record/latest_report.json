@@ -1,14 +1,14 @@
 {
- "generated_utc": "2026-11-05T20:54+00:00",
+ "generated_utc": "2026-11-06T02:06+00:00",
  "slate": [
   {
    "home": "Baltimore Ravens",
    "away": "Jacksonville Jaguars",
    "model": 0.3975575622484235,
-   "market": 0.19499357947970006,
-   "blend": 0.2557627743103171,
-   "edge": 0.20256398276872342,
-   "kickoff": "2026-11-06T01:15:00+00:00"
+   "market": 0.14209994952044422,
+   "blend": 0.218737233338838,
+   "edge": 0.2554576127279793,
+   "kickoff": "2026-11-06T01:16:42+00:00"
   },
   {
    "home": "Atlanta Falcons",
@@ -77,9 +77,9 @@
    "home": "Philadelphia Eagles",
    "away": "New York Giants",
    "model": 0.4969827216054766,
-   "market": 0.3873792948573995,
-   "blend": 0.4202603228818227,
-   "edge": 0.10960342674807705,
+   "market": 0.39518850780280956,
+   "blend": 0.42572677194360964,
+   "edge": 0.10179421380266701,
    "kickoff": "2026-11-08T18:00:00+00:00"
   },
   {
@@ -113,9 +113,9 @@
    "home": "New England Patriots",
    "away": "Green Bay Packers",
    "model": 0.640406188917773,
-   "market": 0.6067006554989074,
-   "blend": 0.6168123155245671,
-   "edge": 0.03370553341886562,
+   "market": 0.6053103695730176,
+   "blend": 0.6158391153764442,
+   "edge": 0.03509581934475536,
    "kickoff": "2026-11-08T21:25:00+00:00"
   },
   {
@@ -131,9 +131,9 @@
    "home": "Minnesota Vikings",
    "away": "Buffalo Bills",
    "model": 0.4889595052462616,
-   "market": 0.39075725087461916,
-   "blend": 0.42021792718611195,
-   "edge": 0.09820225437164243,
+   "market": 0.39076376554174075,
+   "blend": 0.420222487453097,
+   "edge": 0.09819573970452083,
    "kickoff": "2026-11-10T01:15:00+00:00"
   },
   {
@@ -209,15 +209,6 @@
    "kickoff": "2026-11-15T18:00:00+00:00"
   },
   {
-   "home": "Tennessee Titans",
-   "away": "Jacksonville Jaguars",
-   "model": 0.17717247158128274,
-   "market": 0.19848771266540643,
-   "blend": 0.19209314034016933,
-   "edge": -0.021315241084123693,
-   "kickoff": "2026-11-15T18:00:00+00:00"
-  },
-  {
    "home": "Arizona Cardinals",
    "away": "Los Angeles Rams",
    "model": 0.2972317858494691,
@@ -243,15 +234,6 @@
    "blend": 0.5869199815705801,
    "edge": -0.07114881622202607,
    "kickoff": "2026-11-16T01:20:00+00:00"
-  },
-  {
-   "home": "Baltimore Ravens",
-   "away": "Los Angeles Chargers",
-   "model": 0.6996646173456685,
-   "market": 0.5226781857451405,
-   "blend": 0.5757741152252989,
-   "edge": 0.17698643160052807,
-   "kickoff": "2026-11-17T01:15:00+00:00"
   }
  ],
  "divergence": [
@@ -259,9 +241,9 @@
    "away": "Jacksonville Jaguars",
    "home": "Baltimore Ravens",
    "model": 0.3975575622484235,
-   "market": 0.19499357947970006,
+   "market": 0.14209994952044422,
    "qb": null,
-   "story": "Our model prices Baltimore Ravens 20 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Lamar Jackson \u2014 Out (6h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: -34% around 2026-11-02 01:23 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Baltimore Ravens 26 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Lamar Jackson \u2014 IR (4h ago). QB uncertainty moves lines faster than anything. The line itself moved 5% in the last 48h (19% \u2192 14%), so whatever it is, money is acting on it."
   },
   {
    "away": "Dallas Cowboys",
@@ -272,12 +254,12 @@
    "story": "Our model prices Indianapolis Colts 18 points higher than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly. Sharpest recorded swing on this line: -4% around 2026-11-02 01:23 UTC \u2014 our snapshot archive has the full path."
   },
   {
-   "away": "Los Angeles Chargers",
-   "home": "Baltimore Ravens",
-   "model": 0.6996646173456685,
-   "market": 0.5226781857451405,
+   "away": "Denver Broncos",
+   "home": "Carolina Panthers",
+   "model": 0.2832469944999692,
+   "market": 0.42888402625820565,
    "qb": null,
-   "story": "Our model prices Baltimore Ravens 18 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Lamar Jackson \u2014 Out (6h ago). QB uncertainty moves lines faster than anything. The line itself moved 3% in the last 48h (49% \u2192 52%), so whatever it is, money is acting on it."
+   "story": "Our model prices Carolina Panthers 15 points lower than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly."
   }
  ]
 }
