@@ -1,58 +1,58 @@
 {
- "generated_utc": "2026-11-06T20:11+00:00",
+ "generated_utc": "2026-11-07T01:43+00:00",
  "slate": [
   {
    "home": "Atlanta Falcons",
    "away": "Cincinnati Bengals",
    "model": 0.412731600483768,
-   "market": 0.39329934450109244,
-   "blend": 0.3991290212958951,
-   "edge": 0.01943225598267556,
+   "market": 0.39076376554174075,
+   "blend": 0.3973541160243489,
+   "edge": 0.021967834942027253,
    "kickoff": "2026-11-08T14:30:00+00:00"
   },
   {
    "home": "Carolina Panthers",
    "away": "Denver Broncos",
    "model": 0.2832469944999692,
-   "market": 0.43235704323570434,
-   "blend": 0.3876240286149838,
-   "edge": -0.14911004873573513,
+   "market": 0.42947324847355894,
+   "blend": 0.385605372281482,
+   "edge": -0.14622625397358974,
    "kickoff": "2026-11-08T18:00:00+00:00"
   },
   {
    "home": "New Orleans Saints",
    "away": "Cleveland Browns",
    "model": 0.5077353908515052,
-   "market": 0.5990922844175491,
-   "blend": 0.571685216347736,
-   "edge": -0.09135689356604393,
+   "market": 0.6076721883173497,
+   "blend": 0.5776911490775964,
+   "edge": -0.0999367974658445,
    "kickoff": "2026-11-08T18:00:00+00:00"
   },
   {
    "home": "Indianapolis Colts",
    "away": "Dallas Cowboys",
    "model": 0.5026299191138776,
-   "market": 0.32075471698113206,
-   "blend": 0.3753172776209557,
-   "edge": 0.1818752021327455,
+   "market": 0.33099297893681046,
+   "blend": 0.3824840609899306,
+   "edge": 0.1716369401770671,
    "kickoff": "2026-11-08T18:00:00+00:00"
   },
   {
    "home": "Miami Dolphins",
    "away": "Detroit Lions",
    "model": 0.2851947804581567,
-   "market": 0.2843057617433685,
-   "blend": 0.284572467357805,
-   "edge": 0.0008890187147881923,
+   "market": 0.28644876973925815,
+   "blend": 0.2860725729549277,
+   "edge": -0.0012539892811014308,
    "kickoff": "2026-11-08T18:00:00+00:00"
   },
   {
    "home": "Kansas City Chiefs",
    "away": "New York Jets",
    "model": 0.80332021660806,
-   "market": 0.8015122873345936,
-   "blend": 0.8020546661166335,
-   "edge": 0.001807929273466402,
+   "market": 0.7999999999999999,
+   "blend": 0.8009960649824179,
+   "edge": 0.0033202166080600337,
    "kickoff": "2026-11-08T18:00:00+00:00"
   },
   {
@@ -86,18 +86,18 @@
    "home": "San Francisco 49ers",
    "away": "Las Vegas Raiders",
    "model": 0.8037617910850207,
-   "market": 0.7925457102672292,
-   "blend": 0.7959105345125667,
-   "edge": 0.011216080817791463,
+   "market": 0.7969094922737308,
+   "blend": 0.7989651819171177,
+   "edge": 0.006852298811289903,
    "kickoff": "2026-11-08T21:05:00+00:00"
   },
   {
    "home": "Seattle Seahawks",
    "away": "Arizona Cardinals",
    "model": 0.8260411616932245,
-   "market": 0.7693872936920642,
-   "blend": 0.7863834540924123,
-   "edge": 0.056653868001160346,
+   "market": 0.7663551401869159,
+   "blend": 0.7842609466388085,
+   "edge": 0.05968602150630864,
    "kickoff": "2026-11-08T21:25:00+00:00"
   },
   {
@@ -122,9 +122,9 @@
    "home": "Minnesota Vikings",
    "away": "Buffalo Bills",
    "model": 0.4889595052462616,
-   "market": 0.39076376554174075,
-   "blend": 0.420222487453097,
-   "edge": 0.09819573970452083,
+   "market": 0.3956834532374101,
+   "blend": 0.42366626884006553,
+   "edge": 0.09327605200885147,
    "kickoff": "2026-11-10T01:15:00+00:00"
   },
   {
@@ -212,9 +212,9 @@
    "home": "Arizona Cardinals",
    "away": "Los Angeles Rams",
    "model": 0.2972317858494691,
-   "market": 0.24678111587982832,
-   "blend": 0.2619163168707206,
-   "edge": 0.05045066996964076,
+   "market": 0.2491874322860238,
+   "blend": 0.2636007383550574,
+   "edge": 0.048044353563445275,
    "kickoff": "2026-11-15T21:05:00+00:00"
   },
   {
@@ -250,17 +250,9 @@
    "away": "Dallas Cowboys",
    "home": "Indianapolis Colts",
    "model": 0.5026299191138776,
-   "market": 0.32075471698113206,
+   "market": 0.33099297893681046,
    "qb": null,
-   "story": "Our model prices Indianapolis Colts 18 points higher than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly. Sharpest recorded swing on this line: -4% around 2026-11-02 01:23 UTC \u2014 our snapshot archive has the full path."
-  },
-  {
-   "away": "Denver Broncos",
-   "home": "Carolina Panthers",
-   "model": 0.2832469944999692,
-   "market": 0.43235704323570434,
-   "qb": null,
-   "story": "Our model prices Carolina Panthers 15 points lower than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly."
+   "story": "Our model prices Indianapolis Colts 17 points higher than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly. Sharpest recorded swing on this line: -4% around 2026-11-02 01:23 UTC \u2014 our snapshot archive has the full path."
   },
   {
    "away": "Los Angeles Chargers",
@@ -268,7 +260,15 @@
    "model": 0.6698040814427422,
    "market": 0.5226781857451405,
    "qb": null,
-   "story": "Our model prices Baltimore Ravens 15 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Lamar Jackson \u2014 IR (17h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: +3% around 2026-11-05 02:05 UTC \u2014 our snapshot archive has the full path."
+   "story": "Our model prices Baltimore Ravens 15 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Lamar Jackson \u2014 IR (23h ago). QB uncertainty moves lines faster than anything. Sharpest recorded swing on this line: +3% around 2026-11-05 02:05 UTC \u2014 our snapshot archive has the full path."
+  },
+  {
+   "away": "Denver Broncos",
+   "home": "Carolina Panthers",
+   "model": 0.2832469944999692,
+   "market": 0.42947324847355894,
+   "qb": null,
+   "story": "Our model prices Carolina Panthers 15 points lower than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly."
   }
  ]
 }
