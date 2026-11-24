@@ -4,45 +4,62 @@
 
 回測顯示：大幅分歧時市場正確率更高。分歧場 = 查傷兵/新聞的訊號，非逆勢訊號。
 
-- **New York Jets @ Miami Dolphins** — 模型 56% vs 市場 35%（分歧 +21%，8 家賠率）
+- **New York Jets @ Miami Dolphins** — 模型 56% vs 市場 36%（分歧 +20%，8 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：MIA: 🚨 QB Malik Willis — IR (12h ago)；· P Bradley Pinion — Out (3d ago)；· DL Zeek Biggers — IR (6d ago)；· OL Jonah Savaiinaea — Questionable (34h ago) ｜ NYJ: · T Max Mitchell — IR (20d ago)；· WR Isaiah Williams — Out (4d ago)；· DL T'Vondre Sweat — IR (23d ago)；· WR Omar Cooper Jr. — Out (4d ago)
-- **Washington Commanders @ Arizona Cardinals** — 模型 42% vs 市場 24%（分歧 +18%，4 家賠率）
+  - 日級狀態（Sleeper）：MIA: 🚨 QB Malik Willis — IR (30h ago)；· P Bradley Pinion — Out (4d ago)；· DL Zeek Biggers — IR (7d ago)；· OL Jonah Savaiinaea — Questionable (2d ago) ｜ NYJ: · T Max Mitchell — IR (21d ago)；· WR Isaiah Williams — Out (4d ago)；· DL T'Vondre Sweat — IR (24d ago)；· WR Omar Cooper Jr. — Out (4d ago)
+- **Buffalo Bills @ New England Patriots** — 模型 33% vs 市場 14%（分歧 +18%，2 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：ARI: 🚨 QB Carson Beck — Out (2d ago)；🚨 QB Gardner Minshew II — IR (6d ago)；· DL Jordan Burch — IR (6d ago)；· WR Michael Wilson — IR (12d ago) ｜ WAS: 🚨 QB Athan Kaliakmanis — Out (6h ago)；· DT Ricky Barber — Out (19d ago)；· RB Robert Henry Jr. — Out (20d ago)；· DT Javon Kinlaw — IR (19d ago)
-- **Philadelphia Eagles @ Dallas Cowboys** — 模型 62% vs 市場 78%（分歧 -16%，8 家賠率）
+  - 日級狀態（Sleeper）：NE: 🚨 QB Behren Morton — Out (8d ago)；🚨 QB Drake Maye — Out (27h ago)；· RB TreVeyon Henderson — IR (7d ago)；· OL Alijah Vera-Tucker — IR (22h ago) ｜ BUF: · DB Damar Hamlin — Questionable (2d ago)；· LB Dorian Williams — Out (23h ago)；· DL T.J. Sanders — Out (2d ago)；· WR DJ Moore — Questionable (42h ago)
+- **New England Patriots @ Los Angeles Chargers** — 模型 33% vs 市場 51%（分歧 -17%，5 家賠率）
   - 傷兵情報（週報）：（本週兩隊無 Q/D/Out 級傷兵記錄——分歧可能來自陣容或其他消息）
-  - 日級狀態（Sleeper）：DAL: · DB DaRon Bland — IR (8h ago)；· TE Jake Ferguson — Out (6h ago)；· CB Devin Moore — IR (46h ago)；· DE Jonathan Bullard — Out (8d ago) ｜ PHI: 🚨 QB Jalen Hurts — IR (19d ago)；🚨 QB Cole Payton — Out (37h ago)；🚨 QB Tanner McKee — Questionable (5h ago)；· WR Dontayvion Wicks — IR (2d ago)
+  - 日級狀態（Sleeper）：LAC: 🚨 QB Justin Herbert — Questionable (37h ago)；· OL Branson Taylor — IR (8d ago)；· DB Tarheeb Still — Out (2d ago)；· WR Brenen Thompson — Out (2d ago) ｜ NE: 🚨 QB Behren Morton — Out (8d ago)；🚨 QB Drake Maye — Out (27h ago)；· RB TreVeyon Henderson — IR (7d ago)；· OL Alijah Vera-Tucker — IR (22h ago)
 
 ## 📈 48 小時盤口異動（≥2%）
 
-- Green Bay Packers @ Los Angeles Rams: 主隊隱含 60% → 56% (-5%)
+- Green Bay Packers @ Los Angeles Rams: 主隊隱含 57% → 55% (-2%)
+  - Trending 突波（24h vs 7日基線）：TE Tyler Higbee(LAR) 238,257 adds/24h；WR Konata Mumpfield(LAR) 221,508 adds/24h
 
 ## 🚨 QB 缺陣調整（模型勝率已下修 110 Elo，回測校準）
 
-- **New York Giants @ Indianapolis Colts** — IND: Riley Leonard
-- **New England Patriots @ Los Angeles Chargers** — NE: Drake Maye
+- **Washington Commanders @ Arizona Cardinals** — ARI: Carson Beck
+- **Seattle Seahawks @ San Francisco 49ers** — SEA: Sam Darnold
+- **Philadelphia Eagles @ Arizona Cardinals** — ARI: Carson Beck
+- **Dallas Cowboys @ Seattle Seahawks** — SEA: Sam Darnold
 
 ## 全場次
 
 | 開賽 | 對戰 | 模型 | 市場 | 混合 |
 |---|---|---|---|---|
-| 11/26 | Green Bay Packers @ Los Angeles Rams | 65% | 56% | **59%** |
-| 11/26 | Chicago Bears @ Detroit Lions | 55% | 44% | **47%** |
-| 11/26 | Philadelphia Eagles @ Dallas Cowboys | 62% | 78% | **73%** |
-| 11/27 | Kansas City Chiefs @ Buffalo Bills | 70% | 58% | **62%** |
+| 11/26 | Green Bay Packers @ Los Angeles Rams | 65% | 55% | **58%** |
+| 11/26 | Chicago Bears @ Detroit Lions | 55% | 44% | **48%** |
+| 11/26 | Philadelphia Eagles @ Dallas Cowboys | 62% | 79% | **74%** |
+| 11/27 | Kansas City Chiefs @ Buffalo Bills | 70% | 57% | **61%** |
 | 11/27 | Denver Broncos @ Pittsburgh Steelers | 39% | 42% | **41%** |
 | 11/29 | Atlanta Falcons @ Minnesota Vikings | 78% | 73% | **75%** |
-| 11/29 | Baltimore Ravens @ Houston Texans | 68% | 73% | **71%** |
+| 11/29 | Baltimore Ravens @ Houston Texans | 68% | 73% | **72%** |
 | 11/29 | New Orleans Saints @ Cincinnati Bengals | 80% | 82% | **81%** |
-| 11/29 | New York Giants @ Indianapolis Colts | 26% | 27% | **27%** |
+| 11/29 | New York Giants @ Indianapolis Colts | 40% | 27% | **31%** |
 | 11/29 | Tennessee Titans @ Jacksonville Jaguars | 90% | 89% | **89%** |
-| 11/29 | New York Jets @ Miami Dolphins | 56% | 35% | **42%** |
-| 11/29 | New England Patriots @ Los Angeles Chargers | 49% | 51% | **51%** |
-| 11/29 | Washington Commanders @ Arizona Cardinals | 42% | 24% | **30%** |
-| 11/29 | Seattle Seahawks @ San Francisco 49ers | 59% | 61% | **61%** |
+| 11/29 | New York Jets @ Miami Dolphins | 56% | 36% | **42%** |
+| 11/29 | New England Patriots @ Los Angeles Chargers | 33% | 51% | **46%** |
+| 11/29 | Washington Commanders @ Arizona Cardinals | 28% | 25% | **26%** |
+| 11/29 | Seattle Seahawks @ San Francisco 49ers | 73% | 62% | **65%** |
 | 11/30 | Las Vegas Raiders @ Cleveland Browns | 65% | 67% | **66%** |
 | 12/01 | Carolina Panthers @ Tampa Bay Buccaneers | 60% | 58% | **59%** |
+| 12/04 | Kansas City Chiefs @ Los Angeles Rams | 59% | 49% | **52%** |
+| 12/06 | Detroit Lions @ Atlanta Falcons | 27% | 37% | **34%** |
+| 12/06 | Jacksonville Jaguars @ Chicago Bears | 57% | 58% | **57%** |
+| 12/06 | Cincinnati Bengals @ Cleveland Browns | 36% | 32% | **33%** |
+| 12/06 | Miami Dolphins @ Denver Broncos | 88% | 89% | **89%** |
+| 12/06 | Green Bay Packers @ New Orleans Saints | 35% | 32% | **33%** |
+| 12/06 | Los Angeles Chargers @ Tampa Bay Buccaneers | 69% | 70% | **69%** |
+| 12/06 | San Francisco 49ers @ New York Giants | 31% | 28% | **29%** |
+| 12/06 | Washington Commanders @ Tennessee Titans | 32% | 35% | **34%** |
+| 12/06 | Philadelphia Eagles @ Arizona Cardinals | 32% | 41% | **39%** |
+| 12/06 | Buffalo Bills @ New England Patriots | 33% | 14% | **20%** |
+| 12/06 | Carolina Panthers @ Minnesota Vikings | 74% | 68% | **70%** |
+| 12/07 | Houston Texans @ Pittsburgh Steelers | 55% | 41% | **45%** |
+| 12/08 | Dallas Cowboys @ Seattle Seahawks | 65% | 69% | **68%** |
 
 ---
 Data: nflverse (CC-BY 4.0) · Odds: The Odds API
