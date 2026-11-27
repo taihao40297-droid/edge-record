@@ -1,31 +1,22 @@
 {
- "generated_utc": "2026-11-26T22:44+00:00",
+ "generated_utc": "2026-11-27T03:59+00:00",
  "slate": [
-  {
-   "home": "Dallas Cowboys",
-   "away": "Philadelphia Eagles",
-   "model": 0.6189923563787615,
-   "market": 0.9334763948497855,
-   "blend": 0.8391311833084782,
-   "edge": -0.314484038471024,
-   "kickoff": "2026-11-26T21:46:34+00:00"
-  },
   {
    "home": "Buffalo Bills",
    "away": "Kansas City Chiefs",
    "model": 0.7002096020156281,
-   "market": 0.5889887210858344,
-   "blend": 0.6223549853647725,
-   "edge": 0.11122088092979365,
-   "kickoff": "2026-11-27T01:20:00+00:00"
+   "market": 0.47725130112484343,
+   "blend": 0.5441387913920789,
+   "edge": 0.22295830089078467,
+   "kickoff": "2026-11-27T01:29:03+00:00"
   },
   {
    "home": "Pittsburgh Steelers",
    "away": "Denver Broncos",
    "model": 0.38568133876371674,
-   "market": 0.3228515442754502,
-   "blend": 0.34170048262193015,
-   "edge": 0.06282979448826653,
+   "market": 0.3172851427783142,
+   "blend": 0.337804001573935,
+   "edge": 0.06839619598540253,
    "kickoff": "2026-11-27T20:00:00+00:00"
   },
   {
@@ -128,15 +119,6 @@
    "kickoff": "2026-12-01T01:15:00+00:00"
   },
   {
-   "home": "Los Angeles Rams",
-   "away": "Kansas City Chiefs",
-   "model": 0.6098769050959905,
-   "market": 0.4919042305232406,
-   "blend": 0.5272960328950655,
-   "edge": 0.11797267457274985,
-   "kickoff": "2026-12-04T01:15:00+00:00"
-  },
-  {
    "home": "Cleveland Browns",
    "away": "Cincinnati Bengals",
    "model": 0.3572279479846633,
@@ -191,15 +173,6 @@
    "kickoff": "2026-12-06T18:00:00+00:00"
   },
   {
-   "home": "New England Patriots",
-   "away": "Buffalo Bills",
-   "model": 0.32507479759711744,
-   "market": 0.14473684210526316,
-   "blend": 0.19883822875281945,
-   "edge": 0.18033795549185427,
-   "kickoff": "2026-12-06T21:25:00+00:00"
-  },
-  {
    "home": "Minnesota Vikings",
    "away": "Carolina Panthers",
    "model": 0.7448200856925987,
@@ -220,14 +193,6 @@
  ],
  "divergence": [
   {
-   "away": "Philadelphia Eagles",
-   "home": "Dallas Cowboys",
-   "model": 0.6189923563787615,
-   "market": 0.9334763948497855,
-   "qb": null,
-   "story": "Our model prices Dallas Cowboys 31 points lower than the market does. Most likely culprit: fresh quarterback news \u2014 QB Jalen Hurts \u2014 IR (21d ago). QB uncertainty moves lines faster than anything. The line itself moved 15% in the last 48h (79% \u2192 93%), so whatever it is, money is acting on it."
-  },
-  {
    "away": "New York Jets",
    "home": "Miami Dolphins",
    "model": 0.5634030338955602,
@@ -236,12 +201,20 @@
    "story": "Our model prices Miami Dolphins 24 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Malik Willis \u2014 IR (3d ago). QB uncertainty moves lines faster than anything. The line itself moved 4% in the last 48h (36% \u2192 32%), so whatever it is, money is acting on it."
   },
   {
+   "away": "Kansas City Chiefs",
+   "home": "Buffalo Bills",
+   "model": 0.7002096020156281,
+   "market": 0.47725130112484343,
+   "qb": null,
+   "story": "Our model prices Buffalo Bills 22 points higher than the market does. Most likely culprit: fresh quarterback news \u2014 QB Garrett Nussmeier \u2014 Out (4h ago). QB uncertainty moves lines faster than anything. The line itself moved 10% in the last 48h (57% \u2192 48%), so whatever it is, money is acting on it."
+  },
+  {
    "away": "Houston Texans",
    "home": "Pittsburgh Steelers",
    "model": 0.5471820988831877,
    "market": 0.3386960203217612,
    "qb": null,
-   "story": "Our model prices Pittsburgh Steelers 21 points higher than the market does. No obvious injury or roster signal \u2014 the market may be pricing scheme, matchup, or information that hasn't surfaced publicly. The line itself moved 8% in the last 48h (41% \u2192 34%), so whatever it is, money is acting on it."
+   "story": "Our model prices Pittsburgh Steelers 21 points higher than the market does. Fantasy managers are moving too (WR Michael Pittman Jr.(PIT) 51,160 drops/24h), which usually tracks breaking roster news. The line itself moved 4% in the last 48h (38% \u2192 34%), so whatever it is, money is acting on it."
   }
  ]
 }
